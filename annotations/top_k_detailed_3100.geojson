@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4716795314, "name": "nan", "full_name": "operator Public Transport Victoria amenity vending_machine level 2 vending public_transport_tickets", "lat": -37.8190777, "lng": 144.9526357 }, "geometry": { "type": "Point", "coordinates": [ 144.9526357, -37.8190777 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4716795313, "name": "nan", "full_name": "operator Public Transport Victoria amenity vending_machine level 2 vending public_transport_tickets", "lat": -37.8190803, "lng": 144.9526277 }, "geometry": { "type": "Point", "coordinates": [ 144.9526277, -37.8190803 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4716795312, "name": "nan", "full_name": "operator Public Transport Victoria amenity vending_machine level 2 vending public_transport_tickets", "lat": -37.8190822, "lng": 144.9526203 }, "geometry": { "type": "Point", "coordinates": [ 144.9526203, -37.8190822 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4716795311, "name": "nan", "full_name": "operator Public Transport Victoria amenity vending_machine level 2 vending public_transport_tickets", "lat": -37.8190846, "lng": 144.952614 }, "geometry": { "type": "Point", "coordinates": [ 144.952614, -37.8190846 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4578372489, "name": "Tram half in the ground", "full_name": "Tram half in the ground tourism artwork", "lat": -37.8209036, "lng": 144.954704 }, "geometry": { "type": "Point", "coordinates": [ 144.954704, -37.8209036 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9553902060, "name": "nan", "full_name": "amenity taxi", "lat": -37.8191343, "lng": 144.9535757 }, "geometry": { "type": "Point", "coordinates": [ 144.953575699999988, -37.8191343 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1479930111, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.821161, "lng": 144.9551269 }, "geometry": { "type": "Point", "coordinates": [ 144.95512690000001, -37.821161 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1479930072, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8211798, "lng": 144.9550587 }, "geometry": { "type": "Point", "coordinates": [ 144.9550587, -37.8211798 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 589735262, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8214677, "lng": 144.9537203 }, "geometry": { "type": "Point", "coordinates": [ 144.953720299999986, -37.8214677 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 122817583, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8215114, "lng": 144.9537353 }, "geometry": { "type": "Point", "coordinates": [ 144.9537353, -37.8215114 ] } }
+]
+}

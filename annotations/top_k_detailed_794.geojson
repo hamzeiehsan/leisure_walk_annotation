@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11017310081, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.8548853, "lng": 144.9890604 }, "geometry": { "type": "Point", "coordinates": [ 144.9890604, -37.8548853 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10993906265, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.8525855, "lng": 144.9875228 }, "geometry": { "type": "Point", "coordinates": [ 144.9875228, -37.8525855 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10993906260, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.8540656, "lng": 144.9881131 }, "geometry": { "type": "Point", "coordinates": [ 144.9881131, -37.8540656 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10993906259, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.8524426, "lng": 144.9864327 }, "geometry": { "type": "Point", "coordinates": [ 144.9864327, -37.8524426 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10993906214, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.855488, "lng": 144.9879176 }, "geometry": { "type": "Point", "coordinates": [ 144.9879176, -37.855488 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10993906213, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.8554609, "lng": 144.9878289 }, "geometry": { "type": "Point", "coordinates": [ 144.987828900000011, -37.8554609 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10993906292, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.8523937, "lng": 144.9869767 }, "geometry": { "type": "Point", "coordinates": [ 144.986976700000014, -37.8523937 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10993906293, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.8519385, "lng": 144.9885078 }, "geometry": { "type": "Point", "coordinates": [ 144.9885078, -37.8519385 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11017253632, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.8541593, "lng": 144.988178 }, "geometry": { "type": "Point", "coordinates": [ 144.988178, -37.8541593 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11017310046, "name": "nan", "full_name": "crossing unmarked highway crossing", "lat": -37.8541079, "lng": 144.9889065 }, "geometry": { "type": "Point", "coordinates": [ 144.988906500000013, -37.8541079 ] } }
+]
+}

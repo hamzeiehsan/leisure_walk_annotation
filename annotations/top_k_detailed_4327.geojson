@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5674121284, "name": "Breadzone", "full_name": "Breadzone shop bakery", "lat": -37.7393022, "lng": 145.003635 }, "geometry": { "type": "Point", "coordinates": [ 145.003635, -37.7393022 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5640738693, "name": "Joe's Quality Corner", "full_name": "Joe's Quality Corner shop butcher note Shop W197", "lat": -37.7390612, "lng": 145.0017749 }, "geometry": { "type": "Point", "coordinates": [ 145.001774899999987, -37.7390612 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6017200204, "name": "No. 1 Vitamins", "full_name": "No. 1 Vitamins shop health_food", "lat": -37.73898, "lng": 145.0039968 }, "geometry": { "type": "Point", "coordinates": [ 145.00399680000001, -37.73898 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5640738695, "name": "Dens Quality Meats", "full_name": "Dens Quality Meats shop butcher note Shop W203", "lat": -37.7390751, "lng": 145.0019185 }, "geometry": { "type": "Point", "coordinates": [ 145.001918499999988, -37.7390751 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5640738708, "name": "Poultry Corner", "full_name": "Poultry Corner shop butcher note Shop W182", "lat": -37.7389237, "lng": 145.0014783 }, "geometry": { "type": "Point", "coordinates": [ 145.0014783, -37.7389237 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5638857298, "name": "C & H Fruit and Vegetables", "full_name": "C & H Fruit and Vegetables shop greengrocer note E161", "lat": -37.7390622, "lng": 145.0029818 }, "geometry": { "type": "Point", "coordinates": [ 145.002981799999986, -37.7390622 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5638857299, "name": "Egg and Pure Honey", "full_name": "Egg and Pure Honey shop greengrocer note Shop E173", "lat": -37.7391414, "lng": 145.0026613 }, "geometry": { "type": "Point", "coordinates": [ 145.0026613, -37.7391414 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5638857302, "name": "Vinzenzos Bakery", "full_name": "Vinzenzos Bakery shop bakery note Shop C244", "lat": -37.7393809, "lng": 145.0022864 }, "geometry": { "type": "Point", "coordinates": [ 145.0022864, -37.7393809 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5674121296, "name": "Tina's Hot Bread", "full_name": "Tina's Hot Bread shop bakery", "lat": -37.740156, "lng": 145.0035053 }, "geometry": { "type": "Point", "coordinates": [ 145.0035053, -37.740156 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5638857297, "name": "Gencarelli Fruit Supplies", "full_name": "Gencarelli Fruit Supplies shop greengrocer", "lat": -37.7390488, "lng": 145.0028524 }, "geometry": { "type": "Point", "coordinates": [ 145.0028524, -37.7390488 ] } }
+]
+}

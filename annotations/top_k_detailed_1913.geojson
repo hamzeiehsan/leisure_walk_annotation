@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1155346356, "name": "nan", "full_name": "amenity shelter building shelter_type pergola", "lat": -38.066250893449052, "lng": 145.45069278314384 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.450737800000013, -38.0662141 ], [ 145.450726, -38.0662869 ], [ 145.4506394, -38.0662752 ], [ 145.450650200000013, -38.0662273 ], [ 145.4506954, -38.0662329 ], [ 145.450700899999987, -38.0662085 ], [ 145.450737800000013, -38.0662141 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10581841556, "name": "nan", "full_name": "amenity bench", "lat": -38.0673874, "lng": 145.4509856 }, "geometry": { "type": "Point", "coordinates": [ 145.4509856, -38.0673874 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10581841555, "name": "nan", "full_name": "amenity bench", "lat": -38.0673999, "lng": 145.4509631 }, "geometry": { "type": "Point", "coordinates": [ 145.4509631, -38.0673999 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10574171843, "name": "nan", "full_name": "amenity bench", "lat": -38.0665262, "lng": 145.4520888 }, "geometry": { "type": "Point", "coordinates": [ 145.452088800000013, -38.0665262 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10574171844, "name": "nan", "full_name": "amenity bench", "lat": -38.0665557, "lng": 145.4521544 }, "geometry": { "type": "Point", "coordinates": [ 145.452154400000012, -38.0665557 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10574171846, "name": "nan", "full_name": "amenity bench", "lat": -38.0664059, "lng": 145.4526523 }, "geometry": { "type": "Point", "coordinates": [ 145.452652300000011, -38.0664059 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10574171847, "name": "nan", "full_name": "amenity bench", "lat": -38.0663532, "lng": 145.4526733 }, "geometry": { "type": "Point", "coordinates": [ 145.452673299999987, -38.0663532 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10581841551, "name": "nan", "full_name": "amenity bench", "lat": -38.0672947, "lng": 145.4504975 }, "geometry": { "type": "Point", "coordinates": [ 145.450497500000012, -38.0672947 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10581841552, "name": "nan", "full_name": "amenity bench", "lat": -38.0673007, "lng": 145.4505319 }, "geometry": { "type": "Point", "coordinates": [ 145.450531899999987, -38.0673007 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10581841554, "name": "nan", "full_name": "amenity bench", "lat": -38.067381, "lng": 145.450949 }, "geometry": { "type": "Point", "coordinates": [ 145.450949, -38.067381 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8014804754, "name": "Noîsette", "full_name": "Noîsette shop bakery", "lat": -37.8459296, "lng": 144.9925224 }, "geometry": { "type": "Point", "coordinates": [ 144.992522400000013, -37.8459296 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8015742737, "name": "J & L Meats", "full_name": "J & L Meats shop butcher", "lat": -37.8458416, "lng": 144.9921978 }, "geometry": { "type": "Point", "coordinates": [ 144.992197800000014, -37.8458416 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8015742739, "name": "D & J Poultry", "full_name": "D & J Poultry shop butcher", "lat": -37.8458769, "lng": 144.9922667 }, "geometry": { "type": "Point", "coordinates": [ 144.992266699999988, -37.8458769 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8014804751, "name": "Wonder Pies", "full_name": "Wonder Pies shop bakery", "lat": -37.8460397, "lng": 144.9923373 }, "geometry": { "type": "Point", "coordinates": [ 144.9923373, -37.8460397 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8015742729, "name": "Paddlewheel", "full_name": "Paddlewheel shop supermarket organic only", "lat": -37.8459263, "lng": 144.99261 }, "geometry": { "type": "Point", "coordinates": [ 144.99261, -37.8459263 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8015742750, "name": "Food House Deli", "full_name": "Food House Deli shop deli", "lat": -37.8461791, "lng": 144.9924679 }, "geometry": { "type": "Point", "coordinates": [ 144.9924679, -37.8461791 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8014804752, "name": "Lee's Asian Grocery", "full_name": "Lee's Asian Grocery shop supermarket", "lat": -37.8459557, "lng": 144.99234 }, "geometry": { "type": "Point", "coordinates": [ 144.99234, -37.8459557 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8008833005, "name": "The Fresh Pasta Shop", "full_name": "The Fresh Pasta Shop shop pasta", "lat": -37.8462147, "lng": 144.9925472 }, "geometry": { "type": "Point", "coordinates": [ 144.9925472, -37.8462147 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8015742732, "name": "Gary's Meats", "full_name": "Gary's Meats description Organic butcher shop butcher", "lat": -37.8457724, "lng": 144.9923838 }, "geometry": { "type": "Point", "coordinates": [ 144.9923838, -37.8457724 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8015742734, "name": "Neil's Meats", "full_name": "Neil's Meats shop butcher", "lat": -37.8457456, "lng": 144.9922971 }, "geometry": { "type": "Point", "coordinates": [ 144.9922971, -37.8457456 ] } }
+]
+}

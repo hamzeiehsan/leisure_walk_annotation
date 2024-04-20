@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 310184186, "name": "Cussonia Tree", "full_name": "Cussonia Tree access check_date 2023-03-05 leisure garden operator University of Melbourne", "lat": -37.797705379804682, "lng": 144.96052743729817 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9605076, -37.7976609 ], [ 144.9605392, -37.797652 ], [ 144.9605728, -37.7976629 ], [ 144.960594, -37.7976841 ], [ 144.9605941, -37.7977098 ], [ 144.9605654, -37.797743 ], [ 144.96053520000001, -37.7977571 ], [ 144.960493, -37.7977539 ], [ 144.9604589, -37.7977237 ], [ 144.9604615, -37.7976968 ], [ 144.9604856, -37.797671 ], [ 144.9605076, -37.7976609 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10738870663, "name": "nan", "full_name": "natural tree", "lat": -37.7981268, "lng": 144.9605441 }, "geometry": { "type": "Point", "coordinates": [ 144.9605441, -37.7981268 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9026510458, "name": "nan", "full_name": "natural tree", "lat": -37.7959127, "lng": 144.961015 }, "geometry": { "type": "Point", "coordinates": [ 144.961015, -37.7959127 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10738631544, "name": "nan", "full_name": "natural tree", "lat": -37.7976339, "lng": 144.9627728 }, "geometry": { "type": "Point", "coordinates": [ 144.96277280000001, -37.7976339 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10738631539, "name": "nan", "full_name": "natural tree", "lat": -37.7977563, "lng": 144.9628331 }, "geometry": { "type": "Point", "coordinates": [ 144.962833100000012, -37.7977563 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10738631537, "name": "nan", "full_name": "natural tree", "lat": -37.7976872, "lng": 144.9624284 }, "geometry": { "type": "Point", "coordinates": [ 144.9624284, -37.7976872 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10738631536, "name": "nan", "full_name": "natural tree", "lat": -37.7976736, "lng": 144.9623132 }, "geometry": { "type": "Point", "coordinates": [ 144.962313200000011, -37.7976736 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10738631533, "name": "nan", "full_name": "natural tree", "lat": -37.7975813, "lng": 144.9623833 }, "geometry": { "type": "Point", "coordinates": [ 144.9623833, -37.7975813 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10738631528, "name": "nan", "full_name": "natural tree", "lat": -37.7977369, "lng": 144.9627809 }, "geometry": { "type": "Point", "coordinates": [ 144.962780900000013, -37.7977369 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10738631518, "name": "nan", "full_name": "natural tree", "lat": -37.797701, "lng": 144.9625863 }, "geometry": { "type": "Point", "coordinates": [ 144.9625863, -37.797701 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653016702, "name": "nan", "full_name": "natural tree", "lat": -36.1280648, "lng": 146.8725199 }, "geometry": { "type": "Point", "coordinates": [ 146.872519899999986, -36.1280648 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653024314, "name": "nan", "full_name": "natural tree", "lat": -36.1290379, "lng": 146.8718287 }, "geometry": { "type": "Point", "coordinates": [ 146.8718287, -36.1290379 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653024312, "name": "nan", "full_name": "natural tree", "lat": -36.1290693, "lng": 146.8720701 }, "geometry": { "type": "Point", "coordinates": [ 146.8720701, -36.1290693 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653024311, "name": "nan", "full_name": "natural tree", "lat": -36.1290227, "lng": 146.8721854 }, "geometry": { "type": "Point", "coordinates": [ 146.8721854, -36.1290227 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653024310, "name": "nan", "full_name": "natural tree", "lat": -36.128883, "lng": 146.8720352 }, "geometry": { "type": "Point", "coordinates": [ 146.8720352, -36.128883 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653024309, "name": "nan", "full_name": "natural tree", "lat": -36.1285222, "lng": 146.8730161 }, "geometry": { "type": "Point", "coordinates": [ 146.8730161, -36.1285222 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653024308, "name": "nan", "full_name": "natural tree", "lat": -36.128491, "lng": 146.8725502 }, "geometry": { "type": "Point", "coordinates": [ 146.8725502, -36.128491 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653024307, "name": "nan", "full_name": "natural tree", "lat": -36.1283119, "lng": 146.8724533 }, "geometry": { "type": "Point", "coordinates": [ 146.872453299999989, -36.1283119 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653024306, "name": "nan", "full_name": "natural tree", "lat": -36.1283637, "lng": 146.872514 }, "geometry": { "type": "Point", "coordinates": [ 146.872514, -36.1283637 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10653024305, "name": "nan", "full_name": "natural tree", "lat": -36.1283873, "lng": 146.8725712 }, "geometry": { "type": "Point", "coordinates": [ 146.87257120000001, -36.1283873 ] } }
+]
+}

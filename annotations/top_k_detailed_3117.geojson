@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4364005741, "name": "Trial of Socrates", "full_name": "Trial of Socrates material copper tourism artwork artist_name Tom Bass artwork_type sculpture", "lat": -37.7980054, "lng": 144.9613412 }, "geometry": { "type": "Point", "coordinates": [ 144.9613412, -37.7980054 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3381853270, "name": "nan", "full_name": "amenity bicycle_repair_station brand Dero opening_hours 24/7 operator University of Melbourne source Transportation & Parking Website", "lat": -37.7985186, "lng": 144.9620192 }, "geometry": { "type": "Point", "coordinates": [ 144.962019199999986, -37.7985186 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3011901294, "name": "nan", "full_name": "check_date 2023-07-25 amenity waste_basket", "lat": -37.7983742, "lng": 144.9606904 }, "geometry": { "type": "Point", "coordinates": [ 144.9606904, -37.7983742 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2711797308, "name": "nan", "full_name": "check_date 2023-07-25 amenity waste_basket", "lat": -37.799447, "lng": 144.960686 }, "geometry": { "type": "Point", "coordinates": [ 144.960686, -37.799447 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5021242839, "name": "nan", "full_name": "check_date 2023-08-24 amenity waste_basket", "lat": -37.7976853, "lng": 144.9606528 }, "geometry": { "type": "Point", "coordinates": [ 144.9606528, -37.7976853 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3011901296, "name": "nan", "full_name": "check_date 2023-08-01 amenity waste_basket", "lat": -37.7985105, "lng": 144.9611108 }, "geometry": { "type": "Point", "coordinates": [ 144.9611108, -37.7985105 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2361227761, "name": "nan", "full_name": "check_date 2023-08-01 amenity waste_basket", "lat": -37.797295, "lng": 144.961142 }, "geometry": { "type": "Point", "coordinates": [ 144.961142, -37.797295 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2353036736, "name": "nan", "full_name": "check_date 2023-08-01 amenity waste_basket", "lat": -37.797361, "lng": 144.959121 }, "geometry": { "type": "Point", "coordinates": [ 144.959121, -37.797361 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2361236658, "name": "nan", "full_name": "check_date 2023-08-01 amenity waste_basket", "lat": -37.796057, "lng": 144.961667 }, "geometry": { "type": "Point", "coordinates": [ 144.961667, -37.796057 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2353039290, "name": "nan", "full_name": "check_date 2023-08-01 amenity waste_basket", "lat": -37.797362, "lng": 144.958738 }, "geometry": { "type": "Point", "coordinates": [ 144.958738, -37.797362 ] } }
+]
+}

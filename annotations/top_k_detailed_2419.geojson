@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4063307424, "name": "The Fairies Tree", "full_name": "The Fairies Tree artist_name Ola Cohn description Series of coloured carvings on the stump of an in-situ Red Gum tree. start_date 1934 tourism artwork inscription I have carved in a tree in the Fitzroy Gardens for you, and the fairies, but mostly for the fairies and those who believe in them, for they will understand how necessary it is to have a fairy sanctuary - a place that is sacred and safe as a home should be", "lat": -37.8133779, "lng": 144.9811459 }, "geometry": { "type": "Point", "coordinates": [ 144.9811459, -37.8133779 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10227776590, "name": "nan", "full_name": "natural tree", "lat": -37.814292, "lng": 144.9826145 }, "geometry": { "type": "Point", "coordinates": [ 144.982614500000011, -37.814292 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10227776588, "name": "nan", "full_name": "natural tree", "lat": -37.8142013, "lng": 144.9826853 }, "geometry": { "type": "Point", "coordinates": [ 144.982685300000014, -37.8142013 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10227776587, "name": "nan", "full_name": "natural tree", "lat": -37.8140425, "lng": 144.9826622 }, "geometry": { "type": "Point", "coordinates": [ 144.9826622, -37.8140425 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6761080546, "name": "nan", "full_name": "natural tree", "lat": -37.8135451, "lng": 144.9786661 }, "geometry": { "type": "Point", "coordinates": [ 144.9786661, -37.8135451 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10139298147, "name": "nan", "full_name": "natural tree", "lat": -37.8120985, "lng": 144.981095 }, "geometry": { "type": "Point", "coordinates": [ 144.981095, -37.8120985 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10139298146, "name": "nan", "full_name": "natural tree", "lat": -37.8117516, "lng": 144.9809812 }, "geometry": { "type": "Point", "coordinates": [ 144.9809812, -37.8117516 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10139298145, "name": "nan", "full_name": "natural tree", "lat": -37.8130781, "lng": 144.9823594 }, "geometry": { "type": "Point", "coordinates": [ 144.9823594, -37.8130781 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10139298144, "name": "nan", "full_name": "natural tree", "lat": -37.8129207, "lng": 144.9824366 }, "geometry": { "type": "Point", "coordinates": [ 144.9824366, -37.8129207 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10139298143, "name": "nan", "full_name": "natural tree", "lat": -37.8131006, "lng": 144.9821114 }, "geometry": { "type": "Point", "coordinates": [ 144.9821114, -37.8131006 ] } }
+]
+}

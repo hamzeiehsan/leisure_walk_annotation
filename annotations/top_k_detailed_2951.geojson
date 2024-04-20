@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2985420773, "name": "nan", "full_name": "amenity bbq", "lat": -36.1358907, "lng": 146.8762956 }, "geometry": { "type": "Point", "coordinates": [ 146.8762956, -36.1358907 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7339702721, "name": "nan", "full_name": "amenity bbq", "lat": -36.1364743, "lng": 146.8762462 }, "geometry": { "type": "Point", "coordinates": [ 146.8762462, -36.1364743 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9604334126, "name": "nan", "full_name": "leisure picnic_table table", "lat": -36.135972, "lng": 146.8763226 }, "geometry": { "type": "Point", "coordinates": [ 146.8763226, -36.135972 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9604334130, "name": "nan", "full_name": "leisure picnic_table table", "lat": -36.1363014, "lng": 146.8758147 }, "geometry": { "type": "Point", "coordinates": [ 146.8758147, -36.1363014 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9604334129, "name": "nan", "full_name": "leisure picnic_table table", "lat": -36.1359991, "lng": 146.8765305 }, "geometry": { "type": "Point", "coordinates": [ 146.8765305, -36.1359991 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9604334127, "name": "nan", "full_name": "leisure picnic_table table", "lat": -36.1359605, "lng": 146.8763518 }, "geometry": { "type": "Point", "coordinates": [ 146.8763518, -36.1359605 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9604334128, "name": "nan", "full_name": "leisure picnic_table table", "lat": -36.1360034, "lng": 146.8764987 }, "geometry": { "type": "Point", "coordinates": [ 146.876498700000013, -36.1360034 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9604334125, "name": "nan", "full_name": "leisure picnic_table table", "lat": -36.1357412, "lng": 146.8763173 }, "geometry": { "type": "Point", "coordinates": [ 146.876317300000011, -36.1357412 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7358653690, "name": "nan", "full_name": "leisure picnic_table table", "lat": -36.1357274, "lng": 146.8762835 }, "geometry": { "type": "Point", "coordinates": [ 146.8762835, -36.1357274 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10059893517, "name": "nan", "full_name": "leisure picnic_table table", "lat": -36.1358662, "lng": 146.876501 }, "geometry": { "type": "Point", "coordinates": [ 146.876501, -36.1358662 ] } }
+]
+}

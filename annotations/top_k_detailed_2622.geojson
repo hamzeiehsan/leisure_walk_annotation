@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5195525709, "name": "China House", "full_name": "China House shop houseware", "lat": -37.9513515, "lng": 145.1522329 }, "geometry": { "type": "Point", "coordinates": [ 145.1522329, -37.9513515 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4041045872, "name": "Healthy Cup", "full_name": "Healthy Cup shop tea", "lat": -37.9501102, "lng": 145.1515025 }, "geometry": { "type": "Point", "coordinates": [ 145.1515025, -37.9501102 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4041048202, "name": "Toppings and Tea", "full_name": "Toppings and Tea amenity cafe cuisine bubble_tea note Apparently Australia's 1st DIY Bubble Tea", "lat": -37.9505895, "lng": 145.1513876 }, "geometry": { "type": "Point", "coordinates": [ 145.1513876, -37.9505895 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5213608177, "name": "Lien Hung Chinese Grocery", "full_name": "Lien Hung Chinese Grocery shop greengrocer opening_hours 07:00-18:00 phone +61 3 9547 4808 check_date 2023-10-29 source survey wheelchair alt_name Lien Huong Asian Grocery level 0", "lat": -37.9501883, "lng": 145.15084 }, "geometry": { "type": "Point", "coordinates": [ 145.15084, -37.9501883 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4041045870, "name": "Gotcha", "full_name": "Gotcha amenity cafe shop beverages cuisine bubble_tea", "lat": -37.9507823, "lng": 145.151349 }, "geometry": { "type": "Point", "coordinates": [ 145.151349, -37.9507823 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4041048206, "name": "Chacha", "full_name": "Chacha amenity cafe operator Maxen Victoria Pty Ltd cuisine bubble_tea check_date 2023-10-29 outdoor_seating source survey wheelchair", "lat": -37.9497373, "lng": 145.1515767 }, "geometry": { "type": "Point", "coordinates": [ 145.1515767, -37.9497373 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5402561914, "name": "Yong Li Groceries", "full_name": "Yong Li Groceries shop convenience", "lat": -37.9507548, "lng": 145.1507708 }, "geometry": { "type": "Point", "coordinates": [ 145.1507708, -37.9507548 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5195526349, "name": "Coco Milk Tea", "full_name": "Coco Milk Tea shop beverages", "lat": -37.9504775, "lng": 145.1518425 }, "geometry": { "type": "Point", "coordinates": [ 145.151842499999987, -37.9504775 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4041048195, "name": "New Tea", "full_name": "New Tea building retail shop beverages", "lat": -37.9500501, "lng": 145.151515 }, "geometry": { "type": "Point", "coordinates": [ 145.151515, -37.9500501 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5195526338, "name": "Breadtop", "full_name": "Breadtop brand Breadtop shop bakery cuisine chinese", "lat": -37.9511483, "lng": 145.1522696 }, "geometry": { "type": "Point", "coordinates": [ 145.152269600000011, -37.9511483 ] } }
+]
+}

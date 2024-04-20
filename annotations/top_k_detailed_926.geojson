@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2308271109, "name": "nan", "full_name": "leisure playground", "lat": -36.6259275, "lng": 142.6295168 }, "geometry": { "type": "Point", "coordinates": [ 142.6295168, -36.6259275 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1808393491, "name": "Jack Emmett Billabong Camping Area", "full_name": "Jack Emmett Billabong Camping Area tourism camp_site", "lat": -36.6265278, "lng": 142.6293685 }, "geometry": { "type": "Point", "coordinates": [ 142.6293685, -36.6265278 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862455068, "name": "nan", "full_name": "natural tree", "lat": -36.6271884, "lng": 142.6315162 }, "geometry": { "type": "Point", "coordinates": [ 142.6315162, -36.6271884 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862455069, "name": "nan", "full_name": "natural tree", "lat": -36.627313, "lng": 142.6315285 }, "geometry": { "type": "Point", "coordinates": [ 142.6315285, -36.627313 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862455070, "name": "nan", "full_name": "natural tree", "lat": -36.6274109, "lng": 142.6315236 }, "geometry": { "type": "Point", "coordinates": [ 142.6315236, -36.6274109 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862455064, "name": "nan", "full_name": "natural tree", "lat": -36.626872, "lng": 142.6315125 }, "geometry": { "type": "Point", "coordinates": [ 142.631512500000014, -36.626872 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862455065, "name": "nan", "full_name": "natural tree", "lat": -36.6268819, "lng": 142.6318082 }, "geometry": { "type": "Point", "coordinates": [ 142.6318082, -36.6268819 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862455066, "name": "nan", "full_name": "natural tree", "lat": -36.6270846, "lng": 142.6315162 }, "geometry": { "type": "Point", "coordinates": [ 142.6315162, -36.6270846 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862455067, "name": "nan", "full_name": "natural tree", "lat": -36.6269758, "lng": 142.6315088 }, "geometry": { "type": "Point", "coordinates": [ 142.6315088, -36.6269758 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1167971575, "name": "St John the Baptist Catholic Church", "full_name": "St John the Baptist Catholic Church amenity place_of_worship building denomination catholic religion christian", "lat": -36.626935096640565, "lng": 142.63164586154011 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 142.6315798, -36.6269827 ], [ 142.6315863, -36.6269826 ], [ 142.6315981, -36.6269823 ], [ 142.631624, -36.6269817 ], [ 142.6316253, -36.626962 ], [ 142.631698, -36.6269631 ], [ 142.631698199999988, -36.6269679 ], [ 142.6316986, -36.6269801 ], [ 142.6317521, -36.6269801 ], [ 142.6317534, -36.6269112 ], [ 142.6316993, -36.6269107 ], [ 142.631697300000013, -36.6268942 ], [ 142.6315435, -36.6268942 ], [ 142.631544100000013, -36.6269631 ], [ 142.6315818, -36.6269626 ], [ 142.6315798, -36.6269827 ] ] ] } }
+]
+}

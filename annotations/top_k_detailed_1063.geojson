@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9494220477, "name": "nan", "full_name": "natural tree", "lat": -37.8152787, "lng": 145.228511 }, "geometry": { "type": "Point", "coordinates": [ 145.228511, -37.8152787 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9494220478, "name": "nan", "full_name": "natural tree", "lat": -37.8153055, "lng": 145.2284078 }, "geometry": { "type": "Point", "coordinates": [ 145.228407800000014, -37.8153055 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9494233025, "name": "nan", "full_name": "natural tree", "lat": -37.81512, "lng": 145.2290421 }, "geometry": { "type": "Point", "coordinates": [ 145.229042099999987, -37.81512 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9494233026, "name": "nan", "full_name": "natural tree", "lat": -37.815099, "lng": 145.2291156 }, "geometry": { "type": "Point", "coordinates": [ 145.2291156, -37.815099 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9494233027, "name": "nan", "full_name": "natural tree", "lat": -37.8150784, "lng": 145.2292244 }, "geometry": { "type": "Point", "coordinates": [ 145.2292244, -37.8150784 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9494220476, "name": "nan", "full_name": "natural tree", "lat": -37.8152489, "lng": 145.2286211 }, "geometry": { "type": "Point", "coordinates": [ 145.2286211, -37.8152489 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9494233028, "name": "nan", "full_name": "natural tree", "lat": -37.8150365, "lng": 145.2293288 }, "geometry": { "type": "Point", "coordinates": [ 145.2293288, -37.8150365 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9494233029, "name": "nan", "full_name": "natural tree", "lat": -37.8150176, "lng": 145.2294252 }, "geometry": { "type": "Point", "coordinates": [ 145.2294252, -37.8150176 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9494233030, "name": "nan", "full_name": "natural tree", "lat": -37.8149763, "lng": 145.2295221 }, "geometry": { "type": "Point", "coordinates": [ 145.2295221, -37.8149763 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 386612334, "name": "Warrandyte Road", "full_name": "Warrandyte Road highway primary network AU:VIC:S ref 9 maxspeed 60 oneway surface asphalt", "lat": -37.8145914, "lng": 145.23111215 }, "geometry": { "type": "LineString", "coordinates": [ [ 145.231086299999987, -37.8145365 ], [ 145.231138, -37.8146463 ] ] } }
+]
+}

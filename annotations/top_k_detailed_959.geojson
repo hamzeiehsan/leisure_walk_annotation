@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3132397598, "name": "nan", "full_name": "amenity drinking_water note Ornamental Temperance Movement drinking fountain, now with only a single drink tap remaining.", "lat": -37.8065641, "lng": 144.9598724 }, "geometry": { "type": "Point", "coordinates": [ 144.9598724, -37.8065641 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5366973128, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.806278, "lng": 144.9580758 }, "geometry": { "type": "Point", "coordinates": [ 144.958075799999989, -37.806278 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5665193626, "name": "nan", "full_name": "amenity drinking_water fountain bubbler", "lat": -37.806329, "lng": 144.9591317 }, "geometry": { "type": "Point", "coordinates": [ 144.9591317, -37.806329 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10170570714, "name": "nan", "full_name": "amenity drinking_water access", "lat": -37.8078615, "lng": 144.9610627 }, "geometry": { "type": "Point", "coordinates": [ 144.961062700000014, -37.8078615 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11413977669, "name": "nan", "full_name": "amenity drinking_water operator Melbourne City Council access bottle", "lat": -37.8072833, "lng": 144.9578831 }, "geometry": { "type": "Point", "coordinates": [ 144.9578831, -37.8072833 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3609869096, "name": "Elizabeth Supermarket", "full_name": "Elizabeth Supermarket shop convenience", "lat": -37.8075611, "lng": 144.9603092 }, "geometry": { "type": "Point", "coordinates": [ 144.960309200000012, -37.8075611 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 220594512, "name": "EPA Victoria", "full_name": "EPA Victoria building", "lat": -37.806071047372328, "lng": 144.96068082568013 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.96049210000001, -37.8058837 ], [ 144.9607475, -37.8059118 ], [ 144.9607495, -37.8059006 ], [ 144.960761100000013, -37.8058348 ], [ 144.9609235, -37.8058527 ], [ 144.9608775, -37.8060957 ], [ 144.960839600000014, -37.8062926 ], [ 144.960428799999988, -37.8062425 ], [ 144.96049210000001, -37.8058837 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11413967967, "name": "nan", "full_name": "amenity cafe", "lat": -37.806457, "lng": 144.9585856 }, "geometry": { "type": "Point", "coordinates": [ 144.9585856, -37.806457 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 603441424, "name": "Public Bar", "full_name": "Public Bar amenity pub", "lat": -37.8060078, "lng": 144.958518 }, "geometry": { "type": "Point", "coordinates": [ 144.958518, -37.8060078 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11359210986, "name": "The Mussel Pot", "full_name": "The Mussel Pot amenity fast_food ref A1-A4 wheelchair takeaway outdoor_seating level 0", "lat": -37.8063994, "lng": 144.9578975 }, "geometry": { "type": "Point", "coordinates": [ 144.9578975, -37.8063994 ] } }
+]
+}

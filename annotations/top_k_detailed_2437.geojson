@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2351730462, "name": "Foster Hot Bread", "full_name": "Foster Hot Bread shop bakery", "lat": -38.6522704, "lng": 146.2008532 }, "geometry": { "type": "Point", "coordinates": [ 146.200853200000012, -38.6522704 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7006951663, "name": "Stockyard Gallery", "full_name": "Stockyard Gallery tourism gallery", "lat": -38.650819, "lng": 146.1998131 }, "geometry": { "type": "Point", "coordinates": [ 146.1998131, -38.650819 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8448273121, "name": "Ando's", "full_name": "Ando's shop bakery", "lat": -38.6523162, "lng": 146.2004821 }, "geometry": { "type": "Point", "coordinates": [ 146.200482099999988, -38.6523162 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8448291919, "name": "Sam's Patch", "full_name": "Sam's Patch shop sewing phone +61 3 5682 2250", "lat": -38.6524368, "lng": 146.200635 }, "geometry": { "type": "Point", "coordinates": [ 146.200635, -38.6524368 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8448280221, "name": "Foster Seafood", "full_name": "Foster Seafood shop seafood phone +61 3 5682 2815", "lat": -38.6523025, "lng": 146.2008891 }, "geometry": { "type": "Point", "coordinates": [ 146.200889100000012, -38.6523025 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4571491694, "name": "nan", "full_name": "tourism picnic_site", "lat": -38.6514608, "lng": 146.1992877 }, "geometry": { "type": "Point", "coordinates": [ 146.199287700000014, -38.6514608 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 715904756, "name": "Foster Post Office", "full_name": "Foster Post Office amenity post_office brand Australia Post", "lat": -38.6520785, "lng": 146.2001588 }, "geometry": { "type": "Point", "coordinates": [ 146.2001588, -38.6520785 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 715899385, "name": "Foster Exchange Hotel", "full_name": "Foster Exchange Hotel amenity pub", "lat": -38.652431, "lng": 146.201646 }, "geometry": { "type": "Point", "coordinates": [ 146.201646, -38.652431 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2017647896, "name": "Glenn’s Sports & Gifts", "full_name": "Glenn’s Sports & Gifts shop bicycle", "lat": -38.6519676, "lng": 146.2004828 }, "geometry": { "type": "Point", "coordinates": [ 146.2004828, -38.6519676 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8448280223, "name": "Foodworks", "full_name": "Foodworks brand Foodworks shop supermarket", "lat": -38.6523731, "lng": 146.2010399 }, "geometry": { "type": "Point", "coordinates": [ 146.201039900000012, -38.6523731 ] } }
+]
+}

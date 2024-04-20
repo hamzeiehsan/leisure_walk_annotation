@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1594018592, "name": "Evans Home Made Pastries", "full_name": "Evans Home Made Pastries shop bakery", "lat": -37.5602496, "lng": 143.8582846 }, "geometry": { "type": "Point", "coordinates": [ 143.8582846, -37.5602496 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2950247251, "name": "nan", "full_name": "leisure playground", "lat": -37.5582035, "lng": 143.8573927 }, "geometry": { "type": "Point", "coordinates": [ 143.8573927, -37.5582035 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4349279968, "name": "nan", "full_name": "amenity vending_machine asset_ref 00251656 start_date 2013-07-01 vending parking_tickets", "lat": -37.5600164, "lng": 143.8564771 }, "geometry": { "type": "Point", "coordinates": [ 143.8564771, -37.5600164 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4349279941, "name": "nan", "full_name": "amenity vending_machine asset_ref 00251865 start_date 2001-01-01 vending parking_tickets", "lat": -37.559675, "lng": 143.8572992 }, "geometry": { "type": "Point", "coordinates": [ 143.8572992, -37.559675 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4349279919, "name": "nan", "full_name": "amenity vending_machine asset_ref 00251886 start_date 2001-01-01 vending parking_tickets", "lat": -37.5595295, "lng": 143.8563375 }, "geometry": { "type": "Point", "coordinates": [ 143.8563375, -37.5595295 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4349279930, "name": "nan", "full_name": "amenity vending_machine asset_ref 00251876 start_date 2001-01-01 vending parking_tickets", "lat": -37.5596032, "lng": 143.8559626 }, "geometry": { "type": "Point", "coordinates": [ 143.8559626, -37.5596032 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4349279982, "name": "nan", "full_name": "amenity vending_machine asset_ref 00251657 start_date 2013-07-01 vending parking_tickets", "lat": -37.560226, "lng": 143.8564363 }, "geometry": { "type": "Point", "coordinates": [ 143.856436300000013, -37.560226 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4349279953, "name": "nan", "full_name": "amenity vending_machine asset_ref 00251843 start_date 2001-01-01 vending parking_tickets", "lat": -37.5597746, "lng": 143.8573254 }, "geometry": { "type": "Point", "coordinates": [ 143.8573254, -37.5597746 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4349279924, "name": "nan", "full_name": "amenity vending_machine asset_ref 00251887 start_date 2001-01-01 vending parking_tickets", "lat": -37.5595472, "lng": 143.8562757 }, "geometry": { "type": "Point", "coordinates": [ 143.8562757, -37.5595472 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4349279921, "name": "nan", "full_name": "amenity vending_machine asset_ref 00251889 start_date 2001-01-01 vending parking_tickets", "lat": -37.5595343, "lng": 143.8561903 }, "geometry": { "type": "Point", "coordinates": [ 143.8561903, -37.5595343 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 635560292, "name": "Beechworth Bakery", "full_name": "Beechworth Bakery branch Healesville brand Beechworth Bakery opening_hours Mo-Su 06:30-17:00 shop bakery", "lat": -37.6521669, "lng": 145.5217981 }, "geometry": { "type": "Point", "coordinates": [ 145.521798100000012, -37.6521669 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4957928428, "name": "Innocent Bystander", "full_name": "Innocent Bystander opening_hours Mo-Su 10:00-22:00 amenity restaurant cuisine italian phone +61 3 5999 9222", "lat": -37.6520568, "lng": 145.5222617 }, "geometry": { "type": "Point", "coordinates": [ 145.5222617, -37.6520568 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4936370557, "name": "Innocent Bystander", "full_name": "Innocent Bystander opening_hours Mo-Su 10:00-22:00 shop wine amenity restaurant craft winery phone +61 3 5999 9222", "lat": -37.6520876, "lng": 145.5221728 }, "geometry": { "type": "Point", "coordinates": [ 145.5221728, -37.6520876 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4056201494, "name": "Yarra Valley Pasta", "full_name": "Yarra Valley Pasta amenity restaurant cuisine italian", "lat": -37.6506675, "lng": 145.5226886 }, "geometry": { "type": "Point", "coordinates": [ 145.5226886, -37.6506675 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4056169779, "name": "Eastend Fish n Chips", "full_name": "Eastend Fish n Chips amenity fast_food cuisine fish_and_chips", "lat": -37.6505847, "lng": 145.5227878 }, "geometry": { "type": "Point", "coordinates": [ 145.5227878, -37.6505847 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4056116747, "name": "Healesville R.S.L.", "full_name": "Healesville R.S.L. amenity restaurant", "lat": -37.6517122, "lng": 145.5210865 }, "geometry": { "type": "Point", "coordinates": [ 145.5210865, -37.6517122 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4056169781, "name": "The Bodhi Tree Cafe", "full_name": "The Bodhi Tree Cafe amenity cafe", "lat": -37.6507078, "lng": 145.5226161 }, "geometry": { "type": "Point", "coordinates": [ 145.5226161, -37.6507078 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 843327155, "name": "Paramparaa", "full_name": "Paramparaa amenity restaurant cuisine indian", "lat": -37.6526237, "lng": 145.5197118 }, "geometry": { "type": "Point", "coordinates": [ 145.51971180000001, -37.6526237 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4056185839, "name": "Bub's Mechanical Repair", "full_name": "Bub's Mechanical Repair shop car_repair", "lat": -37.651003, "lng": 145.5234959 }, "geometry": { "type": "Point", "coordinates": [ 145.5234959, -37.651003 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4936374483, "name": "Giant Steps", "full_name": "Giant Steps opening_hours Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 09:00-22:00; Su 09:00-21:00 amenity restaurant cuisine mediterranean phone +61 3 5962 6111", "lat": -37.6513402, "lng": 145.5227133 }, "geometry": { "type": "Point", "coordinates": [ 145.5227133, -37.6513402 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1391622062, "name": "TerryWhite Chemmart", "full_name": "TerryWhite Chemmart amenity pharmacy healthcare pharmacy opening_hours Mo-Fr 8:30-19:00; Sa 9:00-13:00 wheelchair", "lat": -36.7138, "lng": 142.19951 }, "geometry": { "type": "Point", "coordinates": [ 142.19951, -36.7138 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2409368263, "name": "Roberts Avenue Hair Design", "full_name": "Roberts Avenue Hair Design shop hairdresser wheelchair", "lat": -36.714093, "lng": 142.198932 }, "geometry": { "type": "Point", "coordinates": [ 142.198932, -36.714093 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 851834099, "name": "CFA District 17", "full_name": "CFA District 17 amenity fire_station", "lat": -36.713212, "lng": 142.200748 }, "geometry": { "type": "Point", "coordinates": [ 142.200748, -36.713212 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10791350105, "name": "Farmhouse Providore & Cafe", "full_name": "Farmhouse Providore & Cafe amenity cafe", "lat": -36.7137617, "lng": 142.1994314 }, "geometry": { "type": "Point", "coordinates": [ 142.1994314, -36.7137617 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1391645823, "name": "ANZ", "full_name": "ANZ amenity bank brand ANZ opening_hours Mo-Th 09:30-16:00; Fr 09:30-17:00 wheelchair official_name Australia and New Zealand Banking Group Limited", "lat": -36.7151343, "lng": 142.1999894 }, "geometry": { "type": "Point", "coordinates": [ 142.1999894, -36.7151343 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 851835978, "name": "Horsham Post Office", "full_name": "Horsham Post Office amenity post_office brand Australia Post opening_hours Mo-Fr 09:00-17:00; Sa 09:00-12:30 wheelchair operator Australia Post", "lat": -36.7133, "lng": 142.199962 }, "geometry": { "type": "Point", "coordinates": [ 142.199962, -36.7133 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2409367767, "name": "Cafe Jas", "full_name": "Cafe Jas amenity cafe phone +61 3 5382 3911 internet_access wlan outdoor_seating", "lat": -36.714527, "lng": 142.199031 }, "geometry": { "type": "Point", "coordinates": [ 142.199031, -36.714527 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 851801743, "name": "Exchange Hotel", "full_name": "Exchange Hotel amenity pub", "lat": -36.715768, "lng": 142.199307 }, "geometry": { "type": "Point", "coordinates": [ 142.199307, -36.715768 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1391641899, "name": "Fig Tree Caffé", "full_name": "Fig Tree Caffé amenity cafe", "lat": -36.714708, "lng": 142.199874 }, "geometry": { "type": "Point", "coordinates": [ 142.199874, -36.714708 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 851839941, "name": "Domino's", "full_name": "Domino's amenity fast_food brand Domino's wheelchair cuisine pizza delivery takeaway", "lat": -36.71259, "lng": 142.19996 }, "geometry": { "type": "Point", "coordinates": [ 142.19996, -36.71259 ] } }
+]
+}

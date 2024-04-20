@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375923628, "name": "Docklands Lotus", "full_name": "Docklands Lotus amenity restaurant cuisine chinese opening_hours Su,Mo 16:30-21:00; We-Sa 11:30-14:30,16:30-21:00; Tu off", "lat": -37.814202, "lng": 144.9433322 }, "geometry": { "type": "Point", "coordinates": [ 144.943332199999986, -37.814202 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375923629, "name": "Capri", "full_name": "Capri amenity cafe check_date 2023-11-13 opening_hours Mo-Sa 07:00-13:30", "lat": -37.8140911, "lng": 144.9428798 }, "geometry": { "type": "Point", "coordinates": [ 144.942879799999986, -37.8140911 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2849821022, "name": "Cafe Bourgeois", "full_name": "Cafe Bourgeois amenity cafe internet_access smoking outside wifi free", "lat": -37.8132379, "lng": 144.941182 }, "geometry": { "type": "Point", "coordinates": [ 144.941182, -37.8132379 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8379130100, "name": "nan", "full_name": "amenity drinking_water natural tree", "lat": -37.8143682, "lng": 144.9444647 }, "geometry": { "type": "Point", "coordinates": [ 144.9444647, -37.8143682 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11345589322, "name": "nan", "full_name": "amenity bicycle_parking", "lat": -37.8133452, "lng": 144.9436098 }, "geometry": { "type": "Point", "coordinates": [ 144.9436098, -37.8133452 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 989034076, "name": "nan", "full_name": "leisure garden", "lat": -37.814216336574802, "lng": 144.94425711934659 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.944168499999989, -37.8141692 ], [ 144.944334199999986, -37.8141514 ], [ 144.9442939, -37.814296 ], [ 144.9442282, -37.8142875 ], [ 144.944168499999989, -37.8141692 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375918793, "name": "Berth", "full_name": "Berth amenity restaurant", "lat": -37.815239, "lng": 144.94183 }, "geometry": { "type": "Point", "coordinates": [ 144.94183, -37.815239 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375919093, "name": "Man Mo", "full_name": "Man Mo amenity restaurant cuisine chinese", "lat": -37.8148247, "lng": 144.9418904 }, "geometry": { "type": "Point", "coordinates": [ 144.9418904, -37.8148247 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6174465050, "name": "nan", "full_name": "amenity bench", "lat": -37.8129785, "lng": 144.9421843 }, "geometry": { "type": "Point", "coordinates": [ 144.9421843, -37.8129785 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10279665794, "name": "The Dock Lounge", "full_name": "The Dock Lounge amenity bar", "lat": -37.8145304, "lng": 144.9418771 }, "geometry": { "type": "Point", "coordinates": [ 144.9418771, -37.8145304 ] } }
+]
+}

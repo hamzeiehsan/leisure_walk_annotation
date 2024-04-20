@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 523639520, "name": "Melbourne City Helipads", "full_name": "Melbourne City Helipads man_made pier area", "lat": -37.822264198489727, "lng": 144.9567909900415 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.956629099999986, -37.8222975 ], [ 144.9566719, -37.8223645 ], [ 144.956954200000013, -37.8222286 ], [ 144.9569067, -37.8221637 ], [ 144.9567657, -37.8222347 ], [ 144.956629099999986, -37.8222975 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2696065819, "name": "nan", "full_name": "source survey amenity bbq", "lat": -37.8216943, "lng": 144.9570652 }, "geometry": { "type": "Point", "coordinates": [ 144.957065199999988, -37.8216943 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11133379665, "name": "nan", "full_name": "amenity recycling recycling_type container", "lat": -37.8221075, "lng": 144.9592958 }, "geometry": { "type": "Point", "coordinates": [ 144.9592958, -37.8221075 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2696065816, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8212545, "lng": 144.9576708 }, "geometry": { "type": "Point", "coordinates": [ 144.957670799999988, -37.8212545 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2696065815, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8212487, "lng": 144.9581326 }, "geometry": { "type": "Point", "coordinates": [ 144.9581326, -37.8212487 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11290453453, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.82229, "lng": 144.9554545 }, "geometry": { "type": "Point", "coordinates": [ 144.9554545, -37.82229 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11133450439, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8228985, "lng": 144.9577254 }, "geometry": { "type": "Point", "coordinates": [ 144.957725399999987, -37.8228985 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11133379670, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8221037, "lng": 144.9593049 }, "geometry": { "type": "Point", "coordinates": [ 144.9593049, -37.8221037 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11133379666, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8217707, "lng": 144.9597849 }, "geometry": { "type": "Point", "coordinates": [ 144.959784899999988, -37.8217707 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8537078519, "name": "Mr Huang Jin", "full_name": "Mr Huang Jin amenity restaurant", "lat": -37.8198171, "lng": 144.9564848 }, "geometry": { "type": "Point", "coordinates": [ 144.9564848, -37.8198171 ] } }
+]
+}

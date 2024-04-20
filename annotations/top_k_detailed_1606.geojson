@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 301991143, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6945056, "lng": 144.9152926 }, "geometry": { "type": "Point", "coordinates": [ 144.915292599999987, -37.6945056 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 301991460, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6938208, "lng": 144.9151259 }, "geometry": { "type": "Point", "coordinates": [ 144.9151259, -37.6938208 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 301991468, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6948177, "lng": 144.9150594 }, "geometry": { "type": "Point", "coordinates": [ 144.9150594, -37.6948177 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419157840, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6947412, "lng": 144.9151691 }, "geometry": { "type": "Point", "coordinates": [ 144.915169100000014, -37.6947412 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419157841, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.693944, "lng": 144.9151421 }, "geometry": { "type": "Point", "coordinates": [ 144.9151421, -37.693944 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419157842, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6939045, "lng": 144.9154175 }, "geometry": { "type": "Point", "coordinates": [ 144.9154175, -37.6939045 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419157845, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6940852, "lng": 144.9152525 }, "geometry": { "type": "Point", "coordinates": [ 144.9152525, -37.6940852 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 736384448, "name": "nan", "full_name": "highway cycleway bicycle designated source Bing surface concrete foot designated bridge layer 1", "lat": -37.69604575, "lng": 144.9150678 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.915053, -37.6957406 ], [ 144.9150826, -37.6963509 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 27507380, "name": "M80 Trail", "full_name": "M80 Trail highway cycleway bicycle designated surface concrete foot designated bridge layer 1", "lat": -37.694209, "lng": 144.914103 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.914073, -37.6946946 ], [ 144.914133, -37.6937234 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 27507367, "name": "M80 Trail", "full_name": "M80 Trail highway cycleway bicycle designated wheelchair source yahoo surface concrete foot designated lit bridge layer 1", "lat": -37.694713259117407, "lng": 144.91569029131537 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9153978, -37.6947522 ], [ 144.915557, -37.6947171 ], [ 144.9158524, -37.6946972 ], [ 144.915877200000011, -37.6946976 ], [ 144.915985299999988, -37.6947052 ] ] } }
+]
+}

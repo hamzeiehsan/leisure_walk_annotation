@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5826018158, "name": "RocoMamas", "full_name": "RocoMamas amenity restaurant cuisine burger;steak_house phone +61 3 9533 8899 opening_hours Mo-We, Su 11:00-22:00; Th 11:00-23:00; Fr, Sa 11:00-00:00", "lat": -37.8526778, "lng": 144.9932815 }, "geometry": { "type": "Point", "coordinates": [ 144.9932815, -37.8526778 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 576869087, "name": "Grill'd", "full_name": "Grill'd amenity fast_food brand Grill'd cuisine burger takeaway", "lat": -37.8526642, "lng": 144.9930543 }, "geometry": { "type": "Point", "coordinates": [ 144.993054300000011, -37.8526642 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10718125607, "name": "Betty's Burgers", "full_name": "Betty's Burgers amenity fast_food brand Betty's Burgers cuisine burger takeaway", "lat": -37.8533783, "lng": 144.9930285 }, "geometry": { "type": "Point", "coordinates": [ 144.9930285, -37.8533783 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2632220289, "name": "Fonda Mexican", "full_name": "Fonda Mexican amenity restaurant cuisine mexican", "lat": -37.8531063, "lng": 144.9932561 }, "geometry": { "type": "Point", "coordinates": [ 144.9932561, -37.8531063 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10718125606, "name": "Freddy’s", "full_name": "Freddy’s amenity restaurant", "lat": -37.8552648, "lng": 144.9928141 }, "geometry": { "type": "Point", "coordinates": [ 144.9928141, -37.8552648 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4296243504, "name": "Yellow Bird Cafe", "full_name": "Yellow Bird Cafe amenity bar building", "lat": -37.8538581, "lng": 144.9930481 }, "geometry": { "type": "Point", "coordinates": [ 144.99304810000001, -37.8538581 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5826014703, "name": "Rebel Blues", "full_name": "Rebel Blues amenity restaurant cuisine greek", "lat": -37.855633, "lng": 144.9928507 }, "geometry": { "type": "Point", "coordinates": [ 144.9928507, -37.855633 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 576798699, "name": "Union Hotel", "full_name": "Union Hotel amenity pub", "lat": -37.854942, "lng": 144.993065 }, "geometry": { "type": "Point", "coordinates": [ 144.993065, -37.854942 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6388380285, "name": "Tusk", "full_name": "Tusk amenity restaurant", "lat": -37.8533197, "lng": 144.9929348 }, "geometry": { "type": "Point", "coordinates": [ 144.9929348, -37.8533197 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 576801078, "name": "The Swan Hotel", "full_name": "The Swan Hotel amenity pub", "lat": -37.8528073, "lng": 144.99345 }, "geometry": { "type": "Point", "coordinates": [ 144.99345, -37.8528073 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 633537314, "name": "Kyneton Community Park", "full_name": "Kyneton Community Park leisure playground", "lat": -37.253744341511911, "lng": 144.4486391199851 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.4491188, -37.253588 ], [ 144.4489489, -37.2534749 ], [ 144.4486441, -37.2534024 ], [ 144.448321600000014, -37.2534701 ], [ 144.4481888, -37.2536618 ], [ 144.4482157, -37.2538926 ], [ 144.4482964, -37.2540309 ], [ 144.4485805, -37.2540998 ], [ 144.448916, -37.2540074 ], [ 144.4490841, -37.2538417 ], [ 144.4491188, -37.253588 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10289281691, "name": "nan", "full_name": "bench leisure picnic_table material wood", "lat": -37.2534623, "lng": 144.4510272 }, "geometry": { "type": "Point", "coordinates": [ 144.4510272, -37.2534623 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10289281686, "name": "nan", "full_name": "bench leisure picnic_table material wood", "lat": -37.2533888, "lng": 144.4508946 }, "geometry": { "type": "Point", "coordinates": [ 144.4508946, -37.2533888 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10289281679, "name": "nan", "full_name": "bench leisure picnic_table material wood", "lat": -37.2538257, "lng": 144.4490174 }, "geometry": { "type": "Point", "coordinates": [ 144.4490174, -37.2538257 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10289281678, "name": "nan", "full_name": "bench leisure picnic_table material wood", "lat": -37.2538651, "lng": 144.4489954 }, "geometry": { "type": "Point", "coordinates": [ 144.4489954, -37.2538651 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10289281673, "name": "nan", "full_name": "bench leisure picnic_table material wood", "lat": -37.254197, "lng": 144.4520653 }, "geometry": { "type": "Point", "coordinates": [ 144.452065299999987, -37.254197 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10289281675, "name": "nan", "full_name": "bench leisure picnic_table material wood", "lat": -37.2539378, "lng": 144.4520331 }, "geometry": { "type": "Point", "coordinates": [ 144.4520331, -37.2539378 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10289281685, "name": "nan", "full_name": "bench leisure picnic_table material concrete", "lat": -37.2533348, "lng": 144.4500675 }, "geometry": { "type": "Point", "coordinates": [ 144.450067499999989, -37.2533348 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10281584310, "name": "nan", "full_name": "leisure picnic_table", "lat": -37.2543353, "lng": 144.4507185 }, "geometry": { "type": "Point", "coordinates": [ 144.4507185, -37.2543353 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10281606513, "name": "nan", "full_name": "leisure picnic_table", "lat": -37.2546777, "lng": 144.4484721 }, "geometry": { "type": "Point", "coordinates": [ 144.4484721, -37.2546777 ] } }
+]
+}

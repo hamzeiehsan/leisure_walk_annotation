@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4952238056, "name": "nan", "full_name": "circumference 1.82 natural tree species Calodendron capense", "lat": -37.8096091, "lng": 144.9546366 }, "geometry": { "type": "Point", "coordinates": [ 144.954636599999986, -37.8096091 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4952238262, "name": "nan", "full_name": "circumference 0.94 natural tree species Calodendron capense", "lat": -37.8114836, "lng": 144.956054 }, "geometry": { "type": "Point", "coordinates": [ 144.956054, -37.8114836 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9146197743, "name": "nan", "full_name": "natural tree", "lat": -37.811986, "lng": 144.9560067 }, "geometry": { "type": "Point", "coordinates": [ 144.956006699999989, -37.811986 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6907085056, "name": "nan", "full_name": "natural tree", "lat": -37.8117777, "lng": 144.9569825 }, "geometry": { "type": "Point", "coordinates": [ 144.9569825, -37.8117777 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6907085055, "name": "nan", "full_name": "natural tree", "lat": -37.8119005, "lng": 144.9571115 }, "geometry": { "type": "Point", "coordinates": [ 144.9571115, -37.8119005 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6907085054, "name": "nan", "full_name": "natural tree", "lat": -37.8120033, "lng": 144.9572365 }, "geometry": { "type": "Point", "coordinates": [ 144.9572365, -37.8120033 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6907085053, "name": "nan", "full_name": "natural tree", "lat": -37.8122433, "lng": 144.957333 }, "geometry": { "type": "Point", "coordinates": [ 144.957333, -37.8122433 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9146197755, "name": "nan", "full_name": "natural tree", "lat": -37.8098398, "lng": 144.9556614 }, "geometry": { "type": "Point", "coordinates": [ 144.9556614, -37.8098398 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9146197754, "name": "nan", "full_name": "natural tree", "lat": -37.810099, "lng": 144.9557886 }, "geometry": { "type": "Point", "coordinates": [ 144.9557886, -37.810099 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9146197753, "name": "nan", "full_name": "natural tree", "lat": -37.8105269, "lng": 144.9562323 }, "geometry": { "type": "Point", "coordinates": [ 144.956232300000011, -37.8105269 ] } }
+]
+}

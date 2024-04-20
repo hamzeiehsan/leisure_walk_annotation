@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5980632412, "name": "nan", "full_name": "leisure picnic_table", "lat": -37.7441008, "lng": 144.8005831 }, "geometry": { "type": "Point", "coordinates": [ 144.800583100000011, -37.7441008 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5980632411, "name": "Do’s Cafe", "full_name": "Do’s Cafe amenity cafe opening_hours Mo-Fr 06:00-15:00; Sa 07:00-15:00; Su off", "lat": -37.7443814, "lng": 144.8022043 }, "geometry": { "type": "Point", "coordinates": [ 144.8022043, -37.7443814 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5989329775, "name": "Ái Huê", "full_name": "Ái Huê phone +61 3 9077 8979 amenity restaurant cuisine chinese opening_hours Mo-Su 10:30-21:30", "lat": -37.7443263, "lng": 144.8019498 }, "geometry": { "type": "Point", "coordinates": [ 144.801949799999988, -37.7443263 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5980632212, "name": "nan", "full_name": "amenity bench", "lat": -37.74365, "lng": 144.8004741 }, "geometry": { "type": "Point", "coordinates": [ 144.8004741, -37.74365 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5980632402, "name": "nan", "full_name": "amenity bench", "lat": -37.74275, "lng": 144.8006167 }, "geometry": { "type": "Point", "coordinates": [ 144.8006167, -37.74275 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5980632235, "name": "nan", "full_name": "amenity bench", "lat": -37.7441963, "lng": 144.8005481 }, "geometry": { "type": "Point", "coordinates": [ 144.800548099999986, -37.7441963 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5999504264, "name": "nan", "full_name": "amenity bench", "lat": -37.7448542, "lng": 144.8006335 }, "geometry": { "type": "Point", "coordinates": [ 144.8006335, -37.7448542 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5980632226, "name": "nan", "full_name": "amenity bench", "lat": -37.742801, "lng": 144.8006152 }, "geometry": { "type": "Point", "coordinates": [ 144.80061520000001, -37.742801 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5980632040, "name": "nan", "full_name": "amenity bench", "lat": -37.742933, "lng": 144.8006031 }, "geometry": { "type": "Point", "coordinates": [ 144.800603099999989, -37.742933 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5980632193, "name": "nan", "full_name": "amenity bench", "lat": -37.7443846, "lng": 144.8004351 }, "geometry": { "type": "Point", "coordinates": [ 144.800435099999987, -37.7443846 ] } }
+]
+}

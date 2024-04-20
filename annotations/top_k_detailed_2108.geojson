@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10970564936, "name": "nan", "full_name": "amenity waste_basket", "lat": -35.0804982, "lng": 138.4960865 }, "geometry": { "type": "Point", "coordinates": [ 138.4960865, -35.0804982 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10299623182, "name": "nan", "full_name": "tourism information board_type geology information board", "lat": -35.0774063, "lng": 138.4968572 }, "geometry": { "type": "Point", "coordinates": [ 138.4968572, -35.0774063 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3965254612, "name": "Boatshed Cafe", "full_name": "Boatshed Cafe amenity cafe", "lat": -35.0787302, "lng": 138.4967218 }, "geometry": { "type": "Point", "coordinates": [ 138.496721799999989, -35.0787302 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10299623168, "name": "Sugarloaf", "full_name": "Sugarloaf tourism attraction", "lat": -35.0769827, "lng": 138.498308 }, "geometry": { "type": "Point", "coordinates": [ 138.498308, -35.0769827 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1126390660, "name": "nan", "full_name": "amenity parking parking surface", "lat": -35.07892775000001, "lng": 138.49653725000002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 138.4966011, -35.0790665 ], [ 138.4964215, -35.0790418 ], [ 138.496473400000013, -35.078789 ], [ 138.496653, -35.0788137 ], [ 138.4966011, -35.0790665 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5502274844, "name": "nan", "full_name": "amenity toilets", "lat": -35.0788249, "lng": 138.4967309 }, "geometry": { "type": "Point", "coordinates": [ 138.496730899999989, -35.0788249 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10968588605, "name": "nan", "full_name": "amenity bench", "lat": -35.0794009, "lng": 138.4963476 }, "geometry": { "type": "Point", "coordinates": [ 138.4963476, -35.0794009 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10968588505, "name": "nan", "full_name": "amenity bench", "lat": -35.0792879, "lng": 138.4963561 }, "geometry": { "type": "Point", "coordinates": [ 138.496356100000014, -35.0792879 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10968588506, "name": "nan", "full_name": "amenity bench", "lat": -35.0793458, "lng": 138.496354 }, "geometry": { "type": "Point", "coordinates": [ 138.496354, -35.0793458 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4089738059, "name": "nan", "full_name": "highway turning_circle", "lat": -35.0788785, "lng": 138.4978205 }, "geometry": { "type": "Point", "coordinates": [ 138.497820499999989, -35.0788785 ] } }
+]
+}

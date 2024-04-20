@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9949041925, "name": "Wild Flour", "full_name": "Wild Flour shop bakery", "lat": -37.8503978, "lng": 144.9917029 }, "geometry": { "type": "Point", "coordinates": [ 144.9917029, -37.8503978 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1419188687, "name": "Lord of the Fries", "full_name": "Lord of the Fries amenity fast_food brand Lord of the Fries cuisine burger takeaway", "lat": -37.8521892, "lng": 144.9933929 }, "geometry": { "type": "Point", "coordinates": [ 144.9933929, -37.8521892 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10718125607, "name": "Betty's Burgers", "full_name": "Betty's Burgers amenity fast_food brand Betty's Burgers cuisine burger takeaway", "lat": -37.8533783, "lng": 144.9930285 }, "geometry": { "type": "Point", "coordinates": [ 144.9930285, -37.8533783 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6499347304, "name": "Lukumades", "full_name": "Lukumades shop pastry opening_hours Mo-Th, Su 10:00-22:00; Fr, Sa 10:00-23:00 phone +61 423 969 923 description Greek doughnuts", "lat": -37.8523736, "lng": 144.9933314 }, "geometry": { "type": "Point", "coordinates": [ 144.993331399999988, -37.8523736 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 576869087, "name": "Grill'd", "full_name": "Grill'd amenity fast_food brand Grill'd cuisine burger takeaway", "lat": -37.8526642, "lng": 144.9930543 }, "geometry": { "type": "Point", "coordinates": [ 144.993054300000011, -37.8526642 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4301904989, "name": "David's", "full_name": "David's amenity restaurant cuisine chinese", "lat": -37.8505771, "lng": 144.9941492 }, "geometry": { "type": "Point", "coordinates": [ 144.99414920000001, -37.8505771 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8282332603, "name": "Vicious and Delicious", "full_name": "Vicious and Delicious amenity restaurant cuisine arab", "lat": -37.8498587, "lng": 144.9938277 }, "geometry": { "type": "Point", "coordinates": [ 144.9938277, -37.8498587 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2632220289, "name": "Fonda Mexican", "full_name": "Fonda Mexican amenity restaurant cuisine mexican", "lat": -37.8531063, "lng": 144.9932561 }, "geometry": { "type": "Point", "coordinates": [ 144.9932561, -37.8531063 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6911036985, "name": "Yoku Ono", "full_name": "Yoku Ono amenity restaurant cuisine japanese", "lat": -37.8509571, "lng": 144.9940812 }, "geometry": { "type": "Point", "coordinates": [ 144.994081200000011, -37.8509571 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 575356730, "name": "7-Eleven", "full_name": "7-Eleven brand 7-Eleven shop convenience", "lat": -37.852015, "lng": 144.993573 }, "geometry": { "type": "Point", "coordinates": [ 144.993573, -37.852015 ] } }
+]
+}

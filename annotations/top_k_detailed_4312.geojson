@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 46740019, "name": "David Jones", "full_name": "David Jones brand David Jones building shop department_store construction landuse construction", "lat": -37.814362640290803, "lng": 144.96490609777769 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9645885, -37.8139783 ], [ 144.9647114, -37.8139418 ], [ 144.964809699999989, -37.8139126 ], [ 144.964953400000013, -37.8142203 ], [ 144.9649909, -37.8142097 ], [ 144.9652251, -37.814714 ], [ 144.9650829, -37.8147513 ], [ 144.9649614, -37.8147903 ], [ 144.9645885, -37.8139783 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6060217809, "name": "Hunt", "full_name": "Hunt wheelchair shop clothes level 0", "lat": -37.8169059, "lng": 144.9651534 }, "geometry": { "type": "Point", "coordinates": [ 144.9651534, -37.8169059 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1763074706, "name": "Victorian Hobby Centre", "full_name": "Victorian Hobby Centre shop hobby hobby model_trains;planes;boats;cars", "lat": -37.816865, "lng": 144.9668211 }, "geometry": { "type": "Point", "coordinates": [ 144.9668211, -37.816865 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3276141241, "name": "Bailey Nelson", "full_name": "Bailey Nelson shop optician level 0", "lat": -37.8167188, "lng": 144.9663583 }, "geometry": { "type": "Point", "coordinates": [ 144.9663583, -37.8167188 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9898727373, "name": "Dean's Souvenirs Australiana", "full_name": "Dean's Souvenirs Australiana shop gift check_date 2022-07-20 level 0 gift souvenirs", "lat": -37.8168105, "lng": 144.9669339 }, "geometry": { "type": "Point", "coordinates": [ 144.966933899999987, -37.8168105 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10603070242, "name": "nan", "full_name": "natural tree", "lat": -37.8161032, "lng": 144.9669311 }, "geometry": { "type": "Point", "coordinates": [ 144.966931100000011, -37.8161032 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10603070241, "name": "nan", "full_name": "natural tree", "lat": -37.8160443, "lng": 144.9669072 }, "geometry": { "type": "Point", "coordinates": [ 144.9669072, -37.8160443 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10603070240, "name": "nan", "full_name": "natural tree", "lat": -37.8159782, "lng": 144.9668697 }, "geometry": { "type": "Point", "coordinates": [ 144.9668697, -37.8159782 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10603070227, "name": "nan", "full_name": "natural tree", "lat": -37.8165582, "lng": 144.9667576 }, "geometry": { "type": "Point", "coordinates": [ 144.9667576, -37.8165582 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10935513205, "name": "nan", "full_name": "natural tree", "lat": -37.8170875, "lng": 144.9680711 }, "geometry": { "type": "Point", "coordinates": [ 144.9680711, -37.8170875 ] } }
+]
+}

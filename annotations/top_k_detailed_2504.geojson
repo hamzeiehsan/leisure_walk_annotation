@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10270531427, "name": "CT Mart", "full_name": "CT Mart cuisine korean shop convenience", "lat": -37.8131185, "lng": 144.9559899 }, "geometry": { "type": "Point", "coordinates": [ 144.9559899, -37.8131185 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10575862606, "name": "Rolling Nori", "full_name": "Rolling Nori amenity fast_food cuisine sushi;japanese level 0 takeaway", "lat": -37.8152861, "lng": 144.9541281 }, "geometry": { "type": "Point", "coordinates": [ 144.9541281, -37.8152861 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 660027524, "name": "Madras Banyan Tree", "full_name": "Madras Banyan Tree amenity restaurant cuisine indian", "lat": -37.816134, "lng": 144.955385 }, "geometry": { "type": "Point", "coordinates": [ 144.955385, -37.816134 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 660508725, "name": "Itoya", "full_name": "Itoya amenity restaurant cuisine japanese", "lat": -37.8163389, "lng": 144.9530961 }, "geometry": { "type": "Point", "coordinates": [ 144.95309610000001, -37.8163389 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 660024093, "name": "Subway", "full_name": "Subway amenity fast_food brand Subway cuisine sandwich takeaway", "lat": -37.8160127, "lng": 144.9553396 }, "geometry": { "type": "Point", "coordinates": [ 144.9553396, -37.8160127 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1288897417, "name": "Subway", "full_name": "Subway amenity fast_food brand Subway cuisine sandwich takeaway", "lat": -37.8137317, "lng": 144.9566023 }, "geometry": { "type": "Point", "coordinates": [ 144.956602299999986, -37.8137317 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 660027391, "name": "MPB (Melbourne Pizza Bar)", "full_name": "MPB (Melbourne Pizza Bar) amenity fast_food cuisine pizza", "lat": -37.815849, "lng": 144.9552513 }, "geometry": { "type": "Point", "coordinates": [ 144.955251299999986, -37.815849 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1910970546, "name": "Mr. Nice Guy", "full_name": "Mr. Nice Guy amenity restaurant cuisine thai", "lat": -37.813438, "lng": 144.955857 }, "geometry": { "type": "Point", "coordinates": [ 144.955857, -37.813438 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 633912829, "name": "Nando's", "full_name": "Nando's amenity restaurant brand Nando's cuisine chicken;portuguese", "lat": -37.8158129, "lng": 144.955797 }, "geometry": { "type": "Point", "coordinates": [ 144.955797, -37.8158129 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10575862603, "name": "Onsen Domburi", "full_name": "Onsen Domburi amenity restaurant cuisine japanese level 0 takeaway", "lat": -37.814854, "lng": 144.9541007 }, "geometry": { "type": "Point", "coordinates": [ 144.9541007, -37.814854 ] } }
+]
+}

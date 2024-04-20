@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2034295492, "name": "nan", "full_name": "amenity toilets", "lat": -38.112308, "lng": 147.0692726 }, "geometry": { "type": "Point", "coordinates": [ 147.0692726, -38.112308 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8972876187, "name": "nan", "full_name": "amenity drinking_water", "lat": -38.1122492, "lng": 147.0692642 }, "geometry": { "type": "Point", "coordinates": [ 147.0692642, -38.1122492 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2626918288, "name": "nan", "full_name": "amenity parking", "lat": -38.1117332, "lng": 147.0691232 }, "geometry": { "type": "Point", "coordinates": [ 147.0691232, -38.1117332 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2329271590, "name": "nan", "full_name": "amenity bbq", "lat": -38.1117092, "lng": 147.0688941 }, "geometry": { "type": "Point", "coordinates": [ 147.0688941, -38.1117092 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 320981040, "name": "nan", "full_name": "highway trunk maxspeed 60 network AU:VIC oneway ref A440 surface paved", "lat": -38.112834568618645, "lng": 147.06843131113598 }, "geometry": { "type": "LineString", "coordinates": [ [ 147.0684972, -38.1141363 ], [ 147.0684684, -38.1136794 ], [ 147.0684587, -38.1135068 ], [ 147.0683821, -38.1117067 ], [ 147.0683718, -38.1115325 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2329271643, "name": "nan", "full_name": "amenity bench", "lat": -38.1116522, "lng": 147.0696022 }, "geometry": { "type": "Point", "coordinates": [ 147.0696022, -38.1116522 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6548873193, "name": "nan", "full_name": "amenity bench", "lat": -38.112382, "lng": 147.0693746 }, "geometry": { "type": "Point", "coordinates": [ 147.0693746, -38.112382 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2329271640, "name": "nan", "full_name": "amenity bench", "lat": -38.1118759, "lng": 147.0693957 }, "geometry": { "type": "Point", "coordinates": [ 147.0693957, -38.1118759 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 92829197, "name": "Marley Street", "full_name": "Marley Street highway service source Bing oneway", "lat": -38.110775190641206, "lng": 147.07098536903624 }, "geometry": { "type": "LineString", "coordinates": [ [ 147.0709647, -38.1110953 ], [ 147.070982500000014, -38.1110693 ], [ 147.070992499999988, -38.1110368 ], [ 147.0709961, -38.1110129 ], [ 147.070971899999989, -38.1105577 ], [ 147.070978200000013, -38.1105373 ], [ 147.0710133, -38.1104552 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2025953194, "name": "Little McMillan Park Playground", "full_name": "Little McMillan Park Playground leisure playground", "lat": -38.1118712, "lng": 147.0688804 }, "geometry": { "type": "Point", "coordinates": [ 147.068880400000012, -38.1118712 ] } }
+]
+}

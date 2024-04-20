@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7037310159, "name": "Silence", "full_name": "Silence artist_name Adrian Mauriks artwork_type sculpture material fibreglass tourism artwork", "lat": -37.8151388, "lng": 144.9415529 }, "geometry": { "type": "Point", "coordinates": [ 144.9415529, -37.8151388 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1224869090, "name": "nan", "full_name": "natural tree", "lat": -37.8132443, "lng": 144.9408914 }, "geometry": { "type": "Point", "coordinates": [ 144.9408914, -37.8132443 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 635530868, "name": "nan", "full_name": "natural tree", "lat": -37.8134496, "lng": 144.9412655 }, "geometry": { "type": "Point", "coordinates": [ 144.941265499999986, -37.8134496 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 635530813, "name": "nan", "full_name": "natural tree", "lat": -37.8131953, "lng": 144.9419293 }, "geometry": { "type": "Point", "coordinates": [ 144.9419293, -37.8131953 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 635530818, "name": "nan", "full_name": "natural tree", "lat": -37.8132345, "lng": 144.9418287 }, "geometry": { "type": "Point", "coordinates": [ 144.9418287, -37.8132345 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 635530821, "name": "nan", "full_name": "natural tree", "lat": -37.8132738, "lng": 144.9417281 }, "geometry": { "type": "Point", "coordinates": [ 144.9417281, -37.8132738 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 635530824, "name": "nan", "full_name": "natural tree", "lat": -37.8133384, "lng": 144.9415565 }, "geometry": { "type": "Point", "coordinates": [ 144.9415565, -37.8133384 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 635530827, "name": "nan", "full_name": "natural tree", "lat": -37.8133755, "lng": 144.9414599 }, "geometry": { "type": "Point", "coordinates": [ 144.941459900000012, -37.8133755 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 635530838, "name": "nan", "full_name": "natural tree", "lat": -37.8134168, "lng": 144.9413526 }, "geometry": { "type": "Point", "coordinates": [ 144.941352599999988, -37.8134168 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 635530900, "name": "nan", "full_name": "natural tree", "lat": -37.8134878, "lng": 144.9411608 }, "geometry": { "type": "Point", "coordinates": [ 144.9411608, -37.8134878 ] } }
+]
+}

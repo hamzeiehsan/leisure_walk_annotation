@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4331592690, "name": "Ziggy's Eatery", "full_name": "Ziggy's Eatery amenity restaurant", "lat": -37.8687953, "lng": 144.9932148 }, "geometry": { "type": "Point", "coordinates": [ 144.9932148, -37.8687953 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1749607867, "name": "G'rilld", "full_name": "G'rilld amenity fast_food", "lat": -37.8687551, "lng": 144.9924226 }, "geometry": { "type": "Point", "coordinates": [ 144.9924226, -37.8687551 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6088742400, "name": "Levanter Cafe", "full_name": "Levanter Cafe amenity cafe", "lat": -37.8686765, "lng": 144.9940191 }, "geometry": { "type": "Point", "coordinates": [ 144.9940191, -37.8686765 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4959506928, "name": "Yo Chi", "full_name": "Yo Chi amenity cafe", "lat": -37.8686527, "lng": 144.9939283 }, "geometry": { "type": "Point", "coordinates": [ 144.9939283, -37.8686527 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7599415926, "name": "Ilona Stoller", "full_name": "Ilona Stoller amenity restaurant", "lat": -37.8686171, "lng": 144.993446 }, "geometry": { "type": "Point", "coordinates": [ 144.993446, -37.8686171 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 937619910, "name": "The Coffee Company", "full_name": "The Coffee Company shop convenience phone +61 3 9534 6604", "lat": -37.8685227, "lng": 144.9926448 }, "geometry": { "type": "Point", "coordinates": [ 144.9926448, -37.8685227 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1749607879, "name": "Baker in the Rye", "full_name": "Baker in the Rye shop bakery", "lat": -37.8687658, "lng": 144.9925324 }, "geometry": { "type": "Point", "coordinates": [ 144.992532399999988, -37.8687658 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1009638318, "name": "Batch Espresso", "full_name": "Batch Espresso amenity cafe phone +61 3 9530 3550", "lat": -37.8688069, "lng": 144.9953459 }, "geometry": { "type": "Point", "coordinates": [ 144.9953459, -37.8688069 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 937619912, "name": "Las Chicas", "full_name": "Las Chicas amenity cafe", "lat": -37.8688614, "lng": 144.9933636 }, "geometry": { "type": "Point", "coordinates": [ 144.9933636, -37.8688614 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 937619906, "name": "Fresh Food Corner Butchers", "full_name": "Fresh Food Corner Butchers shop butcher wheelchair limited", "lat": -37.8687598, "lng": 144.9923229 }, "geometry": { "type": "Point", "coordinates": [ 144.9923229, -37.8687598 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3882858365, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.816881, "lng": 144.9700335 }, "geometry": { "type": "Point", "coordinates": [ 144.9700335, -37.816881 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 828414268, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8199768, "lng": 144.9686623 }, "geometry": { "type": "Point", "coordinates": [ 144.9686623, -37.8199768 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3313134382, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8174506, "lng": 144.9677085 }, "geometry": { "type": "Point", "coordinates": [ 144.967708499999986, -37.8174506 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3313134381, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8176342, "lng": 144.9674324 }, "geometry": { "type": "Point", "coordinates": [ 144.9674324, -37.8176342 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3313134379, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8172675, "lng": 144.967355 }, "geometry": { "type": "Point", "coordinates": [ 144.967355, -37.8172675 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3393594193, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8203025, "lng": 144.9686427 }, "geometry": { "type": "Point", "coordinates": [ 144.9686427, -37.8203025 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 846546021, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8179044, "lng": 144.9677488 }, "geometry": { "type": "Point", "coordinates": [ 144.96774880000001, -37.8179044 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3313134384, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8174786, "lng": 144.9671307 }, "geometry": { "type": "Point", "coordinates": [ 144.967130700000013, -37.8174786 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 598156578, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8187038, "lng": 144.9679449 }, "geometry": { "type": "Point", "coordinates": [ 144.9679449, -37.8187038 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 598156479, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.818526, "lng": 144.9680402 }, "geometry": { "type": "Point", "coordinates": [ 144.9680402, -37.818526 ] } }
+]
+}

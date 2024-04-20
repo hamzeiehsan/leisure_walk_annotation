@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2932745283, "name": "doms", "full_name": "doms amenity nightclub cuisine burger", "lat": -34.1835509, "lng": 142.1625491 }, "geometry": { "type": "Point", "coordinates": [ 142.1625491, -34.1835509 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2932745270, "name": "Pizza Café", "full_name": "Pizza Café amenity restaurant email info@pizzacafe.com.au opening_hours Mo-Sa 11:00-21:00; Su 11:30-20:30 phone +61 3 5022 2223 takeaway delivery", "lat": -34.1832372, "lng": 142.1629464 }, "geometry": { "type": "Point", "coordinates": [ 142.16294640000001, -34.1832372 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2932745279, "name": "Subway", "full_name": "Subway amenity fast_food brand Subway cuisine sandwich takeaway", "lat": -34.1838395, "lng": 142.1615882 }, "geometry": { "type": "Point", "coordinates": [ 142.161588200000011, -34.1838395 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2932745278, "name": "Stefano's", "full_name": "Stefano's amenity restaurant", "lat": -34.1831373, "lng": 142.1630644 }, "geometry": { "type": "Point", "coordinates": [ 142.1630644, -34.1831373 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2932745262, "name": "Fasta Pasta", "full_name": "Fasta Pasta amenity restaurant phone +61 3 5022 0622 cuisine italian", "lat": -34.1836384, "lng": 142.162449 }, "geometry": { "type": "Point", "coordinates": [ 142.162449, -34.1836384 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9287444981, "name": "nan", "full_name": "shop butcher", "lat": -34.1858559, "lng": 142.1632117 }, "geometry": { "type": "Point", "coordinates": [ 142.1632117, -34.1858559 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6457257742, "name": "Stefano's Cafe", "full_name": "Stefano's Cafe amenity cafe opening_hours Mo-Fr 07:00-15:00; Sa 08:00-15:00; Su 08:00-12:00", "lat": -34.1841018, "lng": 142.1633317 }, "geometry": { "type": "Point", "coordinates": [ 142.163331699999986, -34.1841018 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2932745271, "name": "Rendezvous", "full_name": "Rendezvous amenity restaurant cuisine french", "lat": -34.1837567, "lng": 142.1623117 }, "geometry": { "type": "Point", "coordinates": [ 142.1623117, -34.1837567 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10795915875, "name": "sip. cocktail bar & eatery", "full_name": "sip. cocktail bar & eatery amenity bar opening_hours Mo-Su 16:00-00:00 phone +61 3 5021 0680", "lat": -34.1842729, "lng": 142.161988 }, "geometry": { "type": "Point", "coordinates": [ 142.161988, -34.1842729 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2932745277, "name": "Spanish Bar and Grill", "full_name": "Spanish Bar and Grill amenity restaurant", "lat": -34.1830044, "lng": 142.1632326 }, "geometry": { "type": "Point", "coordinates": [ 142.163232599999986, -34.1830044 ] } }
+]
+}

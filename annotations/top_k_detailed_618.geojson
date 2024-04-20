@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2639537496, "name": "nan", "full_name": "amenity bicycle_parking", "lat": -37.7766595, "lng": 144.8151216 }, "geometry": { "type": "Point", "coordinates": [ 144.8151216, -37.7766595 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2141638688, "name": "nan", "full_name": "amenity bicycle_parking", "lat": -37.7768698, "lng": 144.8150708 }, "geometry": { "type": "Point", "coordinates": [ 144.8150708, -37.7768698 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8008499927, "name": "Sadie Black", "full_name": "Sadie Black amenity cafe outdoor_seating", "lat": -37.7769544, "lng": 144.814961 }, "geometry": { "type": "Point", "coordinates": [ 144.814961, -37.7769544 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8997827403, "name": "nan", "full_name": "amenity bicycle_parking bicycle_parking stands capacity 4", "lat": -37.7770152, "lng": 144.8150816 }, "geometry": { "type": "Point", "coordinates": [ 144.815081600000013, -37.7770152 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2141638675, "name": "Perth Avenue Milk Bar", "full_name": "Perth Avenue Milk Bar shop convenience", "lat": -37.7766701, "lng": 144.8150106 }, "geometry": { "type": "Point", "coordinates": [ 144.8150106, -37.7766701 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2141638673, "name": "Mitko Deli", "full_name": "Mitko Deli phone +61 3 9311 8490 shop deli source local_knowledge", "lat": -37.7767343, "lng": 144.8149995 }, "geometry": { "type": "Point", "coordinates": [ 144.8149995, -37.7767343 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8008473627, "name": "Kingston Se Feliz", "full_name": "Kingston Se Feliz amenity fast_food cuisine vietnamese;burger;fish_and_chips", "lat": -37.7770072, "lng": 144.8149536 }, "geometry": { "type": "Point", "coordinates": [ 144.8149536, -37.7770072 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 231661950, "name": "nan", "full_name": "highway service service drive-through", "lat": -37.776023721481643, "lng": 144.8174671278997 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.817251199999987, -37.7759853 ], [ 144.8175957, -37.7760298 ], [ 144.817632300000014, -37.7761264 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2639537497, "name": "Wendy's Hair Salon", "full_name": "Wendy's Hair Salon shop hairdresser", "lat": -37.7768998, "lng": 144.8149695 }, "geometry": { "type": "Point", "coordinates": [ 144.814969499999989, -37.7768998 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 583594762, "name": "United Sunshine", "full_name": "United Sunshine phone +61 3 9364 9577 amenity fuel landuse retail brand United", "lat": -37.776187079189022, "lng": 144.81742446289255 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.817644199999989, -37.7764283 ], [ 144.817127199999987, -37.7763692 ], [ 144.817204800000013, -37.7759458 ], [ 144.8177217, -37.776005 ], [ 144.817644199999989, -37.7764283 ] ] ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 207532036, "name": "Plum Garland Memorial Playground", "full_name": "Plum Garland Memorial Playground source Bing leisure playground access", "lat": -37.847869616995617, "lng": 144.94815443513764 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.947802200000012, -37.8476122 ], [ 144.948606500000011, -37.8479973 ], [ 144.9485489, -37.8480723 ], [ 144.9485068, -37.848127 ], [ 144.9477025, -37.8477421 ], [ 144.947802200000012, -37.8476122 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9085528067, "name": "nan", "full_name": "natural tree", "lat": -37.8473519, "lng": 144.9487117 }, "geometry": { "type": "Point", "coordinates": [ 144.9487117, -37.8473519 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8875485880, "name": "nan", "full_name": "natural tree", "lat": -37.8486508, "lng": 144.9500611 }, "geometry": { "type": "Point", "coordinates": [ 144.9500611, -37.8486508 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8875485886, "name": "nan", "full_name": "natural tree", "lat": -37.8478402, "lng": 144.9483904 }, "geometry": { "type": "Point", "coordinates": [ 144.9483904, -37.8478402 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8875485888, "name": "nan", "full_name": "natural tree", "lat": -37.8476997, "lng": 144.9481014 }, "geometry": { "type": "Point", "coordinates": [ 144.948101400000013, -37.8476997 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8875485889, "name": "nan", "full_name": "natural tree", "lat": -37.8476227, "lng": 144.9479483 }, "geometry": { "type": "Point", "coordinates": [ 144.9479483, -37.8476227 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9085528062, "name": "nan", "full_name": "natural tree", "lat": -37.8470425, "lng": 144.9466403 }, "geometry": { "type": "Point", "coordinates": [ 144.946640300000013, -37.8470425 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9085528063, "name": "nan", "full_name": "natural tree", "lat": -37.8471553, "lng": 144.9468734 }, "geometry": { "type": "Point", "coordinates": [ 144.946873399999987, -37.8471553 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9085528065, "name": "nan", "full_name": "natural tree", "lat": -37.8478158, "lng": 144.9486969 }, "geometry": { "type": "Point", "coordinates": [ 144.948696899999987, -37.8478158 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9085528066, "name": "nan", "full_name": "natural tree", "lat": -37.847424, "lng": 144.9486486 }, "geometry": { "type": "Point", "coordinates": [ 144.948648600000013, -37.847424 ] } }
+]
+}

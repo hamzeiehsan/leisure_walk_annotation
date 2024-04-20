@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2637889945, "name": "nan", "full_name": "amenity bbq", "lat": -37.6749274, "lng": 144.8855687 }, "geometry": { "type": "Point", "coordinates": [ 144.8855687, -37.6749274 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 976359355, "name": "nan", "full_name": "leisure playground", "lat": -37.674554757565581, "lng": 144.88806123615416 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.8879535, -37.6744861 ], [ 144.888188, -37.6744819 ], [ 144.8881374, -37.6746585 ], [ 144.8879249, -37.6745863 ], [ 144.8879535, -37.6744861 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7085395517, "name": "nan", "full_name": "leisure picnic_table", "lat": -37.6752246, "lng": 144.8863903 }, "geometry": { "type": "Point", "coordinates": [ 144.886390299999988, -37.6752246 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9379209734, "name": "nan", "full_name": "leisure picnic_table", "lat": -37.6757687, "lng": 144.886783 }, "geometry": { "type": "Point", "coordinates": [ 144.886783, -37.6757687 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9379209726, "name": "nan", "full_name": "leisure picnic_table", "lat": -37.6761263, "lng": 144.8871526 }, "geometry": { "type": "Point", "coordinates": [ 144.8871526, -37.6761263 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7085395518, "name": "nan", "full_name": "leisure picnic_table", "lat": -37.6753314, "lng": 144.8863664 }, "geometry": { "type": "Point", "coordinates": [ 144.886366400000014, -37.6753314 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 979329816, "name": "nan", "full_name": "leisure swimming_pool", "lat": -37.677280312897494, "lng": 144.88476339932544 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.884739, -37.6772985 ], [ 144.8847476, -37.6772571 ], [ 144.8847575, -37.6772496 ], [ 144.8847687, -37.6772478 ], [ 144.8847819, -37.6772527 ], [ 144.884787499999987, -37.6772615 ], [ 144.8847791, -37.6773045 ], [ 144.884769, -37.677311 ], [ 144.884758299999987, -37.677313 ], [ 144.8847451, -37.6773074 ], [ 144.884739, -37.6772985 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 976359356, "name": "nan", "full_name": "leisure swimming_pool", "lat": -37.675456350000012, "lng": 144.88889385 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.8888838, -37.6754285 ], [ 144.888913699999989, -37.675432 ], [ 144.8889039, -37.6754842 ], [ 144.888874, -37.6754807 ], [ 144.8888838, -37.6754285 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2637878932, "name": "nan", "full_name": "amenity toilets wheelchair", "lat": -37.6752984, "lng": 144.886513 }, "geometry": { "type": "Point", "coordinates": [ 144.886513, -37.6752984 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2637878180, "name": "nan", "full_name": "access leisure playground", "lat": -37.6745474, "lng": 144.8880685 }, "geometry": { "type": "Point", "coordinates": [ 144.8880685, -37.6745474 ] } }
+]
+}

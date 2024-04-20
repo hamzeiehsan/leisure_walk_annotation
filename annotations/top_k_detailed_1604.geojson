@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 179853334, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6840598, "lng": 144.9139874 }, "geometry": { "type": "Point", "coordinates": [ 144.9139874, -37.6840598 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3398926280, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6838168, "lng": 144.91411 }, "geometry": { "type": "Point", "coordinates": [ 144.91411, -37.6838168 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 179853368, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6837612, "lng": 144.9138126 }, "geometry": { "type": "Point", "coordinates": [ 144.9138126, -37.6837612 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3398927605, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.682184, "lng": 144.91572 }, "geometry": { "type": "Point", "coordinates": [ 144.91572, -37.682184 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2526090949, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6839615, "lng": 144.913669 }, "geometry": { "type": "Point", "coordinates": [ 144.913669, -37.6839615 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3398927604, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6823911, "lng": 144.9154028 }, "geometry": { "type": "Point", "coordinates": [ 144.91540280000001, -37.6823911 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3398926275, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6821472, "lng": 144.9153963 }, "geometry": { "type": "Point", "coordinates": [ 144.9153963, -37.6821472 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3398927601, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.6824181, "lng": 144.9157256 }, "geometry": { "type": "Point", "coordinates": [ 144.9157256, -37.6824181 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 25291075, "name": "Johnstone Street Slip lane", "full_name": "Johnstone Street Slip lane highway primary_link lit lanes 1 oneway surface asphalt", "lat": -37.683755571685509, "lng": 144.9143220784369 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.914470099999988, -37.6834784 ], [ 144.914332800000011, -37.6836821 ], [ 144.9142874, -37.6837728 ], [ 144.914247499999988, -37.68387 ], [ 144.9142397, -37.6839209 ], [ 144.914247100000011, -37.6839623 ], [ 144.9142888, -37.6840487 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 198430362, "name": "Johnstone Street", "full_name": "Johnstone Street highway primary lit network AU:VIC:S ref 48 lanes 3 oneway surface asphalt", "lat": -37.683656705645085, "lng": 144.91368743807021 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9134929, -37.6834899 ], [ 144.913616499999989, -37.6836026 ], [ 144.9138126, -37.6837612 ], [ 144.9138912, -37.6838117 ] ] } }
+]
+}

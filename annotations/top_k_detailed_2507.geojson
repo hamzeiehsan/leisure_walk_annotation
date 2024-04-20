@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11052096875, "name": "Andrew's", "full_name": "Andrew's shop bakery", "lat": -37.8067972, "lng": 144.9590226 }, "geometry": { "type": "Point", "coordinates": [ 144.9590226, -37.8067972 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10911261803, "name": "nan", "full_name": "shop butcher", "lat": -37.8067548, "lng": 144.9584369 }, "geometry": { "type": "Point", "coordinates": [ 144.9584369, -37.8067548 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4303554989, "name": "nan", "full_name": "shop greengrocer", "lat": -37.8074966, "lng": 144.9577114 }, "geometry": { "type": "Point", "coordinates": [ 144.9577114, -37.8074966 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11017144723, "name": "M&G Caiafa", "full_name": "M&G Caiafa shop bakery", "lat": -37.80685, "lng": 144.959152 }, "geometry": { "type": "Point", "coordinates": [ 144.959152, -37.80685 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4739288145, "name": "City Mart", "full_name": "City Mart shop supermarket", "lat": -37.8067075, "lng": 144.9600612 }, "geometry": { "type": "Point", "coordinates": [ 144.960061200000013, -37.8067075 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11224342431, "name": "Entiques", "full_name": "Entiques wheelchair ref L47 shop art", "lat": -37.8076297, "lng": 144.956145 }, "geometry": { "type": "Point", "coordinates": [ 144.956145, -37.8076297 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10911277207, "name": "nan", "full_name": "shop florist", "lat": -37.8074065, "lng": 144.9584369 }, "geometry": { "type": "Point", "coordinates": [ 144.9584369, -37.8074065 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 208642577, "name": "A'Beckett Street", "full_name": "A'Beckett Street highway unclassified surface paved lit", "lat": -37.810286907961839, "lng": 144.95724302088254 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9560066, -37.8106426 ], [ 144.9560291, -37.8106361 ], [ 144.956053700000012, -37.8106288 ], [ 144.9570621, -37.8103387 ], [ 144.957702899999987, -37.8101542 ], [ 144.957781, -37.8101317 ], [ 144.9582145, -37.8100081 ], [ 144.9582524, -37.8099973 ], [ 144.958344399999987, -37.8099711 ], [ 144.9584805, -37.809935 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11224406445, "name": "nan", "full_name": "ref L61-L62 shop art", "lat": -37.8076471, "lng": 144.9559989 }, "geometry": { "type": "Point", "coordinates": [ 144.9559989, -37.8076471 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 28464791, "name": "Therry Street", "full_name": "Therry Street highway residential surface asphalt lit", "lat": -37.806944963245463, "lng": 144.96044394310314 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9598125, -37.8071322 ], [ 144.959868199999988, -37.8071155 ], [ 144.9599028, -37.8071052 ], [ 144.9599614, -37.8070873 ], [ 144.9600359, -37.8070657 ], [ 144.9610755, -37.8067581 ] ] } }
+]
+}

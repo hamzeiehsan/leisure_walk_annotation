@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5982185671, "name": "D2M Salon", "full_name": "D2M Salon shop hairdresser", "lat": -37.8073882, "lng": 144.9602571 }, "geometry": { "type": "Point", "coordinates": [ 144.9602571, -37.8073882 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3841976982, "name": "I ♥️ This Shop", "full_name": "I ♥️ This Shop shop gift", "lat": -37.8095315, "lng": 144.9607826 }, "geometry": { "type": "Point", "coordinates": [ 144.960782599999987, -37.8095315 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4739288145, "name": "City Mart", "full_name": "City Mart shop supermarket", "lat": -37.8067075, "lng": 144.9600612 }, "geometry": { "type": "Point", "coordinates": [ 144.960061200000013, -37.8067075 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10911277207, "name": "nan", "full_name": "shop florist", "lat": -37.8074065, "lng": 144.9584369 }, "geometry": { "type": "Point", "coordinates": [ 144.9584369, -37.8074065 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10911261803, "name": "nan", "full_name": "shop butcher", "lat": -37.8067548, "lng": 144.9584369 }, "geometry": { "type": "Point", "coordinates": [ 144.9584369, -37.8067548 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3841983798, "name": "On The Way", "full_name": "On The Way shop bakery", "lat": -37.8100932, "lng": 144.9610365 }, "geometry": { "type": "Point", "coordinates": [ 144.9610365, -37.8100932 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4303554989, "name": "nan", "full_name": "shop greengrocer", "lat": -37.8074966, "lng": 144.9577114 }, "geometry": { "type": "Point", "coordinates": [ 144.9577114, -37.8074966 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11261660472, "name": "Jen's Craft", "full_name": "Jen's Craft shop gift wheelchair ref O9-L97 level 0", "lat": -37.8078079, "lng": 144.9572978 }, "geometry": { "type": "Point", "coordinates": [ 144.9572978, -37.8078079 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 113434071, "name": "Queen Victoria Market", "full_name": "Queen Victoria Market shop mall phone +61 3 9320 5822 opening_hours Tu 06:00-14:00; Th 06:00-14:00; Fr 06:00-18:00; Sa 06:00-15:00; Su 09:00-16:00 landuse retail start_date 1878-03-20", "lat": -37.807354884825067, "lng": 144.95731660263812 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9597393, -37.8070926 ], [ 144.9580307, -37.8076836 ], [ 144.957967700000012, -37.8080426 ], [ 144.9577759, -37.8080293 ], [ 144.957605300000012, -37.8089908 ], [ 144.955684100000013, -37.808771 ], [ 144.9557256, -37.8085034 ], [ 144.9561132, -37.8060036 ], [ 144.9592565, -37.8063511 ], [ 144.9597393, -37.8070926 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11052081862, "name": "Market Lotto", "full_name": "Market Lotto shop newsagent", "lat": -37.8073682, "lng": 144.9585618 }, "geometry": { "type": "Point", "coordinates": [ 144.958561800000012, -37.8073682 ] } }
+]
+}

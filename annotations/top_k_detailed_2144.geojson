@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4120677338, "name": "Sir Redmond Barry", "full_name": "Sir Redmond Barry tourism artwork artwork_type statue", "lat": -37.8100338, "lng": 144.9643931 }, "geometry": { "type": "Point", "coordinates": [ 144.9643931, -37.8100338 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6778625079, "name": "nan", "full_name": "man_made flagpole", "lat": -37.8104477, "lng": 144.9640278 }, "geometry": { "type": "Point", "coordinates": [ 144.9640278, -37.8104477 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6778625080, "name": "nan", "full_name": "man_made flagpole", "lat": -37.8105819, "lng": 144.9640754 }, "geometry": { "type": "Point", "coordinates": [ 144.964075400000013, -37.8105819 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10250227844, "name": "St George and the Dragon", "full_name": "St George and the Dragon tourism artwork artwork_type statue", "lat": -37.8098714, "lng": 144.9644656 }, "geometry": { "type": "Point", "coordinates": [ 144.964465600000011, -37.8098714 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6702193539, "name": "Aesop", "full_name": "Aesop brand Aesop shop cosmetics", "lat": -37.8112114, "lng": 144.9648829 }, "geometry": { "type": "Point", "coordinates": [ 144.9648829, -37.8112114 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10744883305, "name": "nan", "full_name": "amenity ice_cream", "lat": -37.8105706, "lng": 144.9651887 }, "geometry": { "type": "Point", "coordinates": [ 144.9651887, -37.8105706 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11263768302, "name": "Aesop", "full_name": "Aesop brand Aesop shop cosmetics branch Emporium", "lat": -37.8122728, "lng": 144.9632252 }, "geometry": { "type": "Point", "coordinates": [ 144.963225200000011, -37.8122728 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2841675057, "name": "nan", "full_name": "man_made survey_point", "lat": -37.8094417, "lng": 144.9639702 }, "geometry": { "type": "Point", "coordinates": [ 144.9639702, -37.8094417 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9298174576, "name": "Chinatown Entrance Arch", "full_name": "Chinatown Entrance Arch tourism artwork artwork_type architecture", "lat": -37.8125015, "lng": 144.9653949 }, "geometry": { "type": "Point", "coordinates": [ 144.9653949, -37.8125015 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 176681485, "name": "BreakFree Heritage on Little Bourke", "full_name": "BreakFree Heritage on Little Bourke tourism hotel", "lat": -37.8129338, "lng": 144.9631368 }, "geometry": { "type": "Point", "coordinates": [ 144.9631368, -37.8129338 ] } }
+]
+}

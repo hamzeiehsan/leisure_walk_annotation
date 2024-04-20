@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9401823412, "name": "nan", "full_name": "tourism camp_pitch ref 103", "lat": -39.0299063, "lng": 146.321304 }, "geometry": { "type": "Point", "coordinates": [ 146.321304, -39.0299063 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9401830259, "name": "nan", "full_name": "tourism camp_pitch ref 172", "lat": -39.029471, "lng": 146.3196202 }, "geometry": { "type": "Point", "coordinates": [ 146.3196202, -39.029471 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9401823394, "name": "nan", "full_name": "tourism camp_pitch ref 110", "lat": -39.0299406, "lng": 146.3181774 }, "geometry": { "type": "Point", "coordinates": [ 146.3181774, -39.0299406 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9404527744, "name": "nan", "full_name": "tourism camp_pitch ref 91", "lat": -39.0298157, "lng": 146.3202055 }, "geometry": { "type": "Point", "coordinates": [ 146.320205499999986, -39.0298157 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9404527753, "name": "nan", "full_name": "tourism camp_pitch ref 93", "lat": -39.0298369, "lng": 146.3203485 }, "geometry": { "type": "Point", "coordinates": [ 146.3203485, -39.0298369 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9404527761, "name": "nan", "full_name": "tourism camp_pitch ref 94", "lat": -39.029848, "lng": 146.3204553 }, "geometry": { "type": "Point", "coordinates": [ 146.3204553, -39.029848 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9404527789, "name": "nan", "full_name": "tourism camp_pitch ref 90", "lat": -39.0297998, "lng": 146.3198449 }, "geometry": { "type": "Point", "coordinates": [ 146.3198449, -39.0297998 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9401830251, "name": "nan", "full_name": "tourism camp_pitch ref 217", "lat": -39.0292227, "lng": 146.3201465 }, "geometry": { "type": "Point", "coordinates": [ 146.3201465, -39.0292227 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9404527781, "name": "nan", "full_name": "tourism camp_pitch ref 72", "lat": -39.0299731, "lng": 146.3193553 }, "geometry": { "type": "Point", "coordinates": [ 146.319355300000012, -39.0299731 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9404527786, "name": "nan", "full_name": "tourism camp_pitch ref 50", "lat": -39.0300225, "lng": 146.320009 }, "geometry": { "type": "Point", "coordinates": [ 146.320009, -39.0300225 ] } }
+]
+}

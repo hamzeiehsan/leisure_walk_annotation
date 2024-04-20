@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1200032337, "name": "nan", "full_name": "material wood amenity bench backrest", "lat": -37.798886837610304, "lng": 144.96362579797656 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.963582, -37.7988149 ], [ 144.9636011, -37.7988328 ], [ 144.9636169, -37.798854 ], [ 144.963624, -37.7988869 ], [ 144.9636323, -37.7989165 ], [ 144.9636463, -37.7989375 ], [ 144.9636743, -37.7989532 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10749995960, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7965114, "lng": 144.960937 }, "geometry": { "type": "Point", "coordinates": [ 144.960937, -37.7965114 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10747504301, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7996229, "lng": 144.9631962 }, "geometry": { "type": "Point", "coordinates": [ 144.9631962, -37.7996229 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10749995962, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7968546, "lng": 144.9614486 }, "geometry": { "type": "Point", "coordinates": [ 144.961448600000011, -37.7968546 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10749995958, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7965342, "lng": 144.9611291 }, "geometry": { "type": "Point", "coordinates": [ 144.9611291, -37.7965342 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10747522409, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7990126, "lng": 144.9609583 }, "geometry": { "type": "Point", "coordinates": [ 144.960958299999987, -37.7990126 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2724428923, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7981406, "lng": 144.9604443 }, "geometry": { "type": "Point", "coordinates": [ 144.9604443, -37.7981406 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5754930933, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.796663, "lng": 144.962835 }, "geometry": { "type": "Point", "coordinates": [ 144.962835, -37.796663 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10747504304, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7992138, "lng": 144.9635398 }, "geometry": { "type": "Point", "coordinates": [ 144.9635398, -37.7992138 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5754930934, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7975776, "lng": 144.963291 }, "geometry": { "type": "Point", "coordinates": [ 144.963291, -37.7975776 ] } }
+]
+}

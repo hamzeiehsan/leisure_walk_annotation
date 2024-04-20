@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6357746966, "name": "Trivelli Pasticerria", "full_name": "Trivelli Pasticerria phone +61 3 9354 5165 shop pastry description Italian cake shop", "lat": -37.7448268, "lng": 144.9658656 }, "geometry": { "type": "Point", "coordinates": [ 144.9658656, -37.7448268 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7125775581, "name": "Woolworths Coburg", "full_name": "Woolworths Coburg amenity cafe", "lat": -37.7437776, "lng": 144.9639776 }, "geometry": { "type": "Point", "coordinates": [ 144.9639776, -37.7437776 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4350602135, "name": "Vinnie's Fruit", "full_name": "Vinnie's Fruit shop greengrocer", "lat": -37.7445695, "lng": 144.9658897 }, "geometry": { "type": "Point", "coordinates": [ 144.9658897, -37.7445695 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2963956869, "name": "Browns Corner Hotel", "full_name": "Browns Corner Hotel tourism hotel", "lat": -37.7415229, "lng": 144.9667227 }, "geometry": { "type": "Point", "coordinates": [ 144.9667227, -37.7415229 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6054082477, "name": "Tabet's Bakery", "full_name": "Tabet's Bakery phone +61 423 840 066 shop bakery description bakery & cafe", "lat": -37.7442524, "lng": 144.9659203 }, "geometry": { "type": "Point", "coordinates": [ 144.9659203, -37.7442524 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6444348185, "name": "Continental Groceries", "full_name": "Continental Groceries shop sewing description Middle Eastern food", "lat": -37.7432117, "lng": 144.9656349 }, "geometry": { "type": "Point", "coordinates": [ 144.9656349, -37.7432117 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11481500238, "name": "Tasty rooster on charcoal", "full_name": "Tasty rooster on charcoal amenity fast_food", "lat": -37.7417967, "lng": 144.9647409 }, "geometry": { "type": "Point", "coordinates": [ 144.96474090000001, -37.7417967 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6806786122, "name": "9 meals cafe", "full_name": "9 meals cafe amenity cafe opening_hours Mo-Sa 08:00-22:00 wheelchair cuisine modern australian takeaway outdoor_seating delivery", "lat": -37.7432209, "lng": 144.9659467 }, "geometry": { "type": "Point", "coordinates": [ 144.965946699999989, -37.7432209 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7158488899, "name": "Coffee & Kitchen centre", "full_name": "Coffee & Kitchen centre amenity cafe", "lat": -37.7432194, "lng": 144.9659926 }, "geometry": { "type": "Point", "coordinates": [ 144.9659926, -37.7432194 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4213708662, "name": "Bakers Delight", "full_name": "Bakers Delight brand Bakers Delight shop bakery", "lat": -37.7430388, "lng": 144.9661177 }, "geometry": { "type": "Point", "coordinates": [ 144.966117700000012, -37.7430388 ] } }
+]
+}

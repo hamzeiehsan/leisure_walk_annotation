@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11296371958, "name": "The Other Side", "full_name": "The Other Side shop wholesale level 0 wholesale clothes", "lat": -37.8312312, "lng": 144.9600062 }, "geometry": { "type": "Point", "coordinates": [ 144.9600062, -37.8312312 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 45800391, "name": "South Melbourne Central", "full_name": "South Melbourne Central shop mall building retail", "lat": -37.830761666353581, "lng": 144.95739116735837 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.957998300000014, -37.8310736 ], [ 144.9572258, -37.8312981 ], [ 144.95716680000001, -37.8312896 ], [ 144.956769799999989, -37.8304592 ], [ 144.957624399999986, -37.8302142 ], [ 144.957998300000014, -37.8310736 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2184871393, "name": "Woolworths", "full_name": "Woolworths brand Woolworths shop supermarket", "lat": -37.8306564, "lng": 144.9573651 }, "geometry": { "type": "Point", "coordinates": [ 144.9573651, -37.8306564 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11290488463, "name": "Gyprock Trade", "full_name": "Gyprock Trade shop trade level 0 trade building_supplies", "lat": -37.8286351, "lng": 144.9601544 }, "geometry": { "type": "Point", "coordinates": [ 144.9601544, -37.8286351 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 583071809, "name": "7-Eleven", "full_name": "7-Eleven brand 7-Eleven shop convenience", "lat": -37.831001, "lng": 144.9594127 }, "geometry": { "type": "Point", "coordinates": [ 144.9594127, -37.831001 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2270172527, "name": "Servico", "full_name": "Servico shop office_supplies phone +61 3 9686 8044", "lat": -37.828635, "lng": 144.961146 }, "geometry": { "type": "Point", "coordinates": [ 144.961146, -37.828635 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3522857446, "name": "90 York", "full_name": "90 York building commercial", "lat": -37.8307217, "lng": 144.9590902 }, "geometry": { "type": "Point", "coordinates": [ 144.9590902, -37.8307217 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1029005739, "name": "Centro Ristorante Italiano", "full_name": "Centro Ristorante Italiano amenity restaurant cuisine italian phone +61 3 9699 5904", "lat": -37.831214, "lng": 144.95724 }, "geometry": { "type": "Point", "coordinates": [ 144.95724, -37.831214 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11296338339, "name": "Better Sales Pty Ltd", "full_name": "Better Sales Pty Ltd office", "lat": -37.8287067, "lng": 144.9612121 }, "geometry": { "type": "Point", "coordinates": [ 144.961212100000012, -37.8287067 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2110023791, "name": "ALDI", "full_name": "ALDI brand ALDI shop supermarket opening_hours Mo-Su 08:30-20:00 wheelchair full_name ALDI South Melbourne", "lat": -37.829949, "lng": 144.9573832 }, "geometry": { "type": "Point", "coordinates": [ 144.95738320000001, -37.829949 ] } }
+]
+}

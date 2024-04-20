@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6781602667, "name": "nan", "full_name": "amenity drinking_water operator Darebin City Council bottle fountain bubbler wheelchair", "lat": -37.7730305, "lng": 145.0325686 }, "geometry": { "type": "Point", "coordinates": [ 145.0325686, -37.7730305 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5297213427, "name": "nan", "full_name": "amenity drinking_water operator Darebin City Council", "lat": -37.7724851, "lng": 145.033152 }, "geometry": { "type": "Point", "coordinates": [ 145.033152, -37.7724851 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6781602666, "name": "nan", "full_name": "amenity bicycle_repair_station operator Darebin City Council brand Fixation opening_hours 24/7", "lat": -37.7728612, "lng": 145.0325812 }, "geometry": { "type": "Point", "coordinates": [ 145.03258120000001, -37.7728612 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1252091317, "name": "nan", "full_name": "amenity bbq check_date 2022-11-23", "lat": -37.7725669, "lng": 145.032806 }, "geometry": { "type": "Point", "coordinates": [ 145.032806, -37.7725669 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 615112842, "name": "nan", "full_name": "amenity parking operator Darebin City Council access parking surface", "lat": -37.771989059773709, "lng": 145.0325005882346 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.032616600000011, -37.7710645 ], [ 145.0323435, -37.7728254 ], [ 145.0324048, -37.7728307 ], [ 145.0326626, -37.7710688 ], [ 145.032616600000011, -37.7710645 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 47478866, "name": "nan", "full_name": "source nearmap amenity shelter building shelter_type picnic_shelter", "lat": -37.772568064443647, "lng": 145.03280346445786 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.03289190000001, -37.7725545 ], [ 145.0328501, -37.7725071 ], [ 145.032715, -37.7725817 ], [ 145.032756799999987, -37.772629 ], [ 145.03289190000001, -37.7725545 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6781602665, "name": "nan", "full_name": "amenity bicycle_parking bicycle_parking stands capacity 8", "lat": -37.7728862, "lng": 145.0325567 }, "geometry": { "type": "Point", "coordinates": [ 145.032556699999986, -37.7728862 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6030947593, "name": "nan", "full_name": "amenity bench", "lat": -37.7737103, "lng": 145.0339826 }, "geometry": { "type": "Point", "coordinates": [ 145.0339826, -37.7737103 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8041556833, "name": "nan", "full_name": "amenity waste_basket waste dog_excrement", "lat": -37.7729868, "lng": 145.0325488 }, "geometry": { "type": "Point", "coordinates": [ 145.0325488, -37.7729868 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8041556828, "name": "nan", "full_name": "amenity waste_basket waste dog_excrement", "lat": -37.7713607, "lng": 145.0329852 }, "geometry": { "type": "Point", "coordinates": [ 145.032985200000013, -37.7713607 ] } }
+]
+}

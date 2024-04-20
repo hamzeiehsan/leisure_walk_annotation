@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 958993600, "name": "Cathedral Place", "full_name": "Cathedral Place source image highway tertiary surface asphalt lit oneway maxspeed 50", "lat": -37.810738049158935, "lng": 144.97535255032884 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9754015, -37.8107573 ], [ 144.9753657, -37.8107432 ], [ 144.975330500000013, -37.8107294 ], [ 144.9753036, -37.8107188 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 316160748, "name": "Albert Street", "full_name": "Albert Street source bing,knowledge highway tertiary surface asphalt lit oneway maxspeed 50", "lat": -37.809329091655407, "lng": 144.97416489548334 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.97314320000001, -37.8092182 ], [ 144.97383, -37.8092928 ], [ 144.974477400000012, -37.809363 ], [ 144.9748157, -37.8093997 ], [ 144.975049500000011, -37.809425 ], [ 144.9751866, -37.8094399 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419354759, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.809661, "lng": 144.9784031 }, "geometry": { "type": "Point", "coordinates": [ 144.9784031, -37.809661 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1879021173, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.809902, "lng": 144.9785498 }, "geometry": { "type": "Point", "coordinates": [ 144.9785498, -37.809902 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419354752, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8099877, "lng": 144.9782393 }, "geometry": { "type": "Point", "coordinates": [ 144.978239300000013, -37.8099877 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419354753, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8097488, "lng": 144.9781134 }, "geometry": { "type": "Point", "coordinates": [ 144.978113400000012, -37.8097488 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419354754, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8094693, "lng": 144.975454 }, "geometry": { "type": "Point", "coordinates": [ 144.975454, -37.8094693 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419354756, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8096104, "lng": 144.9758488 }, "geometry": { "type": "Point", "coordinates": [ 144.9758488, -37.8096104 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419354757, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8094072, "lng": 144.9757569 }, "geometry": { "type": "Point", "coordinates": [ 144.9757569, -37.8094072 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3419354766, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8097012, "lng": 144.9755412 }, "geometry": { "type": "Point", "coordinates": [ 144.9755412, -37.8097012 ] } }
+]
+}

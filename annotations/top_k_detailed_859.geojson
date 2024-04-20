@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 33297833, "name": "Women's Peace Garden", "full_name": "Women's Peace Garden leisure park", "lat": -37.79112975915919, "lng": 144.92395688558634 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.923268400000012, -37.7912117 ], [ 144.9233137, -37.7911849 ], [ 144.9234911, -37.7910715 ], [ 144.9239282, -37.7907917 ], [ 144.924201900000014, -37.7906231 ], [ 144.924217, -37.790641 ], [ 144.9246003, -37.791067 ], [ 144.92463810000001, -37.7911058 ], [ 144.9236799, -37.791613 ], [ 144.9236531, -37.7915838 ], [ 144.9235266, -37.7914566 ], [ 144.923383800000011, -37.7913243 ], [ 144.923268400000012, -37.7912117 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9802897483, "name": "nan", "full_name": "natural tree", "lat": -37.7913388, "lng": 144.9251188 }, "geometry": { "type": "Point", "coordinates": [ 144.9251188, -37.7913388 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9802914119, "name": "nan", "full_name": "natural tree", "lat": -37.791334, "lng": 144.9260294 }, "geometry": { "type": "Point", "coordinates": [ 144.9260294, -37.791334 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9810085515, "name": "nan", "full_name": "natural tree", "lat": -37.7899716, "lng": 144.9266846 }, "geometry": { "type": "Point", "coordinates": [ 144.926684599999987, -37.7899716 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9810085514, "name": "nan", "full_name": "natural tree", "lat": -37.790068, "lng": 144.9266014 }, "geometry": { "type": "Point", "coordinates": [ 144.92660140000001, -37.790068 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9810085513, "name": "nan", "full_name": "natural tree", "lat": -37.7901194, "lng": 144.9265029 }, "geometry": { "type": "Point", "coordinates": [ 144.9265029, -37.7901194 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9810085512, "name": "nan", "full_name": "natural tree", "lat": -37.7901889, "lng": 144.9263895 }, "geometry": { "type": "Point", "coordinates": [ 144.9263895, -37.7901889 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9810085511, "name": "nan", "full_name": "natural tree", "lat": -37.7898635, "lng": 144.9263775 }, "geometry": { "type": "Point", "coordinates": [ 144.9263775, -37.7898635 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9810085510, "name": "nan", "full_name": "natural tree", "lat": -37.7902, "lng": 144.9261931 }, "geometry": { "type": "Point", "coordinates": [ 144.9261931, -37.7902 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9802914123, "name": "nan", "full_name": "natural tree", "lat": -37.7909615, "lng": 144.9256734 }, "geometry": { "type": "Point", "coordinates": [ 144.9256734, -37.7909615 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6791937543, "name": "nan", "full_name": "leisure picnic_table", "lat": -36.49478, "lng": 144.6080825 }, "geometry": { "type": "Point", "coordinates": [ 144.6080825, -36.49478 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6791937542, "name": "nan", "full_name": "leisure picnic_table", "lat": -36.4946701, "lng": 144.6081101 }, "geometry": { "type": "Point", "coordinates": [ 144.6081101, -36.4946701 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6791941258, "name": "nan", "full_name": "amenity bbq", "lat": -36.4952093, "lng": 144.6077647 }, "geometry": { "type": "Point", "coordinates": [ 144.6077647, -36.4952093 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 302052867, "name": "nan", "full_name": "amenity parking", "lat": -36.494640857031705, "lng": 144.60852021201583 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.6085483, -36.4945647 ], [ 144.6084693, -36.4946815 ], [ 144.6084928, -36.4947124 ], [ 144.608567599999986, -36.494611 ], [ 144.6085483, -36.4945647 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 302052868, "name": "nan", "full_name": "amenity parking", "lat": -36.49494055, "lng": 144.6078381 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.6078388, -36.4948613 ], [ 144.607922800000011, -36.4949001 ], [ 144.6078374, -36.4950198 ], [ 144.6077534, -36.494981 ], [ 144.6078388, -36.4948613 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 302052866, "name": "nan", "full_name": "amenity parking", "lat": -36.493754756668167, "lng": 144.60912607517594 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.6093026, -36.4934515 ], [ 144.6093411, -36.4934979 ], [ 144.6089479, -36.4940614 ], [ 144.6089159, -36.494003 ], [ 144.6093026, -36.4934515 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 302052871, "name": "nan", "full_name": "amenity parking", "lat": -36.494648581492427, "lng": 144.60829889189452 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.608392, -36.4944719 ], [ 144.6084299, -36.4945098 ], [ 144.6082068, -36.4948271 ], [ 144.6081723, -36.494777 ], [ 144.608392, -36.4944719 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6578025069, "name": "Railway Hotel", "full_name": "Railway Hotel amenity pub", "lat": -36.4939664, "lng": 144.6091138 }, "geometry": { "type": "Point", "coordinates": [ 144.609113799999989, -36.4939664 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6577993866, "name": "nan", "full_name": "amenity bicycle_parking bicycle_parking stands capacity 2", "lat": -36.4948657, "lng": 144.6083998 }, "geometry": { "type": "Point", "coordinates": [ 144.6083998, -36.4948657 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10062593346, "name": "nan", "full_name": "amenity drinking_water", "lat": -36.4951609, "lng": 144.6077597 }, "geometry": { "type": "Point", "coordinates": [ 144.6077597, -36.4951609 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9382967221, "name": "nan", "full_name": "amenity bicycle_parking", "lat": -37.8370041, "lng": 144.9371817 }, "geometry": { "type": "Point", "coordinates": [ 144.9371817, -37.8370041 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 948315726, "name": "nan", "full_name": "leisure park", "lat": -37.838288528550827, "lng": 144.93794493758242 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9373328, -37.8377823 ], [ 144.9371625, -37.8378765 ], [ 144.9384191, -37.8387323 ], [ 144.938604199999986, -37.8385512 ], [ 144.937902799999989, -37.8381392 ], [ 144.9376131, -37.8380449 ], [ 144.9373328, -37.8377823 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7241419052, "name": "nan", "full_name": "amenity bbq fuel electric", "lat": -37.8380023, "lng": 144.936483 }, "geometry": { "type": "Point", "coordinates": [ 144.936483, -37.8380023 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9028315998, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8389507, "lng": 144.9343821 }, "geometry": { "type": "Point", "coordinates": [ 144.9343821, -37.8389507 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4275271813, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8370287, "lng": 144.9372973 }, "geometry": { "type": "Point", "coordinates": [ 144.937297300000012, -37.8370287 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4275271814, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8370561, "lng": 144.9373235 }, "geometry": { "type": "Point", "coordinates": [ 144.9373235, -37.8370561 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9028315999, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8389744, "lng": 144.9344152 }, "geometry": { "type": "Point", "coordinates": [ 144.934415199999989, -37.8389744 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2267902251, "name": "nan", "full_name": "railway tram_level_crossing", "lat": -37.8376712, "lng": 144.9362411 }, "geometry": { "type": "Point", "coordinates": [ 144.9362411, -37.8376712 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2267902253, "name": "nan", "full_name": "railway tram_level_crossing", "lat": -37.83769, "lng": 144.936285 }, "geometry": { "type": "Point", "coordinates": [ 144.936285, -37.83769 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1017793738, "name": "nan", "full_name": "amenity parking layer 0 parking street_side location under_bridge", "lat": -37.837806219753737, "lng": 144.93685370569963 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.93683870000001, -37.8376849 ], [ 144.9366765, -37.8377844 ], [ 144.9368696, -37.8379306 ], [ 144.9370299, -37.837822 ], [ 144.93683870000001, -37.8376849 ] ] ] } }
+]
+}

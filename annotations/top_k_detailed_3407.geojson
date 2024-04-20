@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5227802652, "name": "Daylight Bakery", "full_name": "Daylight Bakery shop bakery", "lat": -37.9869351, "lng": 145.2123757 }, "geometry": { "type": "Point", "coordinates": [ 145.2123757, -37.9869351 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5227802691, "name": "Ariana Bakery", "full_name": "Ariana Bakery shop bakery", "lat": -37.9877886, "lng": 145.2128821 }, "geometry": { "type": "Point", "coordinates": [ 145.2128821, -37.9877886 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5243876852, "name": "Maiwand Bakery", "full_name": "Maiwand Bakery shop bakery", "lat": -37.9863109, "lng": 145.2129035 }, "geometry": { "type": "Point", "coordinates": [ 145.21290350000001, -37.9863109 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5243876882, "name": "Old Hadie's The Bakery", "full_name": "Old Hadie's The Bakery shop bakery", "lat": -37.9864913, "lng": 145.2146035 }, "geometry": { "type": "Point", "coordinates": [ 145.21460350000001, -37.9864913 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5227802703, "name": "Balkh Bakery & Charcoal", "full_name": "Balkh Bakery & Charcoal shop bakery", "lat": -37.9865065, "lng": 145.2127408 }, "geometry": { "type": "Point", "coordinates": [ 145.2127408, -37.9865065 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5217624036, "name": "Taste Of Paradise Halal Pizza", "full_name": "Taste Of Paradise Halal Pizza amenity fast_food cuisine pizza", "lat": -37.984842, "lng": 145.2131761 }, "geometry": { "type": "Point", "coordinates": [ 145.2131761, -37.984842 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5285526935, "name": "Derrick's Shop", "full_name": "Derrick's Shop shop convenience", "lat": -37.985741, "lng": 145.2150957 }, "geometry": { "type": "Point", "coordinates": [ 145.2150957, -37.985741 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 542417362, "name": "Negin Asia Halal Bakery", "full_name": "Negin Asia Halal Bakery building shop bakery height 5", "lat": -37.985439137610079, "lng": 145.21212990293503 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.212252799999987, -37.9854049 ], [ 145.212254699999988, -37.9854517 ], [ 145.2120079, -37.9854728 ], [ 145.212002, -37.9854276 ], [ 145.212252799999987, -37.9854049 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5243876883, "name": "Saray Halal Meats", "full_name": "Saray Halal Meats shop butcher", "lat": -37.9852925, "lng": 145.2144626 }, "geometry": { "type": "Point", "coordinates": [ 145.2144626, -37.9852925 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 542746807, "name": "Bamyan Bakery & Sweets", "full_name": "Bamyan Bakery & Sweets building retail shop confectionery height 5", "lat": -37.98660447765328, "lng": 145.21229015883492 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.2122106, -37.9865794 ], [ 145.2122115, -37.9866305 ], [ 145.2123704, -37.9866289 ], [ 145.2123695, -37.9865791 ], [ 145.2122106, -37.9865794 ] ] ] } }
+]
+}

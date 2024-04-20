@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11140069151, "name": "Dave's Diner", "full_name": "Dave's Diner amenity fast_food wheelchair cuisine burger;hot_dog;soup;juice", "lat": -37.8077745, "lng": 144.9559679 }, "geometry": { "type": "Point", "coordinates": [ 144.9559679, -37.8077745 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11359210988, "name": "Market Juice", "full_name": "Market Juice amenity fast_food wheelchair ref A23-W3 cuisine juice level 0 takeaway only", "lat": -37.8063187, "lng": 144.9572187 }, "geometry": { "type": "Point", "coordinates": [ 144.9572187, -37.8063187 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3928348521, "name": "BBQ Brothers", "full_name": "BBQ Brothers amenity restaurant", "lat": -37.8045589, "lng": 144.9582397 }, "geometry": { "type": "Point", "coordinates": [ 144.9582397, -37.8045589 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2140979622, "name": "Bob Pettigrew Meats", "full_name": "Bob Pettigrew Meats shop butcher", "lat": -37.805668, "lng": 144.955587 }, "geometry": { "type": "Point", "coordinates": [ 144.955587, -37.805668 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6362050885, "name": "DonWoorie Korean BarBQ", "full_name": "DonWoorie Korean BarBQ amenity restaurant", "lat": -37.8058355, "lng": 144.9572617 }, "geometry": { "type": "Point", "coordinates": [ 144.9572617, -37.8058355 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11359210982, "name": "Orchard Wholefoods And Mueslis", "full_name": "Orchard Wholefoods And Mueslis shop health_food wheelchair ref A7-A10 level 0 organic bulk_purchase", "lat": -37.8063828, "lng": 144.9577648 }, "geometry": { "type": "Point", "coordinates": [ 144.9577648, -37.8063828 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11140069150, "name": "American Doughnuts", "full_name": "American Doughnuts amenity fast_food cuisine donut;american", "lat": -37.8074061, "lng": 144.9579127 }, "geometry": { "type": "Point", "coordinates": [ 144.9579127, -37.8074061 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5083155127, "name": "Woo Ga Korean BBQ", "full_name": "Woo Ga Korean BBQ amenity restaurant", "lat": -37.8058857, "lng": 144.957475 }, "geometry": { "type": "Point", "coordinates": [ 144.957475, -37.8058857 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6904906962, "name": "Eal All Korean BBQ Buffet", "full_name": "Eal All Korean BBQ Buffet amenity restaurant", "lat": -37.8043848, "lng": 144.9564903 }, "geometry": { "type": "Point", "coordinates": [ 144.956490300000013, -37.8043848 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11017168674, "name": "Alex Canteen", "full_name": "Alex Canteen amenity restaurant cuisine vietnamese", "lat": -37.8060813, "lng": 144.9562559 }, "geometry": { "type": "Point", "coordinates": [ 144.9562559, -37.8060813 ] } }
+]
+}

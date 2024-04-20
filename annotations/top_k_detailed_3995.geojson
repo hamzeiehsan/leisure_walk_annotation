@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2223512569, "name": "Rail Trail General Store", "full_name": "Rail Trail General Store source survey amenity post_office brand Australia Post operator Auspost", "lat": -38.0601633, "lng": 146.6240342 }, "geometry": { "type": "Point", "coordinates": [ 146.624034200000011, -38.0601633 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939012, "name": "nan", "full_name": "amenity post_box operator Australia Post", "lat": -38.0601494, "lng": 146.6241953 }, "geometry": { "type": "Point", "coordinates": [ 146.6241953, -38.0601494 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2223512568, "name": "Rail Trail General Store", "full_name": "Rail Trail General Store source survey amenity fuel", "lat": -38.0601295, "lng": 146.6242837 }, "geometry": { "type": "Point", "coordinates": [ 146.6242837, -38.0601295 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2223512565, "name": "Rail Trail General Store", "full_name": "Rail Trail General Store source Survey shop alcohol", "lat": -38.0601528, "lng": 146.6241361 }, "geometry": { "type": "Point", "coordinates": [ 146.624136099999987, -38.0601528 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2223512884, "name": "Rail Trail General Store", "full_name": "Rail Trail General Store source Survey shop gift", "lat": -38.0601084, "lng": 146.624163 }, "geometry": { "type": "Point", "coordinates": [ 146.624163, -38.0601084 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1730493061, "name": "Rail Trail General Store", "full_name": "Rail Trail General Store source Bing amenity cafe", "lat": -38.0601006, "lng": 146.6239586 }, "geometry": { "type": "Point", "coordinates": [ 146.6239586, -38.0601006 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939026, "name": "nan", "full_name": "natural tree", "lat": -38.0601814, "lng": 146.6244898 }, "geometry": { "type": "Point", "coordinates": [ 146.6244898, -38.0601814 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939023, "name": "nan", "full_name": "natural tree", "lat": -38.0600082, "lng": 146.6244866 }, "geometry": { "type": "Point", "coordinates": [ 146.624486600000012, -38.0600082 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939022, "name": "nan", "full_name": "natural tree", "lat": -38.0599482, "lng": 146.6245113 }, "geometry": { "type": "Point", "coordinates": [ 146.6245113, -38.0599482 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939024, "name": "nan", "full_name": "natural tree", "lat": -38.0600344, "lng": 146.6245789 }, "geometry": { "type": "Point", "coordinates": [ 146.624578899999989, -38.0600344 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4409679862, "name": "nan", "full_name": "highway crossing crossing traffic_signals button_operated", "lat": -37.7558971, "lng": 144.9259799 }, "geometry": { "type": "Point", "coordinates": [ 144.925979899999987, -37.7558971 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9803768774, "name": "nan", "full_name": "highway crossing crossing traffic_signals button_operated", "lat": -37.7559388, "lng": 144.9261986 }, "geometry": { "type": "Point", "coordinates": [ 144.9261986, -37.7559388 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9803768772, "name": "nan", "full_name": "highway crossing crossing traffic_signals button_operated", "lat": -37.7560729, "lng": 144.9261135 }, "geometry": { "type": "Point", "coordinates": [ 144.926113500000014, -37.7560729 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9803768771, "name": "nan", "full_name": "highway crossing crossing traffic_signals button_operated", "lat": -37.7557967, "lng": 144.9260538 }, "geometry": { "type": "Point", "coordinates": [ 144.9260538, -37.7557967 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 31434208, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.755913, "lng": 144.9260772 }, "geometry": { "type": "Point", "coordinates": [ 144.9260772, -37.755913 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4409679823, "name": "Fletcher Street/Loeman Street", "full_name": "Fletcher Street/Loeman Street highway bus_stop network PTV - Metropolitan Buses operator Moreland public_transport platform ref ID.9746 bench bin bus not_served_by 503 route_ref 510 shelter tactile_paving", "lat": -37.7561792, "lng": 144.9254017 }, "geometry": { "type": "Point", "coordinates": [ 144.9254017, -37.7561792 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9810601793, "name": "nan", "full_name": "highway crossing crossing unmarked", "lat": -37.7563772, "lng": 144.9290157 }, "geometry": { "type": "Point", "coordinates": [ 144.9290157, -37.7563772 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9803768822, "name": "nan", "full_name": "highway crossing crossing unmarked", "lat": -37.7578657, "lng": 144.9257096 }, "geometry": { "type": "Point", "coordinates": [ 144.9257096, -37.7578657 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9804036121, "name": "nan", "full_name": "highway crossing crossing unmarked", "lat": -37.7575424, "lng": 144.9265633 }, "geometry": { "type": "Point", "coordinates": [ 144.9265633, -37.7575424 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9804036149, "name": "nan", "full_name": "highway crossing crossing unmarked", "lat": -37.7561478, "lng": 144.9269096 }, "geometry": { "type": "Point", "coordinates": [ 144.926909599999988, -37.7561478 ] } }
+]
+}

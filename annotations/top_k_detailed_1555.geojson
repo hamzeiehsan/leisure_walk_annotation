@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4719447379, "name": "nan", "full_name": "amenity bbq fuel gas", "lat": -37.7897544, "lng": 145.057617 }, "geometry": { "type": "Point", "coordinates": [ 145.057617, -37.7897544 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4719447366, "name": "nan", "full_name": "amenity bbq fuel gas", "lat": -37.7886837, "lng": 145.0579436 }, "geometry": { "type": "Point", "coordinates": [ 145.057943599999987, -37.7886837 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3996728954, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.7874935, "lng": 145.0595359 }, "geometry": { "type": "Point", "coordinates": [ 145.059535899999986, -37.7874935 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4719447388, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.7886015, "lng": 145.057977 }, "geometry": { "type": "Point", "coordinates": [ 145.057977, -37.7886015 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4719447380, "name": "nan", "full_name": "amenity shelter shelter_type picnic_shelter", "lat": -37.7878261, "lng": 145.0584437 }, "geometry": { "type": "Point", "coordinates": [ 145.0584437, -37.7878261 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4719447353, "name": "nan", "full_name": "amenity shelter shelter_type picnic_shelter", "lat": -37.7886843, "lng": 145.0580464 }, "geometry": { "type": "Point", "coordinates": [ 145.0580464, -37.7886843 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4719447375, "name": "nan", "full_name": "amenity shelter shelter_type picnic_shelter", "lat": -37.7898551, "lng": 145.0576667 }, "geometry": { "type": "Point", "coordinates": [ 145.0576667, -37.7898551 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4719447357, "name": "nan", "full_name": "tourism picnic_site", "lat": -37.788617, "lng": 145.0578954 }, "geometry": { "type": "Point", "coordinates": [ 145.0578954, -37.788617 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4719447363, "name": "nan", "full_name": "tourism picnic_site", "lat": -37.7886547, "lng": 145.0578654 }, "geometry": { "type": "Point", "coordinates": [ 145.0578654, -37.7886547 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 569023193, "name": "nan", "full_name": "natural water water pond", "lat": -37.787980069841375, "lng": 145.05710864956308 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.0571409, -37.7878023 ], [ 145.0569746, -37.787957 ], [ 145.0569102, -37.7880185 ], [ 145.0569317, -37.788063 ], [ 145.057020200000011, -37.7881181 ], [ 145.0571382, -37.7881626 ], [ 145.0571972, -37.7881287 ], [ 145.0572106, -37.7880185 ], [ 145.057242800000012, -37.7879379 ], [ 145.057250900000014, -37.7878107 ], [ 145.0572133, -37.7877705 ], [ 145.0571409, -37.7878023 ] ] ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6680797705, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8211425, "lng": 144.9429694 }, "geometry": { "type": "Point", "coordinates": [ 144.94296940000001, -37.8211425 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6680866088, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8203432, "lng": 144.9403217 }, "geometry": { "type": "Point", "coordinates": [ 144.9403217, -37.8203432 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6681538563, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8202989, "lng": 144.9408728 }, "geometry": { "type": "Point", "coordinates": [ 144.9408728, -37.8202989 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6680797658, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8209052, "lng": 144.9409994 }, "geometry": { "type": "Point", "coordinates": [ 144.94099940000001, -37.8209052 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6680797643, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8208909, "lng": 144.9410231 }, "geometry": { "type": "Point", "coordinates": [ 144.9410231, -37.8208909 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6680787362, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8202838, "lng": 144.9409085 }, "geometry": { "type": "Point", "coordinates": [ 144.9409085, -37.8202838 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6681538564, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8203117, "lng": 144.9408461 }, "geometry": { "type": "Point", "coordinates": [ 144.940846099999987, -37.8203117 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6681538565, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8202983, "lng": 144.9408378 }, "geometry": { "type": "Point", "coordinates": [ 144.9408378, -37.8202983 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6678532411, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8200812, "lng": 144.9433289 }, "geometry": { "type": "Point", "coordinates": [ 144.943328900000012, -37.8200812 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6699781963, "name": "nan", "full_name": "amenity drinking_water", "lat": -37.8201573, "lng": 144.9419826 }, "geometry": { "type": "Point", "coordinates": [ 144.941982599999989, -37.8201573 ] } }
+]
+}

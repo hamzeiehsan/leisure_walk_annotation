@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5110148991, "name": "Fresh Skin Canvas", "full_name": "Fresh Skin Canvas shop beauty", "lat": -37.7792195, "lng": 144.9971794 }, "geometry": { "type": "Point", "coordinates": [ 144.9971794, -37.7792195 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7855746176, "name": "Scented Naturally Wellness Centre", "full_name": "Scented Naturally Wellness Centre phone +61 3 9482 5380 shop beauty", "lat": -37.7795414, "lng": 144.997115 }, "geometry": { "type": "Point", "coordinates": [ 144.997115, -37.7795414 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 133481150, "name": "nan", "full_name": "highway footway bicycle surface paved smoothness excellent tracktype grade1", "lat": -37.778109370233942, "lng": 144.99318073970721 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.993157, -37.778247 ], [ 144.9931828, -37.7781279 ], [ 144.9931954, -37.7779704 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 133481017, "name": "nan", "full_name": "highway footway bicycle surface paved smoothness good tracktype grade1", "lat": -37.77798240317977, "lng": 144.99333433824984 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.993473099999989, -37.7779961 ], [ 144.993418100000014, -37.7779893 ], [ 144.9931954, -37.7779704 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11363694372, "name": "Diva Hair and Beauty", "full_name": "Diva Hair and Beauty shop hairdresser", "lat": -37.7804466, "lng": 144.9966524 }, "geometry": { "type": "Point", "coordinates": [ 144.996652399999988, -37.7804466 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3399015288, "name": "Westgarth Fish & Chips", "full_name": "Westgarth Fish & Chips amenity fast_food cuisine fish_and_chips source mapillary", "lat": -37.7797264, "lng": 144.9967513 }, "geometry": { "type": "Point", "coordinates": [ 144.9967513, -37.7797264 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11276556025, "name": "Bytes Of Northcote", "full_name": "Bytes Of Northcote amenity dentist", "lat": -37.7804259, "lng": 144.9969486 }, "geometry": { "type": "Point", "coordinates": [ 144.9969486, -37.7804259 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5915232922, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7808229, "lng": 144.9968257 }, "geometry": { "type": "Point", "coordinates": [ 144.996825699999988, -37.7808229 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7855723962, "name": "Taxiboat", "full_name": "Taxiboat amenity restaurant cuisine asian phone +61 3 9482 7882", "lat": -37.7799506, "lng": 144.9970389 }, "geometry": { "type": "Point", "coordinates": [ 144.9970389, -37.7799506 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1427083075, "name": "Recycled Delightful", "full_name": "Recycled Delightful shop art", "lat": -37.780549, "lng": 144.9966341 }, "geometry": { "type": "Point", "coordinates": [ 144.9966341, -37.780549 ] } }
+]
+}

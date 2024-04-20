@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 621822102, "name": "nan", "full_name": "railway buffer_stop", "lat": -37.73366, "lng": 145.1426585 }, "geometry": { "type": "Point", "coordinates": [ 145.14265850000001, -37.73366 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 621822118, "name": "nan", "full_name": "railway buffer_stop", "lat": -37.7336589, "lng": 145.1426773 }, "geometry": { "type": "Point", "coordinates": [ 145.1426773, -37.7336589 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 621822183, "name": "nan", "full_name": "railway buffer_stop", "lat": -37.7336711, "lng": 145.1425861 }, "geometry": { "type": "Point", "coordinates": [ 145.142586099999988, -37.7336711 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 621822085, "name": "nan", "full_name": "railway buffer_stop", "lat": -37.73366, "lng": 145.1426437 }, "geometry": { "type": "Point", "coordinates": [ 145.1426437, -37.73366 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 621822196, "name": "nan", "full_name": "railway buffer_stop", "lat": -37.7336616, "lng": 145.1426082 }, "geometry": { "type": "Point", "coordinates": [ 145.142608200000012, -37.7336616 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 621822206, "name": "nan", "full_name": "railway buffer_stop", "lat": -37.73366, "lng": 145.142627 }, "geometry": { "type": "Point", "coordinates": [ 145.142627, -37.73366 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 621826710, "name": "nan", "full_name": "railway buffer_stop", "lat": -37.7336726, "lng": 145.1425312 }, "geometry": { "type": "Point", "coordinates": [ 145.1425312, -37.7336726 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 48994205, "name": "nan", "full_name": "railway miniature", "lat": -37.7335813, "lng": 145.1426681 }, "geometry": { "type": "LineString", "coordinates": [ [ 145.1426314, -37.7335912 ], [ 145.1427048, -37.7335714 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 310061159, "name": "nan", "full_name": "railway miniature", "lat": -37.732780062237438, "lng": 145.1418974457246 }, "geometry": { "type": "LineString", "coordinates": [ [ 145.1419661, -37.7328442 ], [ 145.141958100000011, -37.7328176 ], [ 145.141941300000013, -37.732797 ], [ 145.14191550000001, -37.7327755 ], [ 145.141888099999989, -37.7327634 ], [ 145.1418438, -37.7327538 ], [ 145.141804, -37.7327534 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 310061160, "name": "nan", "full_name": "railway miniature", "lat": -37.7329377, "lng": 145.1419462 }, "geometry": { "type": "LineString", "coordinates": [ [ 145.1419319, -37.732954 ], [ 145.14196050000001, -37.7329214 ] ] } }
+]
+}

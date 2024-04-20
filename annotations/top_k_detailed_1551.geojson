@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3698192229, "name": "Faraday’s Cage", "full_name": "Faraday’s Cage shop bakery", "lat": -37.7993532, "lng": 144.98285 }, "geometry": { "type": "Point", "coordinates": [ 144.98285, -37.7993532 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 765721098, "name": "Glitz & Glam Nails and Beauty", "full_name": "Glitz & Glam Nails and Beauty phone +61 3 9417 1123 shop beauty", "lat": -37.7984932, "lng": 144.984222 }, "geometry": { "type": "Point", "coordinates": [ 144.984222, -37.7984932 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2618171666, "name": "Trang Bakery Café", "full_name": "Trang Bakery Café shop bakery", "lat": -37.7973419, "lng": 144.9846986 }, "geometry": { "type": "Point", "coordinates": [ 144.9846986, -37.7973419 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9184142732, "name": "Maa Interiors", "full_name": "Maa Interiors shop interior_decoration", "lat": -37.7989718, "lng": 144.9832999 }, "geometry": { "type": "Point", "coordinates": [ 144.9832999, -37.7989718 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 705053470, "name": "Miss Katie’s Crab Shack", "full_name": "Miss Katie’s Crab Shack amenity restaurant outdoor_seating cuisine seafood smoking outside", "lat": -37.7993377, "lng": 144.984053 }, "geometry": { "type": "Point", "coordinates": [ 144.984053, -37.7993377 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8928430926, "name": "Ellie & Frank Beauty Studio", "full_name": "Ellie & Frank Beauty Studio phone +61 430 967 812 shop hairdresser", "lat": -37.7987358, "lng": 144.9844641 }, "geometry": { "type": "Point", "coordinates": [ 144.9844641, -37.7987358 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 33688133, "name": "Macrobertson Lane", "full_name": "Macrobertson Lane highway service service alley", "lat": -37.79770645, "lng": 144.9840639 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.983999899999986, -37.7981048 ], [ 144.9841279, -37.7973081 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 699437448, "name": "Big Dreams", "full_name": "Big Dreams phone +61 3 9078 9438 shop toys", "lat": -37.7991521, "lng": 144.9843979 }, "geometry": { "type": "Point", "coordinates": [ 144.9843979, -37.7991521 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 990669419, "name": "Hippo Bottle & Bar", "full_name": "Hippo Bottle & Bar shop alcohol", "lat": -37.800536, "lng": 144.984154 }, "geometry": { "type": "Point", "coordinates": [ 144.984154, -37.800536 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7248467257, "name": "Terror Twilight", "full_name": "Terror Twilight amenity cafe phone +61 3 9417 0129", "lat": -37.7991491, "lng": 144.9849275 }, "geometry": { "type": "Point", "coordinates": [ 144.9849275, -37.7991491 ] } }
+]
+}

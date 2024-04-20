@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5217624032, "name": "nan", "full_name": "shop clothes", "lat": -37.9896003, "lng": 145.2115621 }, "geometry": { "type": "Point", "coordinates": [ 145.2115621, -37.9896003 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5217624042, "name": "Calcutta Sweets", "full_name": "Calcutta Sweets amenity restaurant", "lat": -37.9899805, "lng": 145.2117543 }, "geometry": { "type": "Point", "coordinates": [ 145.2117543, -37.9899805 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5217624028, "name": "Fiji Bula Shop", "full_name": "Fiji Bula Shop shop convenience", "lat": -37.9898323, "lng": 145.2123327 }, "geometry": { "type": "Point", "coordinates": [ 145.2123327, -37.9898323 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5227802688, "name": "nan", "full_name": "shop hairdresser", "lat": -37.9884067, "lng": 145.2122788 }, "geometry": { "type": "Point", "coordinates": [ 145.2122788, -37.9884067 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5227802632, "name": "73-77", "full_name": "73-77 building retail", "lat": -37.9880378, "lng": 145.2134798 }, "geometry": { "type": "Point", "coordinates": [ 145.213479799999988, -37.9880378 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5257210632, "name": "Cakes Gallery", "full_name": "Cakes Gallery shop patisserie", "lat": -37.988505, "lng": 145.2109783 }, "geometry": { "type": "Point", "coordinates": [ 145.2109783, -37.988505 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5217624037, "name": "Nikitas Fashion", "full_name": "Nikitas Fashion shop clothes", "lat": -37.9899932, "lng": 145.2118713 }, "geometry": { "type": "Point", "coordinates": [ 145.211871300000013, -37.9899932 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5217624053, "name": "Australian Tattoo", "full_name": "Australian Tattoo shop tattoo", "lat": -37.9900494, "lng": 145.2138127 }, "geometry": { "type": "Point", "coordinates": [ 145.2138127, -37.9900494 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5217624027, "name": "Duncan", "full_name": "Duncan shop alcohol", "lat": -37.9899295, "lng": 145.2115037 }, "geometry": { "type": "Point", "coordinates": [ 145.2115037, -37.9899295 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5508666854, "name": "Total Hair Studio", "full_name": "Total Hair Studio shop hairdresser", "lat": -37.9881391, "lng": 145.2121729 }, "geometry": { "type": "Point", "coordinates": [ 145.212172900000013, -37.9881391 ] } }
+]
+}

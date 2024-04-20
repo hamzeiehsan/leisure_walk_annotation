@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 30086200, "name": "Melbourne Bowling Club", "full_name": "Melbourne Bowling Club leisure pitch sport bowls", "lat": -37.85513177986855, "lng": 144.99172957509057 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9920031, -37.854804 ], [ 144.9915944, -37.854751 ], [ 144.9914561, -37.8554599 ], [ 144.9918648, -37.8555123 ], [ 144.9920031, -37.854804 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 576801078, "name": "The Swan Hotel", "full_name": "The Swan Hotel amenity pub", "lat": -37.8528073, "lng": 144.99345 }, "geometry": { "type": "Point", "coordinates": [ 144.99345, -37.8528073 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 576798699, "name": "Union Hotel", "full_name": "Union Hotel amenity pub", "lat": -37.854942, "lng": 144.993065 }, "geometry": { "type": "Point", "coordinates": [ 144.993065, -37.854942 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6237759372, "name": "GLUE Content", "full_name": "GLUE Content phone +61 417 120 450 description GLUE Content is a video production company that produces digital content for some of Australia’s leading companies, brands, agencies and sporting organisations. email hello@gluecontent.com.au office company", "lat": -37.8530137, "lng": 144.9933703 }, "geometry": { "type": "Point", "coordinates": [ 144.9933703, -37.8530137 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6388380285, "name": "Tusk", "full_name": "Tusk amenity restaurant", "lat": -37.8533197, "lng": 144.9929348 }, "geometry": { "type": "Point", "coordinates": [ 144.9929348, -37.8533197 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10718125605, "name": "Fat Boy", "full_name": "Fat Boy amenity bar", "lat": -37.8557509, "lng": 144.9927547 }, "geometry": { "type": "Point", "coordinates": [ 144.9927547, -37.8557509 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10718125607, "name": "Betty's Burgers", "full_name": "Betty's Burgers amenity fast_food brand Betty's Burgers cuisine burger takeaway", "lat": -37.8533783, "lng": 144.9930285 }, "geometry": { "type": "Point", "coordinates": [ 144.9930285, -37.8533783 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10718125506, "name": "Wonderland", "full_name": "Wonderland amenity bar", "lat": -37.8558325, "lng": 144.992456 }, "geometry": { "type": "Point", "coordinates": [ 144.992456, -37.8558325 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5826014703, "name": "Rebel Blues", "full_name": "Rebel Blues amenity restaurant cuisine greek", "lat": -37.855633, "lng": 144.9928507 }, "geometry": { "type": "Point", "coordinates": [ 144.9928507, -37.855633 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 576800317, "name": "Windsor Convenience Store", "full_name": "Windsor Convenience Store shop convenience", "lat": -37.8534427, "lng": 144.993332 }, "geometry": { "type": "Point", "coordinates": [ 144.993332, -37.8534427 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 179560110, "name": "Rosalind Park Lookout Tower", "full_name": "Rosalind Park Lookout Tower description Tourist lookout tower.  Historic mining poppet head. tourism viewpoint fixme add proper tags: Construction = Steel tube and lattice;  Type = Old mining poppet head", "lat": -36.756685773395184, "lng": 144.27766059279213 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.2775753, -36.7566231 ], [ 144.2775789, -36.7566867 ], [ 144.277582700000011, -36.7567543 ], [ 144.2776599, -36.7567515 ], [ 144.277745900000014, -36.7567484 ], [ 144.2777385, -36.7566173 ], [ 144.2775753, -36.7566231 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973172, "name": "nan", "full_name": "natural tree", "lat": -36.7575322, "lng": 144.2762451 }, "geometry": { "type": "Point", "coordinates": [ 144.276245100000011, -36.7575322 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973174, "name": "nan", "full_name": "natural tree", "lat": -36.7571653, "lng": 144.2758266 }, "geometry": { "type": "Point", "coordinates": [ 144.275826599999988, -36.7571653 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973160, "name": "nan", "full_name": "natural tree", "lat": -36.7577366, "lng": 144.2766336 }, "geometry": { "type": "Point", "coordinates": [ 144.2766336, -36.7577366 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973165, "name": "nan", "full_name": "natural tree", "lat": -36.7578704, "lng": 144.2768846 }, "geometry": { "type": "Point", "coordinates": [ 144.276884599999988, -36.7578704 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973176, "name": "nan", "full_name": "natural tree", "lat": -36.756913, "lng": 144.2758986 }, "geometry": { "type": "Point", "coordinates": [ 144.2758986, -36.756913 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973164, "name": "nan", "full_name": "natural tree", "lat": -36.7578197, "lng": 144.2769256 }, "geometry": { "type": "Point", "coordinates": [ 144.2769256, -36.7578197 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8132795352, "name": "nan", "full_name": "natural tree", "lat": -36.7579725, "lng": 144.2795008 }, "geometry": { "type": "Point", "coordinates": [ 144.2795008, -36.7579725 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973168, "name": "nan", "full_name": "natural tree", "lat": -36.7579487, "lng": 144.27671 }, "geometry": { "type": "Point", "coordinates": [ 144.27671, -36.7579487 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973163, "name": "nan", "full_name": "natural tree", "lat": -36.7577602, "lng": 144.2769243 }, "geometry": { "type": "Point", "coordinates": [ 144.2769243, -36.7577602 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5346322934, "name": "Altona IGA", "full_name": "Altona IGA shop supermarket", "lat": -37.8658492, "lng": 144.8306619 }, "geometry": { "type": "Point", "coordinates": [ 144.8306619, -37.8658492 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6416137039, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Corymbia ficifolia", "lat": -37.864244, "lng": 144.829357 }, "geometry": { "type": "Point", "coordinates": [ 144.829357, -37.864244 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6416138197, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Corymbia ficifolia", "lat": -37.86426, "lng": 144.829491 }, "geometry": { "type": "Point", "coordinates": [ 144.829491, -37.86426 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6416137698, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Corymbia ficifolia", "lat": -37.864186, "lng": 144.828812 }, "geometry": { "type": "Point", "coordinates": [ 144.828812, -37.864186 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6417261918, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Corymbia ficifolia", "lat": -37.864317, "lng": 144.83006 }, "geometry": { "type": "Point", "coordinates": [ 144.83006, -37.864317 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6416135935, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Corymbia ficifolia", "lat": -37.864311, "lng": 144.829963 }, "geometry": { "type": "Point", "coordinates": [ 144.829963, -37.864311 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6416133915, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Corymbia ficifolia", "lat": -37.864214, "lng": 144.829092 }, "geometry": { "type": "Point", "coordinates": [ 144.829092, -37.864214 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6416136339, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Corymbia ficifolia", "lat": -37.864169, "lng": 144.828665 }, "geometry": { "type": "Point", "coordinates": [ 144.828665, -37.864169 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6416134416, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Corymbia ficifolia", "lat": -37.864283, "lng": 144.829745 }, "geometry": { "type": "Point", "coordinates": [ 144.829745, -37.864283 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6416133975, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Corymbia ficifolia", "lat": -37.864294, "lng": 144.829853 }, "geometry": { "type": "Point", "coordinates": [ 144.829853, -37.864294 ] } }
+]
+}

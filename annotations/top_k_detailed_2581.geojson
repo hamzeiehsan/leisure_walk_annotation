@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3527586404, "name": "Dunolly Uniting Church", "full_name": "Dunolly Uniting Church amenity place_of_worship denomination uniting religion christian", "lat": -36.8570544, "lng": 143.7310441 }, "geometry": { "type": "Point", "coordinates": [ 143.7310441, -36.8570544 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6796792448, "name": "nan", "full_name": "natural tree", "lat": -36.856729, "lng": 143.729096 }, "geometry": { "type": "Point", "coordinates": [ 143.729096, -36.856729 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6796792439, "name": "nan", "full_name": "natural tree", "lat": -36.8583337, "lng": 143.7306218 }, "geometry": { "type": "Point", "coordinates": [ 143.7306218, -36.8583337 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6796792449, "name": "nan", "full_name": "natural tree", "lat": -36.8567191, "lng": 143.7288836 }, "geometry": { "type": "Point", "coordinates": [ 143.728883599999989, -36.8567191 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6796792447, "name": "nan", "full_name": "natural tree", "lat": -36.8569471, "lng": 143.7293385 }, "geometry": { "type": "Point", "coordinates": [ 143.729338500000011, -36.8569471 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6796792446, "name": "nan", "full_name": "natural tree", "lat": -36.8571044, "lng": 143.7294447 }, "geometry": { "type": "Point", "coordinates": [ 143.729444699999988, -36.8571044 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6796792437, "name": "nan", "full_name": "natural tree", "lat": -36.8588775, "lng": 143.7311475 }, "geometry": { "type": "Point", "coordinates": [ 143.7311475, -36.8588775 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6796792445, "name": "nan", "full_name": "natural tree", "lat": -36.8578762, "lng": 143.7299846 }, "geometry": { "type": "Point", "coordinates": [ 143.7299846, -36.8578762 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6796792444, "name": "nan", "full_name": "natural tree", "lat": -36.8577162, "lng": 143.7298111 }, "geometry": { "type": "Point", "coordinates": [ 143.7298111, -36.8577162 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6796792438, "name": "nan", "full_name": "natural tree", "lat": -36.8587246, "lng": 143.7310006 }, "geometry": { "type": "Point", "coordinates": [ 143.731000599999987, -36.8587246 ] } }
+]
+}

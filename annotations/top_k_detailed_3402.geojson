@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5285526938, "name": "The Cheescake Shop", "full_name": "The Cheescake Shop shop bakery", "lat": -37.9895328, "lng": 145.2149035 }, "geometry": { "type": "Point", "coordinates": [ 145.2149035, -37.9895328 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5285524955, "name": "Sav's Halal Butchery", "full_name": "Sav's Halal Butchery shop butcher", "lat": -37.9881678, "lng": 145.2159873 }, "geometry": { "type": "Point", "coordinates": [ 145.2159873, -37.9881678 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5285525009, "name": "Dandy", "full_name": "Dandy shop bakery", "lat": -37.9881911, "lng": 145.2160221 }, "geometry": { "type": "Point", "coordinates": [ 145.2160221, -37.9881911 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5285524997, "name": "MKS Spices n Things", "full_name": "MKS Spices n Things shop supermarket", "lat": -37.9892872, "lng": 145.2152267 }, "geometry": { "type": "Point", "coordinates": [ 145.215226699999988, -37.9892872 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5217624049, "name": "AB Bakery Dandenong", "full_name": "AB Bakery Dandenong amenity cafe phone +61 3 9794 9500", "lat": -37.9890925, "lng": 145.2140879 }, "geometry": { "type": "Point", "coordinates": [ 145.21408790000001, -37.9890925 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5285526961, "name": "Pizza Hut", "full_name": "Pizza Hut amenity restaurant brand Pizza Hut cuisine pizza", "lat": -37.9892266, "lng": 145.2164875 }, "geometry": { "type": "Point", "coordinates": [ 145.2164875, -37.9892266 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4513522407, "name": "Biryani Place", "full_name": "Biryani Place amenity restaurant cuisine indian", "lat": -37.9886474, "lng": 145.2159471 }, "geometry": { "type": "Point", "coordinates": [ 145.2159471, -37.9886474 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3404535195, "name": "Domino's", "full_name": "Domino's amenity fast_food brand Domino's cuisine pizza takeaway", "lat": -37.9885906, "lng": 145.2164233 }, "geometry": { "type": "Point", "coordinates": [ 145.2164233, -37.9885906 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5217624059, "name": "Vincent Raux & Sons", "full_name": "Vincent Raux & Sons shop furniture", "lat": -37.9889752, "lng": 145.2140713 }, "geometry": { "type": "Point", "coordinates": [ 145.2140713, -37.9889752 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5285525004, "name": "Krishna's", "full_name": "Krishna's shop hairdresser", "lat": -37.98972, "lng": 145.2156339 }, "geometry": { "type": "Point", "coordinates": [ 145.2156339, -37.98972 ] } }
+]
+}

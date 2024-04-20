@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9371203662, "name": "Chemist Warehouse", "full_name": "Chemist Warehouse brand Chemist Warehouse amenity pharmacy check_date 2022-05-12 dispensing healthcare pharmacy", "lat": -38.0757369, "lng": 144.3559632 }, "geometry": { "type": "Point", "coordinates": [ 144.3559632, -38.0757369 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9371203664, "name": "Rivers", "full_name": "Rivers brand Rivers shop clothes", "lat": -38.0753623, "lng": 144.3549855 }, "geometry": { "type": "Point", "coordinates": [ 144.3549855, -38.0753623 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1311737974, "name": "Coles", "full_name": "Coles brand Coles opening_hours Mo-Su 06:00-22:00 phone +61 3 5272 9100 shop supermarket", "lat": -38.0759456, "lng": 144.3556949 }, "geometry": { "type": "Point", "coordinates": [ 144.3556949, -38.0759456 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1546759041, "name": "Australia Post", "full_name": "Australia Post brand Australia Post website www.australiapost.com.au amenity post_office operator Australia Post", "lat": -38.0755453, "lng": 144.3563977 }, "geometry": { "type": "Point", "coordinates": [ 144.3563977, -38.0755453 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 289675581, "name": "nan", "full_name": "natural tree_row", "lat": -38.077878, "lng": 144.3528751 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.3517577, -38.0777451 ], [ 144.3539925, -38.0780109 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1311738319, "name": "Commonwealth Bank", "full_name": "Commonwealth Bank brand Commonwealth Bank amenity bank atm", "lat": -38.0751756, "lng": 144.3565103 }, "geometry": { "type": "Point", "coordinates": [ 144.3565103, -38.0751756 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1546755070, "name": "McDonald's", "full_name": "McDonald's brand McDonald's amenity fast_food check_date 2022-05-12 cuisine burger takeaway", "lat": -38.0751944, "lng": 144.3556327 }, "geometry": { "type": "Point", "coordinates": [ 144.3556327, -38.0751944 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1546755075, "name": "Bendigo Bank", "full_name": "Bendigo Bank brand Bendigo Bank amenity bank atm", "lat": -38.0752903, "lng": 144.3564842 }, "geometry": { "type": "Point", "coordinates": [ 144.356484200000011, -38.0752903 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10104746507, "name": "nan", "full_name": "highway crossing crossing marked", "lat": -38.0760322, "lng": 144.3583412 }, "geometry": { "type": "Point", "coordinates": [ 144.358341200000012, -38.0760322 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1974846864, "name": "nan", "full_name": "highway crossing traffic_calming hump", "lat": -38.0751326, "lng": 144.3571658 }, "geometry": { "type": "Point", "coordinates": [ 144.3571658, -38.0751326 ] } }
+]
+}

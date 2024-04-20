@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4056218138, "name": "Wild Grains Bakehouse", "full_name": "Wild Grains Bakehouse shop bakery", "lat": -37.6540684, "lng": 145.5153821 }, "geometry": { "type": "Point", "coordinates": [ 145.515382100000011, -37.6540684 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7893366592, "name": "Natures Cakes", "full_name": "Natures Cakes amenity cafe phone +61 412 823 161 opening_hours Mo-Su 08:30-17:00", "lat": -37.6544296, "lng": 145.5147908 }, "geometry": { "type": "Point", "coordinates": [ 145.514790799999986, -37.6544296 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11465179453, "name": "My Little Kitchen", "full_name": "My Little Kitchen amenity cafe", "lat": -37.6539742, "lng": 145.5174316 }, "geometry": { "type": "Point", "coordinates": [ 145.5174316, -37.6539742 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4957929622, "name": "Mocha & Lime", "full_name": "Mocha & Lime amenity cafe phone +61 3 5962 2288 opening_hours Mo-We 08:15-15:00; Th-Su 08:15-16:00 cuisine burger;noodles;breakfast;asian;local", "lat": -37.6536693, "lng": 145.5164226 }, "geometry": { "type": "Point", "coordinates": [ 145.5164226, -37.6536693 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4056219366, "name": "Subway", "full_name": "Subway brand Subway amenity fast_food cuisine sandwich takeaway", "lat": -37.6543933, "lng": 145.5155028 }, "geometry": { "type": "Point", "coordinates": [ 145.5155028, -37.6543933 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7738540144, "name": "Watts River Cafe", "full_name": "Watts River Cafe amenity cafe", "lat": -37.6541025, "lng": 145.5151323 }, "geometry": { "type": "Point", "coordinates": [ 145.5151323, -37.6541025 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7738540145, "name": "Monroe's Burger and Beers", "full_name": "Monroe's Burger and Beers amenity fast_food phone +61 3 5962 2033 cuisine burger", "lat": -37.654455, "lng": 145.5146367 }, "geometry": { "type": "Point", "coordinates": [ 145.514636700000011, -37.654455 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9271085825, "name": "Miss Spelts Grains & Goodies", "full_name": "Miss Spelts Grains & Goodies shop convenience phone +61 3 5962 6470 fixme verify location", "lat": -37.6543473, "lng": 145.5155448 }, "geometry": { "type": "Point", "coordinates": [ 145.515544799999986, -37.6543473 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3565547534, "name": "Bakers Delight", "full_name": "Bakers Delight brand Bakers Delight operator Bakers Delight shop bakery phone +61 3 5962 2911 opening_hours Mo-Su 06:00-19:00", "lat": -37.6527501, "lng": 145.5182403 }, "geometry": { "type": "Point", "coordinates": [ 145.5182403, -37.6527501 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9270821626, "name": "Cheesemonger Sophie", "full_name": "Cheesemonger Sophie shop cheese", "lat": -37.6544641, "lng": 145.5145752 }, "geometry": { "type": "Point", "coordinates": [ 145.5145752, -37.6544641 ] } }
+]
+}

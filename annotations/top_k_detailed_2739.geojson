@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3046064445, "name": "New Quay Buffet", "full_name": "New Quay Buffet amenity restaurant", "lat": -37.8140651, "lng": 144.9439495 }, "geometry": { "type": "Point", "coordinates": [ 144.9439495, -37.8140651 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375923628, "name": "Docklands Lotus", "full_name": "Docklands Lotus amenity restaurant cuisine chinese opening_hours Su,Mo 16:30-21:00; We-Sa 11:30-14:30,16:30-21:00; Tu off", "lat": -37.814202, "lng": 144.9433322 }, "geometry": { "type": "Point", "coordinates": [ 144.943332199999986, -37.814202 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375923624, "name": "Aussie Steak N Burger", "full_name": "Aussie Steak N Burger amenity restaurant cuisine steak_house", "lat": -37.8141847, "lng": 144.9431551 }, "geometry": { "type": "Point", "coordinates": [ 144.943155100000013, -37.8141847 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375917193, "name": "Steakhouse 66", "full_name": "Steakhouse 66 amenity restaurant cuisine steak_house email info@steakhouse66.com.au opening_hours Mo-Su 12:00-15:00,17:30-22:00 phone +61 3 9640 0808", "lat": -37.815254, "lng": 144.940745 }, "geometry": { "type": "Point", "coordinates": [ 144.940745, -37.815254 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375919093, "name": "Man Mo", "full_name": "Man Mo amenity restaurant cuisine chinese", "lat": -37.8148247, "lng": 144.9418904 }, "geometry": { "type": "Point", "coordinates": [ 144.9418904, -37.8148247 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375918793, "name": "Berth", "full_name": "Berth amenity restaurant", "lat": -37.815239, "lng": 144.94183 }, "geometry": { "type": "Point", "coordinates": [ 144.94183, -37.815239 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375923629, "name": "Capri", "full_name": "Capri amenity cafe opening_hours Mo-Sa 07:00-13:30 check_date 2023-11-13", "lat": -37.8140911, "lng": 144.9428798 }, "geometry": { "type": "Point", "coordinates": [ 144.942879799999986, -37.8140911 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2849821022, "name": "Cafe Bourgeois", "full_name": "Cafe Bourgeois amenity cafe internet_access smoking outside wifi free", "lat": -37.8132379, "lng": 144.941182 }, "geometry": { "type": "Point", "coordinates": [ 144.941182, -37.8132379 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3375923620, "name": "Achelya", "full_name": "Achelya amenity restaurant cuisine turkish check_date 2023-11-13", "lat": -37.8142627, "lng": 144.9426755 }, "geometry": { "type": "Point", "coordinates": [ 144.9426755, -37.8142627 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3046064444, "name": "Fish Bar", "full_name": "Fish Bar amenity fast_food", "lat": -37.8146897, "lng": 144.9427641 }, "geometry": { "type": "Point", "coordinates": [ 144.9427641, -37.8146897 ] } }
+]
+}

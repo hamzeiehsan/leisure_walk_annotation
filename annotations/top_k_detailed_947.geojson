@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3845955401, "name": "Cellarbrations At Victoria Market", "full_name": "Cellarbrations At Victoria Market shop alcohol", "lat": -37.8059146, "lng": 144.9579315 }, "geometry": { "type": "Point", "coordinates": [ 144.9579315, -37.8059146 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10911261803, "name": "nan", "full_name": "shop butcher", "lat": -37.8067548, "lng": 144.9584369 }, "geometry": { "type": "Point", "coordinates": [ 144.9584369, -37.8067548 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11052096875, "name": "Andrew's", "full_name": "Andrew's shop bakery", "lat": -37.8067972, "lng": 144.9590226 }, "geometry": { "type": "Point", "coordinates": [ 144.9590226, -37.8067972 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4926223721, "name": "Bratwurst Shop & Co", "full_name": "Bratwurst Shop & Co amenity fast_food cuisine sausage", "lat": -37.8070974, "lng": 144.9593186 }, "geometry": { "type": "Point", "coordinates": [ 144.959318599999989, -37.8070974 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11359210990, "name": "nan", "full_name": "wheelchair ref A116-A113 shop greengrocer level 0 organic", "lat": -37.8064696, "lng": 144.9578843 }, "geometry": { "type": "Point", "coordinates": [ 144.957884299999989, -37.8064696 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11359210987, "name": "Il Fruttivendolo", "full_name": "Il Fruttivendolo wheelchair ref A104-A100 shop greengrocer level 0 organic", "lat": -37.8064132, "lng": 144.9574889 }, "geometry": { "type": "Point", "coordinates": [ 144.957488899999987, -37.8064132 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6362050885, "name": "DonWoorie Korean BarBQ", "full_name": "DonWoorie Korean BarBQ amenity restaurant", "lat": -37.8058355, "lng": 144.9572617 }, "geometry": { "type": "Point", "coordinates": [ 144.9572617, -37.8058355 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2960613933, "name": "Queen Victoria Market - A Shed", "full_name": "Queen Victoria Market - A Shed shop mall", "lat": -37.8063319, "lng": 144.9570787 }, "geometry": { "type": "Point", "coordinates": [ 144.957078700000011, -37.8063319 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10911261802, "name": "Happy Tuna", "full_name": "Happy Tuna shop seafood", "lat": -37.8065754, "lng": 144.9589685 }, "geometry": { "type": "Point", "coordinates": [ 144.9589685, -37.8065754 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11162131788, "name": "Sopretty", "full_name": "Sopretty shop houseware", "lat": -37.8077255, "lng": 144.9565186 }, "geometry": { "type": "Point", "coordinates": [ 144.95651860000001, -37.8077255 ] } }
+]
+}

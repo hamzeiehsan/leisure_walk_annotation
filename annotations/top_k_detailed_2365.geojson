@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3956028388, "name": "nan", "full_name": "amenity shelter shelter_type picnic_shelter", "lat": -37.862725, "lng": 144.8388064 }, "geometry": { "type": "Point", "coordinates": [ 144.83880640000001, -37.862725 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2496922341, "name": "nan", "full_name": "amenity bench", "lat": -37.861967, "lng": 144.840116 }, "geometry": { "type": "Point", "coordinates": [ 144.840116, -37.861967 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6417295729, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Lophostemon confertus", "lat": -37.863556, "lng": 144.840162 }, "geometry": { "type": "Point", "coordinates": [ 144.840162, -37.863556 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3956028389, "name": "nan", "full_name": "amenity toilets", "lat": -37.862773, "lng": 144.8391734 }, "geometry": { "type": "Point", "coordinates": [ 144.8391734, -37.862773 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6417293504, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Lagerstroemia indica", "lat": -37.862976, "lng": 144.836053 }, "geometry": { "type": "Point", "coordinates": [ 144.836053, -37.862976 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6417293630, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Lagerstroemia indica", "lat": -37.863101, "lng": 144.835981 }, "geometry": { "type": "Point", "coordinates": [ 144.835981, -37.863101 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6417296173, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Lagerstroemia indica", "lat": -37.863217, "lng": 144.83591 }, "geometry": { "type": "Point", "coordinates": [ 144.83591, -37.863217 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6417292729, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Lagerstroemia indica", "lat": -37.863101, "lng": 144.836094 }, "geometry": { "type": "Point", "coordinates": [ 144.836094, -37.863101 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6417291554, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Lagerstroemia indica", "lat": -37.862818, "lng": 144.836262 }, "geometry": { "type": "Point", "coordinates": [ 144.836262, -37.862818 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6417295254, "name": "nan", "full_name": "natural tree source data.gov.au:Hobsons Bay City Council species Cupressus macrocarpa circumference 0.6", "lat": -37.86216, "lng": 144.840426 }, "geometry": { "type": "Point", "coordinates": [ 144.840426, -37.86216 ] } }
+]
+}

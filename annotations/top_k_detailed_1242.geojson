@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 48663946, "name": "nan", "full_name": "highway cycleway bicycle designated foot designated bridge layer 1", "lat": -37.8311379, "lng": 144.9108475 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.910902, -37.8311737 ], [ 144.910793, -37.8311021 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3857765361, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8322519, "lng": 144.912073 }, "geometry": { "type": "Point", "coordinates": [ 144.912073, -37.8322519 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 242399116, "name": "nan", "full_name": "direction forward highway give_way", "lat": -37.8322584, "lng": 144.9122592 }, "geometry": { "type": "Point", "coordinates": [ 144.9122592, -37.8322584 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8950199324, "name": "nan", "full_name": "direction forward highway give_way", "lat": -37.8323279, "lng": 144.9118316 }, "geometry": { "type": "Point", "coordinates": [ 144.9118316, -37.8323279 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 968801873, "name": "nan", "full_name": "natural tree_row", "lat": -37.828051353575944, "lng": 144.90905410018831 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9074451, -37.829025 ], [ 144.9090749, -37.8279949 ], [ 144.909566500000011, -37.8277072 ], [ 144.9098467, -37.8275744 ], [ 144.910442100000012, -37.827307 ], [ 144.9107234, -37.8271908 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1015417101, "name": "nan", "full_name": "building roof layer 1", "lat": -37.829121, "lng": 144.9091826 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.909052, -37.8290907 ], [ 144.909201700000011, -37.8290146 ], [ 144.909313200000014, -37.8291513 ], [ 144.9091635, -37.8292274 ], [ 144.909052, -37.8290907 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 983896869, "name": "Todd Road", "full_name": "Todd Road highway secondary lanes 3 surface asphalt maxspeed 60", "lat": -37.831395116231334, "lng": 144.91174055870329 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9117422, -37.8315653 ], [ 144.911740400000014, -37.8315218 ], [ 144.9117405, -37.8312249 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 617905595, "name": "nan", "full_name": "tourism picnic_site", "lat": -37.8299383, "lng": 144.9110418 }, "geometry": { "type": "Point", "coordinates": [ 144.9110418, -37.8299383 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 617905568, "name": "nan", "full_name": "tourism picnic_site", "lat": -37.8307015, "lng": 144.9103657 }, "geometry": { "type": "Point", "coordinates": [ 144.9103657, -37.8307015 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 617905548, "name": "nan", "full_name": "tourism picnic_site", "lat": -37.8309525, "lng": 144.9104393 }, "geometry": { "type": "Point", "coordinates": [ 144.9104393, -37.8309525 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 418300546, "name": "Shedshaker Brewing", "full_name": "Shedshaker Brewing amenity pub opening_hours Tu-Th 14:00-21:00; Fr 14:00-22:00; Sa 12:00-22:00; Su 12:00-20:00 outdoor_seating phone +61 487 860 060 building layer -1 brewery microbrewery", "lat": -37.056132, "lng": 144.2142108 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.214156300000013, -37.0560402 ], [ 144.2141129, -37.0561969 ], [ 144.2142653, -37.0562238 ], [ 144.2143087, -37.0560671 ], [ 144.214156300000013, -37.0560402 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 639613756, "name": "nan", "full_name": "landuse greenhouse_horticulture", "lat": -37.0539068, "lng": 144.2140011 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.2139665, -37.0538237 ], [ 144.2139578, -37.0539873 ], [ 144.214035700000011, -37.0539899 ], [ 144.2140444, -37.0538263 ], [ 144.2139665, -37.0538237 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6047893834, "name": "nan", "full_name": "natural tree", "lat": -37.0543145, "lng": 144.2135678 }, "geometry": { "type": "Point", "coordinates": [ 144.2135678, -37.0543145 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3123284524, "name": "nan", "full_name": "natural tree", "lat": -37.0560888, "lng": 144.2165973 }, "geometry": { "type": "Point", "coordinates": [ 144.216597299999989, -37.0560888 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3123284523, "name": "nan", "full_name": "natural tree", "lat": -37.0560525, "lng": 144.2163258 }, "geometry": { "type": "Point", "coordinates": [ 144.2163258, -37.0560525 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3123284522, "name": "nan", "full_name": "natural tree", "lat": -37.0559632, "lng": 144.2166808 }, "geometry": { "type": "Point", "coordinates": [ 144.2166808, -37.0559632 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6047893835, "name": "nan", "full_name": "natural tree", "lat": -37.0543425, "lng": 144.2137067 }, "geometry": { "type": "Point", "coordinates": [ 144.213706699999989, -37.0543425 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3123284521, "name": "nan", "full_name": "natural tree", "lat": -37.0559218, "lng": 144.2163902 }, "geometry": { "type": "Point", "coordinates": [ 144.2163902, -37.0559218 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3123284520, "name": "nan", "full_name": "natural tree", "lat": -37.0558881, "lng": 144.216143 }, "geometry": { "type": "Point", "coordinates": [ 144.216143, -37.0558881 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8221067515, "name": "nan", "full_name": "natural tree", "lat": -37.056166, "lng": 144.2140654 }, "geometry": { "type": "Point", "coordinates": [ 144.21406540000001, -37.056166 ] } }
+]
+}

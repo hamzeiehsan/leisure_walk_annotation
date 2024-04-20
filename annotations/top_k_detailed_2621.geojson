@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5203746966, "name": "Bread Kingdom", "full_name": "Bread Kingdom shop bakery", "lat": -37.951293, "lng": 145.1512632 }, "geometry": { "type": "Point", "coordinates": [ 145.151263199999988, -37.951293 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5195526338, "name": "Breadtop", "full_name": "Breadtop brand Breadtop shop bakery cuisine chinese", "lat": -37.9511483, "lng": 145.1522696 }, "geometry": { "type": "Point", "coordinates": [ 145.152269600000011, -37.9511483 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5402564823, "name": "nan", "full_name": "shop greengrocer", "lat": -37.9504611, "lng": 145.1506649 }, "geometry": { "type": "Point", "coordinates": [ 145.15066490000001, -37.9504611 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5213608169, "name": "Golden Age Bread & Cake", "full_name": "Golden Age Bread & Cake shop bakery", "lat": -37.9504408, "lng": 145.1509518 }, "geometry": { "type": "Point", "coordinates": [ 145.1509518, -37.9504408 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5195526354, "name": "Hải Bảo Live Seafood", "full_name": "Hải Bảo Live Seafood shop seafood", "lat": -37.9507179, "lng": 145.1518012 }, "geometry": { "type": "Point", "coordinates": [ 145.1518012, -37.9507179 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5203747015, "name": "HS Cakes", "full_name": "HS Cakes shop bakery", "lat": -37.9514109, "lng": 145.1509338 }, "geometry": { "type": "Point", "coordinates": [ 145.1509338, -37.9514109 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5213608170, "name": "Seafood Smart", "full_name": "Seafood Smart shop seafood opening_hours Mo-Su 08:00-18:00 alt_name Vien Dai check_date 2023-09-10 source survey wheelchair level 0", "lat": -37.9501756, "lng": 145.1505712 }, "geometry": { "type": "Point", "coordinates": [ 145.1505712, -37.9501756 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6041031013, "name": "Rediculously Delicious Kitchen House", "full_name": "Rediculously Delicious Kitchen House amenity fast_food", "lat": -37.9506027, "lng": 145.1514524 }, "geometry": { "type": "Point", "coordinates": [ 145.151452400000011, -37.9506027 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5195525702, "name": "Bread & Cafe Delight", "full_name": "Bread & Cafe Delight shop bakery", "lat": -37.951048, "lng": 145.1515486 }, "geometry": { "type": "Point", "coordinates": [ 145.151548600000012, -37.951048 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5195526335, "name": "Hải Quang Seafood", "full_name": "Hải Quang Seafood shop seafood", "lat": -37.9507845, "lng": 145.1519505 }, "geometry": { "type": "Point", "coordinates": [ 145.1519505, -37.9507845 ] } }
+]
+}

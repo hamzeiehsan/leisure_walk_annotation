@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8090344402, "name": "Zenbu", "full_name": "Zenbu wheelchair shop variety_store", "lat": -36.7599382, "lng": 144.2784299 }, "geometry": { "type": "Point", "coordinates": [ 144.2784299, -36.7599382 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 314821543, "name": "Bendigo Trades Hall", "full_name": "Bendigo Trades Hall amenity community_centre opening_hours \"By Appointment\" wheelchair limited building", "lat": -36.757918130653302, "lng": 144.27708969493841 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.2768661, -36.7579769 ], [ 144.2771788, -36.7577385 ], [ 144.277329, -36.7578604 ], [ 144.2772856, -36.7578981 ], [ 144.277262900000011, -36.757879 ], [ 144.2770773, -36.7580208 ], [ 144.277104400000013, -36.7580436 ], [ 144.277021, -36.7581072 ], [ 144.2768661, -36.7579769 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973170, "name": "nan", "full_name": "natural tree", "lat": -36.7577312, "lng": 144.2764606 }, "geometry": { "type": "Point", "coordinates": [ 144.2764606, -36.7577312 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973173, "name": "nan", "full_name": "natural tree", "lat": -36.7573634, "lng": 144.2760695 }, "geometry": { "type": "Point", "coordinates": [ 144.2760695, -36.7573634 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973174, "name": "nan", "full_name": "natural tree", "lat": -36.7571653, "lng": 144.2758266 }, "geometry": { "type": "Point", "coordinates": [ 144.275826599999988, -36.7571653 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973175, "name": "nan", "full_name": "natural tree", "lat": -36.7569602, "lng": 144.275841 }, "geometry": { "type": "Point", "coordinates": [ 144.275841, -36.7569602 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973176, "name": "nan", "full_name": "natural tree", "lat": -36.756913, "lng": 144.2758986 }, "geometry": { "type": "Point", "coordinates": [ 144.2758986, -36.756913 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973177, "name": "nan", "full_name": "natural tree", "lat": -36.7568758, "lng": 144.2759491 }, "geometry": { "type": "Point", "coordinates": [ 144.2759491, -36.7568758 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973178, "name": "nan", "full_name": "natural tree", "lat": -36.7569445, "lng": 144.2761205 }, "geometry": { "type": "Point", "coordinates": [ 144.2761205, -36.7569445 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5893973183, "name": "nan", "full_name": "natural tree", "lat": -36.7577209, "lng": 144.2772259 }, "geometry": { "type": "Point", "coordinates": [ 144.2772259, -36.7577209 ] } }
+]
+}

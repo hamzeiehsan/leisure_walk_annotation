@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5640738693, "name": "Joe's Quality Corner", "full_name": "Joe's Quality Corner shop butcher note Shop W197", "lat": -37.7390612, "lng": 145.0017749 }, "geometry": { "type": "Point", "coordinates": [ 145.001774899999987, -37.7390612 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5638805275, "name": "Preston Sushi Bar", "full_name": "Preston Sushi Bar amenity fast_food cuisine japanese takeaway note Shop C213", "lat": -37.7390113, "lng": 145.0021877 }, "geometry": { "type": "Point", "coordinates": [ 145.0021877, -37.7390113 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5549508308, "name": "Preston Market Hot Jam Doughnuts", "full_name": "Preston Market Hot Jam Doughnuts amenity fast_food opening_hours We-Su 10:00-18:00 cuisine donut outdoor_seating takeaway only", "lat": -37.7387637, "lng": 145.0025019 }, "geometry": { "type": "Point", "coordinates": [ 145.0025019, -37.7387637 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5640738690, "name": "Preston Seafood", "full_name": "Preston Seafood shop seafood note Shop W201", "lat": -37.7389735, "lng": 145.001936 }, "geometry": { "type": "Point", "coordinates": [ 145.001936, -37.7389735 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5640738714, "name": "Preston Free Range Poultry & Game", "full_name": "Preston Free Range Poultry & Game shop butcher note Shop W180", "lat": -37.7388941, "lng": 145.0014083 }, "geometry": { "type": "Point", "coordinates": [ 145.0014083, -37.7388941 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5638805272, "name": "Rustic Bean", "full_name": "Rustic Bean amenity cafe note Shop C209", "lat": -37.7389839, "lng": 145.0022509 }, "geometry": { "type": "Point", "coordinates": [ 145.0022509, -37.7389839 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5638787995, "name": "Sweet Party Supplies", "full_name": "Sweet Party Supplies shop variety_store", "lat": -37.7384831, "lng": 145.0020704 }, "geometry": { "type": "Point", "coordinates": [ 145.0020704, -37.7384831 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5640738691, "name": "Preston Hai Xuong Seafoods", "full_name": "Preston Hai Xuong Seafoods shop seafood note Shop W195", "lat": -37.7389615, "lng": 145.0017912 }, "geometry": { "type": "Point", "coordinates": [ 145.001791200000014, -37.7389615 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5640738708, "name": "Poultry Corner", "full_name": "Poultry Corner shop butcher note Shop W182", "lat": -37.7389237, "lng": 145.0014783 }, "geometry": { "type": "Point", "coordinates": [ 145.0014783, -37.7389237 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5638857301, "name": "Fresh Daily Gozleme", "full_name": "Fresh Daily Gozleme amenity fast_food cuisine turkish outdoor_seating takeaway only note Shop K02", "lat": -37.7391596, "lng": 145.0024364 }, "geometry": { "type": "Point", "coordinates": [ 145.0024364, -37.7391596 ] } }
+]
+}

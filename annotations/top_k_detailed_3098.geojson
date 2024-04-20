@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 560407699, "name": "nan", "full_name": "source DigitalGlobe-Premium natural tree_row", "lat": -37.8808185, "lng": 144.98330145 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9830426, -37.880791 ], [ 144.9835603, -37.880846 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 560407696, "name": "nan", "full_name": "source DigitalGlobe-Premium natural tree_row", "lat": -37.88078785, "lng": 144.98395994999998 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9836944, -37.8807614 ], [ 144.9842255, -37.8808143 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 560407693, "name": "nan", "full_name": "source DigitalGlobe-Premium natural tree_row", "lat": -37.8802723, "lng": 144.98308555 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9830346, -37.8805179 ], [ 144.9831365, -37.8800267 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 560407701, "name": "nan", "full_name": "source DigitalGlobe-Premium natural tree_row", "lat": -37.8808979, "lng": 144.9839264 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9836783, -37.8808714 ], [ 144.9841745, -37.8809244 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 560407702, "name": "nan", "full_name": "source survey natural tree_row", "lat": -37.8819416, "lng": 144.9827878 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.982814600000012, -37.8818262 ], [ 144.982761, -37.882057 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 560407697, "name": "nan", "full_name": "source survey natural tree_row", "lat": -37.88071265, "lng": 144.9833243 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.983066799999989, -37.880683 ], [ 144.9835818, -37.8807423 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 560407691, "name": "nan", "full_name": "source survey natural tree_row", "lat": -37.8812864, "lng": 144.9826054 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9826832, -37.8809244 ], [ 144.9825276, -37.8816484 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 560407690, "name": "nan", "full_name": "source survey natural tree_row", "lat": -37.8813499, "lng": 144.9829112 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.982991700000014, -37.8809561 ], [ 144.9828307, -37.8817437 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2377957387, "name": "Elwood Wine and Spirits", "full_name": "Elwood Wine and Spirits shop alcohol", "lat": -37.8830359, "lng": 144.9839593 }, "geometry": { "type": "Point", "coordinates": [ 144.9839593, -37.8830359 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 571317106, "name": "Turtle Café", "full_name": "Turtle Café amenity cafe source local_knowledge", "lat": -37.8823497, "lng": 144.982876 }, "geometry": { "type": "Point", "coordinates": [ 144.982876, -37.8823497 ] } }
+]
+}

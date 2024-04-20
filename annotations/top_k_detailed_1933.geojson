@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862494405, "name": "nan", "full_name": "amenity bbq", "lat": -36.630274, "lng": 142.6312493 }, "geometry": { "type": "Point", "coordinates": [ 142.6312493, -36.630274 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862485997, "name": "nan", "full_name": "natural tree", "lat": -36.6301537, "lng": 142.631114 }, "geometry": { "type": "Point", "coordinates": [ 142.631114, -36.6301537 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862486004, "name": "nan", "full_name": "natural tree", "lat": -36.6302749, "lng": 142.6311016 }, "geometry": { "type": "Point", "coordinates": [ 142.6311016, -36.6302749 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862485998, "name": "nan", "full_name": "natural tree", "lat": -36.6301537, "lng": 142.6311937 }, "geometry": { "type": "Point", "coordinates": [ 142.631193700000011, -36.6301537 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862494476, "name": "nan", "full_name": "natural tree", "lat": -36.630557, "lng": 142.6310825 }, "geometry": { "type": "Point", "coordinates": [ 142.6310825, -36.630557 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862485996, "name": "nan", "full_name": "natural tree", "lat": -36.6300663, "lng": 142.6311953 }, "geometry": { "type": "Point", "coordinates": [ 142.6311953, -36.6300663 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862485995, "name": "nan", "full_name": "natural tree", "lat": -36.630065, "lng": 142.631114 }, "geometry": { "type": "Point", "coordinates": [ 142.631114, -36.630065 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10862494477, "name": "nan", "full_name": "natural tree", "lat": -36.6305585, "lng": 142.6312034 }, "geometry": { "type": "Point", "coordinates": [ 142.6312034, -36.6305585 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 579413583, "name": "Rupanyup Fire Station", "full_name": "Rupanyup Fire Station amenity fire_station", "lat": -36.632523721561434, "lng": 142.63225746968314 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 142.632135299999987, -36.6326727 ], [ 142.632129, -36.6323765 ], [ 142.6323813, -36.6323757 ], [ 142.6323845, -36.6326712 ], [ 142.632135299999987, -36.6326727 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 221800470, "name": "Wood Street", "full_name": "Wood Street highway residential", "lat": -36.632737712535324, "lng": 142.63246764343521 }, "geometry": { "type": "LineString", "coordinates": [ [ 142.6313748, -36.6327599 ], [ 142.6315004, -36.6327522 ], [ 142.632503899999989, -36.6327315 ], [ 142.6335608, -36.6327317 ] ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2163364028, "name": "Flinders Street Bakehouse", "full_name": "Flinders Street Bakehouse wheelchair level 0 shop bakery", "lat": -37.8180641, "lng": 144.9673546 }, "geometry": { "type": "Point", "coordinates": [ 144.9673546, -37.8180641 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3877497257, "name": "Chocolate Arcade", "full_name": "Chocolate Arcade amenity cafe", "lat": -37.815099, "lng": 144.965765 }, "geometry": { "type": "Point", "coordinates": [ 144.965765, -37.815099 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9319595960, "name": "Liquorland", "full_name": "Liquorland brand Liquorland shop alcohol", "lat": -37.8176558, "lng": 144.9650004 }, "geometry": { "type": "Point", "coordinates": [ 144.9650004, -37.8176558 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5432897535, "name": "Melbourne halal kebab & pizza take away food", "full_name": "Melbourne halal kebab & pizza take away food amenity restaurant cuisine kebab;pizza", "lat": -37.8172864, "lng": 144.9647799 }, "geometry": { "type": "Point", "coordinates": [ 144.9647799, -37.8172864 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4965779821, "name": "Daiso Flinders", "full_name": "Daiso Flinders shop supermarket", "lat": -37.8179451, "lng": 144.9650971 }, "geometry": { "type": "Point", "coordinates": [ 144.9650971, -37.8179451 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 595480844, "name": "Charles Dickens Tavern", "full_name": "Charles Dickens Tavern building retail internet_access wlan amenity pub level 0 food", "lat": -37.8158387, "lng": 144.9645231 }, "geometry": { "type": "Point", "coordinates": [ 144.9645231, -37.8158387 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10048390713, "name": "Barbarella", "full_name": "Barbarella amenity cafe level 0 cuisine ice_cream takeaway", "lat": -37.8155596, "lng": 144.9644134 }, "geometry": { "type": "Point", "coordinates": [ 144.964413400000012, -37.8155596 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 608707449, "name": "Grill'd", "full_name": "Grill'd brand Grill'd wheelchair limited amenity fast_food cuisine burger takeaway", "lat": -37.817421, "lng": 144.9657253 }, "geometry": { "type": "Point", "coordinates": [ 144.9657253, -37.817421 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2686224734, "name": "Cafe on Collins", "full_name": "Cafe on Collins building retail amenity cafe source survey", "lat": -37.8164358, "lng": 144.9639345 }, "geometry": { "type": "Point", "coordinates": [ 144.9639345, -37.8164358 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2296798888, "name": "Hakou", "full_name": "Hakou amenity pub cuisine drinks takeaway food", "lat": -37.817333, "lng": 144.963707 }, "geometry": { "type": "Point", "coordinates": [ 144.963707, -37.817333 ] } }
+]
+}

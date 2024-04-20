@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2024758281, "name": "Le Bon Cake Shop", "full_name": "Le Bon Cake Shop source Collected via KeypadMapper amenity cafe", "lat": -37.8679928, "lng": 144.9790295 }, "geometry": { "type": "Point", "coordinates": [ 144.9790295, -37.8679928 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3884751632, "name": "7-Eleven", "full_name": "7-Eleven brand 7-Eleven opening_hours 24/7 shop convenience", "lat": -37.8673277, "lng": 144.9787978 }, "geometry": { "type": "Point", "coordinates": [ 144.9787978, -37.8673277 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7599294101, "name": "7 Apples", "full_name": "7 Apples amenity restaurant cuisine gelato;ice_cream", "lat": -37.867782, "lng": 144.9788457 }, "geometry": { "type": "Point", "coordinates": [ 144.9788457, -37.867782 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3885415459, "name": "Mini Mart", "full_name": "Mini Mart shop convenience", "lat": -37.8665933, "lng": 144.9780895 }, "geometry": { "type": "Point", "coordinates": [ 144.97808950000001, -37.8665933 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6679745714, "name": "Europa Cake Shop", "full_name": "Europa Cake Shop amenity cafe", "lat": -37.8678516, "lng": 144.9788965 }, "geometry": { "type": "Point", "coordinates": [ 144.9788965, -37.8678516 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4729890291, "name": "Monarch Cakes", "full_name": "Monarch Cakes amenity cafe opening_hours Mo-Su 08:00-22:00 shop bakery", "lat": -37.8681561, "lng": 144.9792122 }, "geometry": { "type": "Point", "coordinates": [ 144.9792122, -37.8681561 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 585196940, "name": "Rinix", "full_name": "Rinix source survey amenity fast_food cuisine pizza", "lat": -37.8666125, "lng": 144.9781217 }, "geometry": { "type": "Point", "coordinates": [ 144.9781217, -37.8666125 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2535780817, "name": "industrie", "full_name": "industrie shop clothes", "lat": -37.8686733, "lng": 144.9800225 }, "geometry": { "type": "Point", "coordinates": [ 144.9800225, -37.8686733 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7021158487, "name": "Monroe's", "full_name": "Monroe's amenity restaurant cuisine burger", "lat": -37.86825, "lng": 144.9792731 }, "geometry": { "type": "Point", "coordinates": [ 144.9792731, -37.86825 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1218511626, "name": "Subway", "full_name": "Subway amenity fast_food brand Subway cuisine sandwich takeaway", "lat": -37.8672713, "lng": 144.97874 }, "geometry": { "type": "Point", "coordinates": [ 144.97874, -37.8672713 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6705227285, "name": "The Cruelty Free Shop Vegan Supermarket", "full_name": "The Cruelty Free Shop Vegan Supermarket shop supermarket organic only", "lat": -37.798525, "lng": 144.9791097 }, "geometry": { "type": "Point", "coordinates": [ 144.9791097, -37.798525 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2852107570, "name": "Gram Sustainable", "full_name": "Gram Sustainable shop health_food", "lat": -37.7968589, "lng": 144.9788556 }, "geometry": { "type": "Point", "coordinates": [ 144.9788556, -37.7968589 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 641140024, "name": "Wholesale Fruit & Vegetables", "full_name": "Wholesale Fruit & Vegetables shop greengrocer", "lat": -37.798841, "lng": 144.977468 }, "geometry": { "type": "Point", "coordinates": [ 144.977468, -37.798841 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 573088804, "name": "nan", "full_name": "shop bakery", "lat": -37.7985498, "lng": 144.978278 }, "geometry": { "type": "Point", "coordinates": [ 144.978278, -37.7985498 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1031934796, "name": "HoMie", "full_name": "HoMie shop clothes clothes streetwear", "lat": -37.7984862, "lng": 144.978616 }, "geometry": { "type": "Point", "coordinates": [ 144.978616, -37.7984862 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4965854927, "name": "LarryClothing", "full_name": "LarryClothing shop clothes", "lat": -37.7969782, "lng": 144.9786246 }, "geometry": { "type": "Point", "coordinates": [ 144.978624599999989, -37.7969782 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2233047605, "name": "Hemley Store", "full_name": "Hemley Store shop clothes", "lat": -37.799565, "lng": 144.978089 }, "geometry": { "type": "Point", "coordinates": [ 144.978089, -37.799565 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1370727102, "name": "Quick Brown Fox", "full_name": "Quick Brown Fox shop clothes", "lat": -37.796606, "lng": 144.978603 }, "geometry": { "type": "Point", "coordinates": [ 144.978603, -37.796606 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 961215774, "name": "Luxe Melbourne", "full_name": "Luxe Melbourne shop clothes", "lat": -37.7995913, "lng": 144.9784467 }, "geometry": { "type": "Point", "coordinates": [ 144.9784467, -37.7995913 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2233050619, "name": "Vegetable Connection", "full_name": "Vegetable Connection shop supermarket", "lat": -37.799665, "lng": 144.97808 }, "geometry": { "type": "Point", "coordinates": [ 144.97808, -37.799665 ] } }
+]
+}

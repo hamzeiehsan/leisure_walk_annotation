@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939028, "name": "nan", "full_name": "natural tree", "lat": -38.0601526, "lng": 146.6237527 }, "geometry": { "type": "Point", "coordinates": [ 146.623752700000011, -38.0601526 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939024, "name": "nan", "full_name": "natural tree", "lat": -38.0600344, "lng": 146.6245789 }, "geometry": { "type": "Point", "coordinates": [ 146.624578899999989, -38.0600344 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939025, "name": "nan", "full_name": "natural tree", "lat": -38.0601425, "lng": 146.6245853 }, "geometry": { "type": "Point", "coordinates": [ 146.6245853, -38.0601425 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939022, "name": "nan", "full_name": "natural tree", "lat": -38.0599482, "lng": 146.6245113 }, "geometry": { "type": "Point", "coordinates": [ 146.6245113, -38.0599482 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9403939023, "name": "nan", "full_name": "natural tree", "lat": -38.0600082, "lng": 146.6244866 }, "geometry": { "type": "Point", "coordinates": [ 146.624486600000012, -38.0600082 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2223512884, "name": "Rail Trail General Store", "full_name": "Rail Trail General Store source Survey shop gift", "lat": -38.0601084, "lng": 146.624163 }, "geometry": { "type": "Point", "coordinates": [ 146.624163, -38.0601084 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 405940881, "name": "Toongabbie Primary School", "full_name": "Toongabbie Primary School amenity school operator Victorian Department of Education grades 0-6", "lat": -38.057030907621751, "lng": 146.62467554978539 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 146.625419, -38.0566288 ], [ 146.624155699999989, -38.0564788 ], [ 146.6239357, -38.0574165 ], [ 146.625107899999989, -38.0575939 ], [ 146.625193700000011, -38.057539 ], [ 146.625419, -38.0566288 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2223512565, "name": "Rail Trail General Store", "full_name": "Rail Trail General Store source Survey shop alcohol", "lat": -38.0601528, "lng": 146.6241361 }, "geometry": { "type": "Point", "coordinates": [ 146.624136099999987, -38.0601528 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2223512568, "name": "Rail Trail General Store", "full_name": "Rail Trail General Store amenity fuel source survey", "lat": -38.0601295, "lng": 146.6242837 }, "geometry": { "type": "Point", "coordinates": [ 146.6242837, -38.0601295 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2223512556, "name": "Rail Trail General Store", "full_name": "Rail Trail General Store amenity fast_food cuisine burger", "lat": -38.0600915, "lng": 146.6240798 }, "geometry": { "type": "Point", "coordinates": [ 146.6240798, -38.0600915 ] } }
+]
+}
