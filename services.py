@@ -114,6 +114,13 @@ def read_annotated_records():
 
 records = read_annotated_records()
 
+for record in records:
+    if len(record) > 1:
+        page = record[0]['page']
+        for idx, r in enumerate(record):
+            if idx > 0 and str(r['osm_id']).lower() == 'flag':
+                logger.warning(f'FLAG case - PAGE: {page}')
+
 def add_to_annotation(annotations):
     records.append(annotations)
     save_annotated_records()
