@@ -87,7 +87,7 @@ def get_case_information(case_id):
     lng = poi.iloc[0].lng
     link = f'https://www.openstreetmap.org/#map=18/{lat}/{lng}'
     logger.debug(f'link: {link}')
-    case_information = {'title': title, 'description': summary, 'link': link, 'location': [lat, lng]}
+    case_information = {'title': title, 'description': summary, 'link': link, 'location': [lat, lng], 'page': case_id}
     logger.debug(f'case information: {case_information}')
     return case_information
 

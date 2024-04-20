@@ -43,7 +43,7 @@
 <body>
     <div id="main-container">
         <div class="info-box">
-            <h2 class="header-color">Annotating POI 1 out of 4392</h2>
+            <h2 id='info-h2-desc' class="header-color">Annotating POI 1 out of 4392</h2>
             <p id="info-title">Title: Blablabla</p>
             <p id="info-description">Description: Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla</p>
             <p>Find features manually: <a id="info-link" target=_blank href="https://www.openstreetmap.org/#map=18/-37.78141777/144.95126002">Go to OSM</a></p>
@@ -171,6 +171,8 @@
                     document.getElementById('info-title').textContent = data.title;
                     document.getElementById('info-description').textContent = data.description;
                     document.getElementById("info-link").href = data.link
+                    page = data.page
+                    document.getElementById("info-h2-desc").textContent = `POI ${page+1} out of 4392`
 
                     var map = L.map('map').setView(data.location, 13);
                     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
