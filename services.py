@@ -69,6 +69,7 @@ def get_annotation_topk(case_id):
     # [{osm_type, osm_id, info, location}]
     logger.debug(f'getting the top_k results for {case_id}')
     rows = topk_df[topk_df['index'] == case_id]
+    rows.fillna('', inplace=True)
     logger.debug(f'raw_results:\n{rows}')
     rows_dict = rows.to_dict(orient='records')
     logger.debug(f'rows dictionary: {rows_dict}')
@@ -131,12 +132,37 @@ def edit_annotation(case_id, annotations):
     logger.info(f'annotation is successfully updated: #record: {len(records)}')
 
 
+def return_bbox(location, get_data_output):
+    epsilon = 0.001
+    min_lat = location[0] - epsilon
+    max_lat = location[0] + epsilon
+    min_lng = location[1] - epsilon
+    max_lng = location[1] + epsilon
+    for d in get_data_output:
+        if 'lat' not in d or 'lng' not in d:
+            logger.error(d)
+        if d['lat'] > max_lat:
+            max_lat = d['lat'] + epsilon
+        elif d['lat'] < min_lat:
+            min_lat = d['lat'] - epsilon
+        if d['lng'] > max_lng:
+            max_lng = d['lng'] + epsilon
+        elif d['lng'] < min_lng:
+            min_lng = d['lng'] - epsilon
+    return [min_lat, max_lat, min_lng, max_lng]
+
+
 @app.route('/get-case-info')
 def get_case_info(case_id=len(records)):
     page = int(request.args.get('page', -1))
     if page >= 0:
         case_id = page
-    return jsonify(get_case_information(case_id))
+    output = get_case_information(case_id)
+    print(output)
+    get_data_output = get_annotation_data(case_id)
+    output['table'] = get_data_output
+    print(output)
+    return jsonify(output)
 
 
 if __name__ == '__main__':
