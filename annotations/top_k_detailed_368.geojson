@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 221802113, "name": "Depot Road", "full_name": "Depot Road highway unclassified surface unpaved", "lat": -36.618320479988299, "lng": 142.64035650602699 }, "geometry": { "type": "LineString", "coordinates": [ [ 142.6403383, -36.6108224 ], [ 142.640345700000012, -36.6199296 ], [ 142.6404067, -36.6251992 ], [ 142.640397799999988, -36.6258183 ] ] } }
+]
+}

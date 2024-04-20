@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334151, "name": "nan", "full_name": "man_made pier", "lat": -37.55857155, "lng": 149.76187355000002 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.7618493, -37.558593 ], [ 149.761897800000014, -37.5585501 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334157, "name": "nan", "full_name": "man_made pier", "lat": -37.55827055, "lng": 149.761397 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.7613829, -37.5582777 ], [ 149.7614111, -37.5582634 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334147, "name": "nan", "full_name": "man_made pier", "lat": -37.55873815, "lng": 149.76213115 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.762112699999989, -37.558759 ], [ 149.762149599999987, -37.5587173 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334148, "name": "nan", "full_name": "man_made pier", "lat": -37.55870035, "lng": 149.7620604 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.7620351, -37.5587227 ], [ 149.7620857, -37.558678 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334149, "name": "nan", "full_name": "man_made pier", "lat": -37.5586579, "lng": 149.7619927 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.7619699, -37.5586809 ], [ 149.7620155, -37.5586349 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334150, "name": "nan", "full_name": "man_made pier", "lat": -37.5586084, "lng": 149.76193525000002 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.761911700000013, -37.5586293 ], [ 149.7619588, -37.5585875 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334152, "name": "nan", "full_name": "man_made pier", "lat": -37.55846275, "lng": 149.7617217 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.7617009, -37.5584776 ], [ 149.7617425, -37.5584479 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334153, "name": "nan", "full_name": "man_made pier", "lat": -37.55840995, "lng": 149.76163875 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.7616214, -37.5584274 ], [ 149.76165610000001, -37.5583925 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334154, "name": "nan", "full_name": "man_made pier", "lat": -37.55839185, "lng": 149.76160115 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.7615893, -37.5584073 ], [ 149.761613, -37.5583764 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 1088334156, "name": "nan", "full_name": "man_made pier", "lat": -37.5583024, "lng": 149.7614448 }, "geometry": { "type": "LineString", "coordinates": [ [ 149.7614211, -37.5583208 ], [ 149.7614685, -37.558284 ] ] } }
+]
+}

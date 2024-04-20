@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 221802125, "name": "Johnston Road", "full_name": "Johnston Road highway unclassified surface unpaved", "lat": -36.6199411, "lng": 142.63614405000001 }, "geometry": { "type": "LineString", "coordinates": [ [ 142.631942400000014, -36.6199526 ], [ 142.640345700000012, -36.6199296 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 221802113, "name": "Depot Road", "full_name": "Depot Road highway unclassified surface unpaved", "lat": -36.618320479988299, "lng": 142.64035650602699 }, "geometry": { "type": "LineString", "coordinates": [ [ 142.6403383, -36.6108224 ], [ 142.640345700000012, -36.6199296 ], [ 142.6404067, -36.6251992 ], [ 142.640397799999988, -36.6258183 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 221802112, "name": "Rupanyup Golf Course", "full_name": "Rupanyup Golf Course leisure golf_course source Bing", "lat": -36.616666872348773, "lng": 142.63729542329096 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 142.6319896, -36.6199152 ], [ 142.632080800000011, -36.6196913 ], [ 142.6321881, -36.6194889 ], [ 142.6336794, -36.6169701 ], [ 142.6338605, -36.6167521 ], [ 142.6340442, -36.6165396 ], [ 142.634607499999987, -36.6159927 ], [ 142.637792600000012, -36.6128424 ], [ 142.639135, -36.6115663 ], [ 142.639553400000011, -36.6112476 ], [ 142.639886, -36.6110625 ], [ 142.640303100000011, -36.6109047 ], [ 142.6403206, -36.6198937 ], [ 142.6319896, -36.6199152 ] ] ] } }
+]
+}

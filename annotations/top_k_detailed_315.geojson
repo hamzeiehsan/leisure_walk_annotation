@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 643023784, "name": "Lee Ah Hair", "full_name": "Lee Ah Hair shop hairdresser", "lat": -37.812419, "lng": 144.9687984 }, "geometry": { "type": "Point", "coordinates": [ 144.9687984, -37.812419 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1027680430, "name": "Hello Day", "full_name": "Hello Day shop beauty", "lat": -37.8130386, "lng": 144.9678648 }, "geometry": { "type": "Point", "coordinates": [ 144.9678648, -37.8130386 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11249223551, "name": "nan", "full_name": "shop art", "lat": -37.8118381, "lng": 144.9706855 }, "geometry": { "type": "Point", "coordinates": [ 144.9706855, -37.8118381 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6138840894, "name": "Tokyo Hair design", "full_name": "Tokyo Hair design shop hairdresser", "lat": -37.8112209, "lng": 144.9676239 }, "geometry": { "type": "Point", "coordinates": [ 144.9676239, -37.8112209 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2217909041, "name": "Vince & Dom Hairdressing", "full_name": "Vince & Dom Hairdressing shop hairdresser opening_hours Mo-Fr 8:30-17:30", "lat": -37.811177, "lng": 144.969549 }, "geometry": { "type": "Point", "coordinates": [ 144.969549, -37.811177 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5928461735, "name": "Latt Melbourne", "full_name": "Latt Melbourne shop hairdresser", "lat": -37.8111919, "lng": 144.9691458 }, "geometry": { "type": "Point", "coordinates": [ 144.9691458, -37.8111919 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11135649038, "name": "The Skin Boutique", "full_name": "The Skin Boutique shop beauty wheelchair beauty hair_removal;skin_care", "lat": -37.8131185, "lng": 144.9703594 }, "geometry": { "type": "Point", "coordinates": [ 144.9703594, -37.8131185 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 22820239, "name": "Heffernan Lane", "full_name": "Heffernan Lane highway living_street oneway", "lat": -37.811585830431696, "lng": 144.96665207420941 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.9664363, -37.8111151 ], [ 144.966464, -37.8111755 ], [ 144.9665636, -37.811394 ], [ 144.966775500000011, -37.8118542 ], [ 144.96685260000001, -37.8120223 ], [ 144.9668682, -37.8120564 ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7648218430, "name": "A History Apparatus - Vessel Craft and Beacon", "full_name": "A History Apparatus - Vessel Craft and Beacon note 1993 tourism artwork artwork_type sculpture artist_name Chris Reynolds material bronze", "lat": -37.8130458, "lng": 144.9682108 }, "geometry": { "type": "Point", "coordinates": [ 144.9682108, -37.8130458 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2503429012, "name": "Element Hair Salon", "full_name": "Element Hair Salon building retail shop hairdresser female male", "lat": -37.8131968, "lng": 144.9673128 }, "geometry": { "type": "Point", "coordinates": [ 144.9673128, -37.8131968 ] } }
+]
+}

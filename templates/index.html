@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Annotation Tool</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+    <style>
+        #main-container {
+            width: 60%;
+            margin: 0 auto; /* Centers the container */
+        }
+        #map {
+            height: 400px;
+        }
+        .table-header {
+            background-color: #03254c; /* Nice blue color */
+            color: white;
+            font-weight: bold;
+        }
+        .table-row-light {
+            background-color: #ECF7FF; /* Very light blue */
+        }
+        .table-row-white {
+            background-color: white;
+        }
+        th, td {
+            font-size: 14px;
+        }
+        .info-box {
+            border-radius: 15px; /* Rounded corners */
+            background-color: #f8f9fa; /* Light grey background */
+            padding: 20px;
+            margin-top: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow */
+            font-family: 'Arial', sans-serif; /* Stylish, readable font */
+        }
+        .header-color {
+            color: #007bff; /* Bootstrap primary color for headers */
+        }
+    </style>
+</head>
+<body>
+    <div id="main-container">
+        <div class="info-box">
+            <h2 class="header-color">Annotating POI 1 out of 4392</h2>
+            <p id="info-title">Title: Blablabla</p>
+            <p id="info-description">Description: Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla</p>
+            <p>Find features manually: <a id="info-link" target=_blank href="https://www.openstreetmap.org/#map=18/-37.78141777/144.95126002">Go to OSM</a></p>
+        </div>
+        <div id="map"></div>
+        <div class="container mt-3">
+            <table class="table" id="data-table">
+                <thead>
+                    <tr class="table-header">
+                        <th>Select</th>
+                        <th>Type</th>
+                        <th>OSM ID</th>
+                        <th>Information</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="table-row-light">
+                        <td><input type="checkbox" class="select-row"></td>
+                        <td>Node</td>
+                        <td>12345</td>
+                        <td>highway=primary; name=Main St</td>
+                    </tr>
+                    <tr class="table-row-white">
+                        <td><input type="checkbox" class="select-row"></td>
+                        <td>Way</td>
+                        <td>67890</td>
+                        <td>building=yes; levels=10</td>
+                    </tr>
+                    <tr class="table-row-light">
+                        <td><input type="checkbox" class="select-row"></td>
+                        <td>Relation</td>
+                        <td>54321</td>
+                        <td>type=route; route=bus; network=City Bus</td>
+                    </tr>
+                    <!-- More rows can be added as needed -->
+                </tbody>
+            </table>
+            <div id="form-content">
+                <!-- Initial Input Row -->
+                <div class="form-row">
+                    <div class="col-md-4">
+                        <select class="form-control input-type-select">
+                            <option value="node">Node</option>
+                            <option value="way">Way</option>
+                            <option value="relation">Relation</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <input type="text" class="form-control input-osm-id" placeholder="Enter OSM ID">
+                    </div>
+                </div>
+                <div class="form-row button-row">
+                    <div class="col-md-4">
+                        <button type="button" class="btn btn-secondary" id="add-more">Add More</button>
+                    </div>
+                    <div class="col-md-4">
+                        <button type="button" class="btn btn-primary">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+
+        document.getElementById('data-table').addEventListener('click', function(e) {
+            if (e.target.classList.contains('select-row')) {
+                var checkbox = e.target;
+                var cells = checkbox.parentNode.parentNode.cells;
+                var type = cells[1].textContent;
+                var osmId = cells[2].textContent;
+
+                if (checkbox.checked) {
+                    addInputRow(type, osmId);
+                } else {
+                    var inputRows = document.querySelectorAll('.form-row');
+                    inputRows.forEach(function(row, index) {
+                        if (index > 0) { // Skip the button row
+                            var input = row.querySelector('.input-osm-id');
+                            if (input.value === osmId) {
+                                row.parentNode.removeChild(row);
+                            }
+                        }
+                    });
+                }
+            }
+        });
+
+        document.getElementById('add-more').addEventListener('click', function() {
+            addInputRow('node', ''); // Default values for a new row
+        });
+
+        function addInputRow(type, osmId) {
+            var formContent = document.getElementById('form-content');
+            var newRow = document.createElement('div');
+            newRow.className = 'form-row';
+            newRow.innerHTML = `
+                <div class="col-md-4">
+                    <select class="form-control input-type-select">
+                        <option value="node">Node</option>
+                        <option value="way">Way</option>
+                        <option value="relation">Relation</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <input type="text" class="form-control input-osm-id" placeholder="Enter OSM ID" value="${osmId}">
+                </div>
+            `;
+            formContent.insertBefore(newRow, formContent.querySelector('.button-row'));
+            newRow.querySelector('.input-type-select').value = type.toLowerCase();
+        }
+    </script>
+
+    <script>
+        // Create a URLSearchParams object from the current window location
+        const queryParams = new URLSearchParams(window.location.search);
+
+        // Get the page number from URL query parameters or default to -1
+        var page = queryParams.get('page') || -1;
+
+        document.addEventListener('DOMContentLoaded', function() {
+            fetch(`/get-case-info?page=${page}`)
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('info-title').textContent = data.title;
+                    document.getElementById('info-description').textContent = data.description;
+                    document.getElementById("info-link").href = data.link
+
+                    var map = L.map('map').setView(data.location, 13);
+                    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                        maxZoom: 19,
+                        attribution: '© OpenStreetMap'
+                    }).addTo(map);
+                    // Add a red marker
+                    var marker = L.marker(data.location, {icon: L.icon({
+                        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+                        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+                        iconSize: [25, 41],
+                        iconAnchor: [12, 41],
+                        popupAnchor: [1, -34],
+                        shadowSize: [41, 41]
+                    })}).addTo(map);
+                    marker.bindPopup('point of interest').openPopup();
+                })
+                .catch(error => console.error('Error loading the information:', error));
+        });
+    </script>
+</body>
+</html>

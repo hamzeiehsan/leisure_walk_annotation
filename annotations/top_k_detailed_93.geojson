@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7913379062, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8162551, "lng": 144.9838094 }, "geometry": { "type": "Point", "coordinates": [ 144.983809400000013, -37.8162551 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7913379063, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8163749, "lng": 144.9853492 }, "geometry": { "type": "Point", "coordinates": [ 144.9853492, -37.8163749 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7913379064, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8163294, "lng": 144.9850219 }, "geometry": { "type": "Point", "coordinates": [ 144.9850219, -37.8163294 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7913379065, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8164112, "lng": 144.9853441 }, "geometry": { "type": "Point", "coordinates": [ 144.9853441, -37.8164112 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7913379066, "name": "nan", "full_name": "railway tram_crossing", "lat": -37.8163892, "lng": 144.9850341 }, "geometry": { "type": "Point", "coordinates": [ 144.9850341, -37.8163892 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4148846600, "name": "nan", "full_name": "railway tram_level_crossing", "lat": -37.8163442, "lng": 144.9851212 }, "geometry": { "type": "Point", "coordinates": [ 144.9851212, -37.8163442 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4148846602, "name": "nan", "full_name": "railway tram_level_crossing", "lat": -37.8163661, "lng": 144.9852735 }, "geometry": { "type": "Point", "coordinates": [ 144.9852735, -37.8163661 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4148846604, "name": "nan", "full_name": "railway tram_level_crossing", "lat": -37.8163952, "lng": 144.985112 }, "geometry": { "type": "Point", "coordinates": [ 144.985112, -37.8163952 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4148846605, "name": "nan", "full_name": "railway tram_level_crossing", "lat": -37.8164077, "lng": 144.9852661 }, "geometry": { "type": "Point", "coordinates": [ 144.9852661, -37.8164077 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 131707399, "name": "nan", "full_name": "building railway", "lat": -37.816432245147375, "lng": 144.98415925430874 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9843894, -37.8164389 ], [ 144.984382, -37.8164793 ], [ 144.984231200000011, -37.8164622 ], [ 144.983951499999989, -37.8164306 ], [ 144.98394540000001, -37.8164299 ], [ 144.983955400000013, -37.8163744 ], [ 144.9840084, -37.8163804 ], [ 144.984005700000012, -37.8163955 ], [ 144.9843894, -37.8164389 ] ] ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5583284754, "name": "Lily Blacks", "full_name": "Lily Blacks amenity bar", "lat": -37.8123218, "lng": 144.9724243 }, "geometry": { "type": "Point", "coordinates": [ 144.9724243, -37.8123218 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11466821032, "name": "Income Asset Management Group", "full_name": "Income Asset Management Group level 6 office company", "lat": -37.8157682, "lng": 144.9698964 }, "geometry": { "type": "Point", "coordinates": [ 144.96989640000001, -37.8157682 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11466821044, "name": "U&U Recruitment Partners", "full_name": "U&U Recruitment Partners level 4 office company", "lat": -37.8157202, "lng": 144.9698717 }, "geometry": { "type": "Point", "coordinates": [ 144.9698717, -37.8157202 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 660120300, "name": "Cherry Bar", "full_name": "Cherry Bar amenity bar min_age 18", "lat": -37.8128595, "lng": 144.9713425 }, "geometry": { "type": "Point", "coordinates": [ 144.9713425, -37.8128595 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6167344594, "name": "Municipal Association of Victoria", "full_name": "Municipal Association of Victoria office government government", "lat": -37.8137087, "lng": 144.9716666 }, "geometry": { "type": "Point", "coordinates": [ 144.9716666, -37.8137087 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5180991321, "name": "VicRoads", "full_name": "VicRoads opening_hours Mo-Fr 08:30-16:30; Sa,Su off wheelchair office government", "lat": -37.8128465, "lng": 144.9706604 }, "geometry": { "type": "Point", "coordinates": [ 144.970660400000014, -37.8128465 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11466832524, "name": "Follie's Club", "full_name": "Follie's Club amenity bar level -1", "lat": -37.8155976, "lng": 144.9704624 }, "geometry": { "type": "Point", "coordinates": [ 144.9704624, -37.8155976 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11135649038, "name": "The Skin Boutique", "full_name": "The Skin Boutique wheelchair shop beauty beauty hair_removal;skin_care", "lat": -37.8131185, "lng": 144.9703594 }, "geometry": { "type": "Point", "coordinates": [ 144.9703594, -37.8131185 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11135649022, "name": "Wexchane", "full_name": "Wexchane amenity bureau_de_change level 0 opening_hours Mo-Tu,Th-Fr 10:00-16:00; We 11:00-17:00; PH closed; Sa-Su closed wheelchair", "lat": -37.8137621, "lng": 144.9707402 }, "geometry": { "type": "Point", "coordinates": [ 144.9707402, -37.8137621 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1812365403, "name": "Liaison", "full_name": "Liaison amenity cafe", "lat": -37.8129404, "lng": 144.972438 }, "geometry": { "type": "Point", "coordinates": [ 144.972438, -37.8129404 ] } }
+]
+}

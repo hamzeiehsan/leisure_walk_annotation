@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6357531487, "name": "Spa Nails Arcade", "full_name": "Spa Nails Arcade shop beauty beauty nails", "lat": -37.8139454, "lng": 144.9667134 }, "geometry": { "type": "Point", "coordinates": [ 144.9667134, -37.8139454 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4976357655, "name": "Honey Blonde", "full_name": "Honey Blonde shop hairdresser", "lat": -37.8138883, "lng": 144.9665472 }, "geometry": { "type": "Point", "coordinates": [ 144.9665472, -37.8138883 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11135663725, "name": "Second Avenue Hair", "full_name": "Second Avenue Hair shop hairdresser level 0 female", "lat": -37.8142133, "lng": 144.9674076 }, "geometry": { "type": "Point", "coordinates": [ 144.9674076, -37.8142133 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5928461730, "name": "Shoya", "full_name": "Shoya amenity restaurant", "lat": -37.8117359, "lng": 144.9691763 }, "geometry": { "type": "Point", "coordinates": [ 144.969176299999987, -37.8117359 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6357531497, "name": "Dynasty Massage", "full_name": "Dynasty Massage shop massage", "lat": -37.8136564, "lng": 144.9665239 }, "geometry": { "type": "Point", "coordinates": [ 144.9665239, -37.8136564 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4976357657, "name": "Lisa’s Studio", "full_name": "Lisa’s Studio shop hairdresser", "lat": -37.8136001, "lng": 144.9664981 }, "geometry": { "type": "Point", "coordinates": [ 144.9664981, -37.8136001 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4633851789, "name": "nan", "full_name": "amenity drinking_water fountain bubbler", "lat": -37.8126123, "lng": 144.9683641 }, "geometry": { "type": "Point", "coordinates": [ 144.9683641, -37.8126123 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6357531382, "name": "Modern Nails", "full_name": "Modern Nails shop beauty beauty nails", "lat": -37.8136928, "lng": 144.9664569 }, "geometry": { "type": "Point", "coordinates": [ 144.9664569, -37.8136928 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4842991526, "name": "Meatmaiden", "full_name": "Meatmaiden amenity restaurant", "lat": -37.8141094, "lng": 144.9677371 }, "geometry": { "type": "Point", "coordinates": [ 144.9677371, -37.8141094 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11135649038, "name": "The Skin Boutique", "full_name": "The Skin Boutique shop beauty wheelchair beauty hair_removal;skin_care", "lat": -37.8131185, "lng": 144.9703594 }, "geometry": { "type": "Point", "coordinates": [ 144.9703594, -37.8131185 ] } }
+]
+}

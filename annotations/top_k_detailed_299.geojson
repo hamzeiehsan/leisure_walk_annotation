@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3841983798, "name": "On The Way", "full_name": "On The Way shop bakery", "lat": -37.8100932, "lng": 144.9610365 }, "geometry": { "type": "Point", "coordinates": [ 144.9610365, -37.8100932 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2111355131, "name": "Hype DC", "full_name": "Hype DC shop shoes", "lat": -37.8105988, "lng": 144.9645475 }, "geometry": { "type": "Point", "coordinates": [ 144.9645475, -37.8105988 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7320816524, "name": "RMIT Job Shop", "full_name": "RMIT Job Shop office employment_agency", "lat": -37.8081974, "lng": 144.9635489 }, "geometry": { "type": "Point", "coordinates": [ 144.9635489, -37.8081974 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3841976982, "name": "I ♥️ This Shop", "full_name": "I ♥️ This Shop shop gift", "lat": -37.8095315, "lng": 144.9607826 }, "geometry": { "type": "Point", "coordinates": [ 144.960782599999987, -37.8095315 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 844360708, "name": "Glue Store", "full_name": "Glue Store shop clothes", "lat": -37.811013, "lng": 144.96474 }, "geometry": { "type": "Point", "coordinates": [ 144.96474, -37.811013 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 593488402, "name": "nan", "full_name": "shop kiosk", "lat": -37.810103, "lng": 144.96395 }, "geometry": { "type": "Point", "coordinates": [ 144.96395, -37.810103 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11104136304, "name": "#1000 Bread", "full_name": "#1000 Bread wheelchair limited shop bakery level 0", "lat": -37.8109091, "lng": 144.9641878 }, "geometry": { "type": "Point", "coordinates": [ 144.9641878, -37.8109091 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 844361019, "name": "Mooks", "full_name": "Mooks shop clothes", "lat": -37.810653, "lng": 144.964613 }, "geometry": { "type": "Point", "coordinates": [ 144.964613, -37.810653 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2247266807, "name": "Firstfrost Store", "full_name": "Firstfrost Store shop clothes level 1", "lat": -37.8110506, "lng": 144.9642545 }, "geometry": { "type": "Point", "coordinates": [ 144.96425450000001, -37.8110506 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5982185679, "name": "Eckersley's Art & Craft", "full_name": "Eckersley's Art & Craft opening_hours Mo-Fr 08:00-18:00; Sa 10:00-17:00; Su 11:00-16:00 shop craft", "lat": -37.8077611, "lng": 144.9627529 }, "geometry": { "type": "Point", "coordinates": [ 144.9627529, -37.8077611 ] } }
+]
+}

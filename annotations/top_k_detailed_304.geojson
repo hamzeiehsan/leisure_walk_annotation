@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 48265741, "name": "City Parking 392 Bourke Street", "full_name": "City Parking 392 Bourke Street amenity parking building", "lat": -37.814165010700115, "lng": 144.9617625802793 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9620519, -37.8141417 ], [ 144.9619518, -37.8141695 ], [ 144.9620655, -37.8144253 ], [ 144.96195560000001, -37.8144547 ], [ 144.961694599999987, -37.8145298 ], [ 144.9616012, -37.8143273 ], [ 144.961403499999989, -37.8138987 ], [ 144.961465800000013, -37.8138808 ], [ 144.9615422, -37.8138588 ], [ 144.961567300000013, -37.8138516 ], [ 144.961608899999987, -37.8139419 ], [ 144.961705599999988, -37.813914 ], [ 144.961751600000014, -37.8139008 ], [ 144.9618336, -37.8138769 ], [ 144.9619209, -37.8138505 ], [ 144.9620519, -37.8141417 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3105262652, "name": "Street Art", "full_name": "Street Art tourism viewpoint", "lat": -37.8121549, "lng": 144.9644789 }, "geometry": { "type": "Point", "coordinates": [ 144.964478899999989, -37.8121549 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2322537658, "name": "Melbourne Optical Centre", "full_name": "Melbourne Optical Centre shop optician", "lat": -37.812611, "lng": 144.9622022 }, "geometry": { "type": "Point", "coordinates": [ 144.9622022, -37.812611 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1292397873, "name": "nan", "full_name": "shop vacant source survey", "lat": -37.814079, "lng": 144.9605284 }, "geometry": { "type": "Point", "coordinates": [ 144.960528399999987, -37.814079 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3132496574, "name": "Gog And Magog", "full_name": "Gog And Magog tourism artwork", "lat": -37.8149396, "lng": 144.964262 }, "geometry": { "type": "Point", "coordinates": [ 144.964262, -37.8149396 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2190478930, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8152117, "lng": 144.9636946 }, "geometry": { "type": "Point", "coordinates": [ 144.9636946, -37.8152117 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3394697046, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8121238, "lng": 144.9622723 }, "geometry": { "type": "Point", "coordinates": [ 144.9622723, -37.8121238 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3394697047, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8122868, "lng": 144.962027 }, "geometry": { "type": "Point", "coordinates": [ 144.962027, -37.8122868 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3394725368, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8147822, "lng": 144.9606853 }, "geometry": { "type": "Point", "coordinates": [ 144.9606853, -37.8147822 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2190483586, "name": "nan", "full_name": "highway traffic_signals", "lat": -37.8132429, "lng": 144.9627844 }, "geometry": { "type": "Point", "coordinates": [ 144.9627844, -37.8132429 ] } }
+]
+}

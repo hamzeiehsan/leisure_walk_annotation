@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2632102281, "name": "nan", "full_name": "amenity bbq access covered fuel electric", "lat": -37.8953411, "lng": 145.1975307 }, "geometry": { "type": "Point", "coordinates": [ 145.197530699999987, -37.8953411 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 270652136, "name": "Madeline's at Jells", "full_name": "Madeline's at Jells created_by Potlatch 0.9c amenity cafe", "lat": -37.8967535, "lng": 145.1964982 }, "geometry": { "type": "Point", "coordinates": [ 145.1964982, -37.8967535 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11294539635, "name": "nan", "full_name": "material wood bench leisure picnic_table", "lat": -37.8952288, "lng": 145.1986251 }, "geometry": { "type": "Point", "coordinates": [ 145.198625099999987, -37.8952288 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11294539631, "name": "nan", "full_name": "material wood bench leisure picnic_table", "lat": -37.8952255, "lng": 145.1977297 }, "geometry": { "type": "Point", "coordinates": [ 145.1977297, -37.8952255 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11294539627, "name": "nan", "full_name": "material wood bench leisure picnic_table", "lat": -37.8954176, "lng": 145.1981315 }, "geometry": { "type": "Point", "coordinates": [ 145.198131499999988, -37.8954176 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11294539626, "name": "nan", "full_name": "material wood bench leisure picnic_table", "lat": -37.8953003, "lng": 145.1982889 }, "geometry": { "type": "Point", "coordinates": [ 145.1982889, -37.8953003 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11294539625, "name": "nan", "full_name": "material wood bench leisure picnic_table", "lat": -37.8955007, "lng": 145.1975931 }, "geometry": { "type": "Point", "coordinates": [ 145.1975931, -37.8955007 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11294539623, "name": "nan", "full_name": "material wood bench leisure picnic_table", "lat": -37.8955666, "lng": 145.1971312 }, "geometry": { "type": "Point", "coordinates": [ 145.1971312, -37.8955666 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 688536245, "name": "nan", "full_name": "amenity shelter building shelter_type picnic_shelter", "lat": -37.895385978386798, "lng": 145.19736921347217 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.1973429, -37.8953249 ], [ 145.197432600000013, -37.8953453 ], [ 145.1973956, -37.895447 ], [ 145.1973058, -37.8954267 ], [ 145.1973246, -37.8953751 ], [ 145.1973429, -37.8953249 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11294539622, "name": "nan", "full_name": "amenity bbq access fuel electric", "lat": -37.896497, "lng": 145.1952458 }, "geometry": { "type": "Point", "coordinates": [ 145.1952458, -37.896497 ] } }
+]
+}

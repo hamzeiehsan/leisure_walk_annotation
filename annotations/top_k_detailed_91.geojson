@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8998978450, "name": "Dennis Lillee", "full_name": "Dennis Lillee historic memorial memorial statue", "lat": -37.8190612, "lng": 144.9818768 }, "geometry": { "type": "Point", "coordinates": [ 144.9818768, -37.8190612 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8378740950, "name": "Shane Warne", "full_name": "Shane Warne historic memorial memorial statue material bronze artist_name Louis Lauman", "lat": -37.8185211, "lng": 144.9831162 }, "geometry": { "type": "Point", "coordinates": [ 144.983116200000012, -37.8185211 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9488601171, "name": "Jim Stynes", "full_name": "Jim Stynes historic memorial memorial statue", "lat": -37.8179852, "lng": 144.9831792 }, "geometry": { "type": "Point", "coordinates": [ 144.9831792, -37.8179852 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8998978447, "name": "Betty Cuthbert", "full_name": "Betty Cuthbert historic memorial memorial statue", "lat": -37.8185644, "lng": 144.9841095 }, "geometry": { "type": "Point", "coordinates": [ 144.984109499999988, -37.8185644 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 778411844, "name": "nan", "full_name": "man_made bridge layer 2", "lat": -37.818444783466113, "lng": 144.97815077155704 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9765746, -37.8183062 ], [ 144.9797608, -37.8186719 ], [ 144.9797687, -37.818632 ], [ 144.9797762, -37.8185898 ], [ 144.976589, -37.8182223 ], [ 144.9765041, -37.8182656 ], [ 144.9765746, -37.8183062 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8998978451, "name": "Bill Ponsford", "full_name": "Bill Ponsford historic memorial memorial statue", "lat": -37.8198477, "lng": 144.9815502 }, "geometry": { "type": "Point", "coordinates": [ 144.981550199999987, -37.8198477 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8378725394, "name": "nan", "full_name": "operator MCC height 55 man_made flagpole lit subject Victoria description Victorian Flag", "lat": -37.8205545, "lng": 144.982212 }, "geometry": { "type": "Point", "coordinates": [ 144.982212, -37.8205545 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8378725393, "name": "nan", "full_name": "operator MCC height 55 man_made flagpole country AU lit subject Australia", "lat": -37.8205963, "lng": 144.9822431 }, "geometry": { "type": "Point", "coordinates": [ 144.9822431, -37.8205963 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9488601170, "name": "Kevin Bartlett", "full_name": "Kevin Bartlett historic memorial memorial statue", "lat": -37.8173642, "lng": 144.9832749 }, "geometry": { "type": "Point", "coordinates": [ 144.9832749, -37.8173642 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8998978446, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8187339, "lng": 144.9823207 }, "geometry": { "type": "Point", "coordinates": [ 144.9823207, -37.8187339 ] } }
+]
+}

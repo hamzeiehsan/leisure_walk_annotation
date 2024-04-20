@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 267164577, "name": "Mercantile Parade South Reserve", "full_name": "Mercantile Parade South Reserve leisure park source Bing", "lat": -37.7966685, "lng": 144.9207762 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.920809100000014, -37.7962516 ], [ 144.9212877, -37.7967739 ], [ 144.9207433, -37.7970854 ], [ 144.9202647, -37.7965631 ], [ 144.920809100000014, -37.7962516 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 267164575, "name": "Mercantile Parade North Reserve", "full_name": "Mercantile Parade North Reserve leisure park source Bing", "lat": -37.795659616138515, "lng": 144.92098804839526 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9215096, -37.7958313 ], [ 144.9210296, -37.7961048 ], [ 144.9204665, -37.795488 ], [ 144.920946500000014, -37.7952144 ], [ 144.9215096, -37.7958313 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9323184001, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7931608, "lng": 144.919771 }, "geometry": { "type": "Point", "coordinates": [ 144.919771, -37.7931608 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9384720809, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7944047, "lng": 144.9190623 }, "geometry": { "type": "Point", "coordinates": [ 144.9190623, -37.7944047 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9384720797, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7947402, "lng": 144.9198284 }, "geometry": { "type": "Point", "coordinates": [ 144.9198284, -37.7947402 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9311551046, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7930073, "lng": 144.919238 }, "geometry": { "type": "Point", "coordinates": [ 144.919238, -37.7930073 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9384745448, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.794727, "lng": 144.9193612 }, "geometry": { "type": "Point", "coordinates": [ 144.9193612, -37.794727 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9446961168, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7960151, "lng": 144.9210142 }, "geometry": { "type": "Point", "coordinates": [ 144.9210142, -37.7960151 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9384720789, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.7942011, "lng": 144.9194359 }, "geometry": { "type": "Point", "coordinates": [ 144.9194359, -37.7942011 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9366608943, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.793569, "lng": 144.9184341 }, "geometry": { "type": "Point", "coordinates": [ 144.918434100000013, -37.793569 ] } }
+]
+}

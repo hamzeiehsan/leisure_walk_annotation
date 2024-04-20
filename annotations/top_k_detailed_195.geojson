@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6357531487, "name": "Spa Nails Arcade", "full_name": "Spa Nails Arcade shop beauty beauty nails", "lat": -37.8139454, "lng": 144.9667134 }, "geometry": { "type": "Point", "coordinates": [ 144.9667134, -37.8139454 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6357531382, "name": "Modern Nails", "full_name": "Modern Nails shop beauty beauty nails", "lat": -37.8136928, "lng": 144.9664569 }, "geometry": { "type": "Point", "coordinates": [ 144.9664569, -37.8136928 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6357531381, "name": "Brow Lovelies", "full_name": "Brow Lovelies shop beauty", "lat": -37.8138625, "lng": 144.9666465 }, "geometry": { "type": "Point", "coordinates": [ 144.9666465, -37.8138625 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4976357657, "name": "Lisa’s Studio", "full_name": "Lisa’s Studio shop hairdresser", "lat": -37.8136001, "lng": 144.9664981 }, "geometry": { "type": "Point", "coordinates": [ 144.9664981, -37.8136001 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4976357655, "name": "Honey Blonde", "full_name": "Honey Blonde shop hairdresser", "lat": -37.8138883, "lng": 144.9665472 }, "geometry": { "type": "Point", "coordinates": [ 144.9665472, -37.8138883 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4269477972, "name": "The Hour Glass", "full_name": "The Hour Glass shop watches", "lat": -37.8156549, "lng": 144.9654089 }, "geometry": { "type": "Point", "coordinates": [ 144.9654089, -37.8156549 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9898727371, "name": "Muses of Mystery", "full_name": "Muses of Mystery check_date 2022-07-20 shop new_age level 2", "lat": -37.8167556, "lng": 144.9668154 }, "geometry": { "type": "Point", "coordinates": [ 144.9668154, -37.8167556 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6158222490, "name": "Paul Bram", "full_name": "Paul Bram shop jewelry", "lat": -37.8142385, "lng": 144.9661717 }, "geometry": { "type": "Point", "coordinates": [ 144.9661717, -37.8142385 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11135649027, "name": "Egetal", "full_name": "Egetal opening_hours Mo-We,Fr-Sa 10:00-17:00; Th 11:00-18:00; PH closed; Su closed wheelchair shop jewelry level 0", "lat": -37.8136338, "lng": 144.9687717 }, "geometry": { "type": "Point", "coordinates": [ 144.9687717, -37.8136338 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4269463946, "name": "Janai", "full_name": "Janai shop jewelry", "lat": -37.8160172, "lng": 144.9653444 }, "geometry": { "type": "Point", "coordinates": [ 144.9653444, -37.8160172 ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8624899328, "name": "Dragon Hot Pot", "full_name": "Dragon Hot Pot amenity restaurant opening_hours Mo-Su 11:00-23:00 cuisine chinese;hotpot outdoor_seating level 0", "lat": -37.8121849, "lng": 144.9647911 }, "geometry": { "type": "Point", "coordinates": [ 144.964791100000014, -37.8121849 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 594777050, "name": "Spicy Fish Restaurant", "full_name": "Spicy Fish Restaurant amenity restaurant cuisine chinese", "lat": -37.8123759, "lng": 144.9661687 }, "geometry": { "type": "Point", "coordinates": [ 144.9661687, -37.8123759 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1080070979, "name": "Seafood Mingle", "full_name": "Seafood Mingle amenity restaurant cuisine chinese level 1", "lat": -37.811561, "lng": 144.964039 }, "geometry": { "type": "Point", "coordinates": [ 144.964039, -37.811561 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2490526902, "name": "Fortune Alley", "full_name": "Fortune Alley amenity fast_food cuisine chinese level 0", "lat": -37.810831, "lng": 144.964151 }, "geometry": { "type": "Point", "coordinates": [ 144.964151, -37.810831 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10598258028, "name": "China Bar", "full_name": "China Bar amenity restaurant opening_hours 24/7 wheelchair limited cuisine chinese takeaway level 0", "lat": -37.8120822, "lng": 144.9647686 }, "geometry": { "type": "Point", "coordinates": [ 144.964768600000014, -37.8120822 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9962790250, "name": "Yi Fang Tea", "full_name": "Yi Fang Tea amenity cafe brand Yi Fang Tea cuisine bubble_tea takeaway branch Taiwan", "lat": -37.8107167, "lng": 144.9640564 }, "geometry": { "type": "Point", "coordinates": [ 144.9640564, -37.8107167 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3069620883, "name": "Shanghai Dumpling", "full_name": "Shanghai Dumpling amenity restaurant", "lat": -37.8120737, "lng": 144.965604 }, "geometry": { "type": "Point", "coordinates": [ 144.965604, -37.8120737 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 8221441121, "name": "Do Dee Paidang", "full_name": "Do Dee Paidang amenity restaurant cuisine thai", "lat": -37.8123053, "lng": 144.9648458 }, "geometry": { "type": "Point", "coordinates": [ 144.9648458, -37.8123053 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9845967017, "name": "Gong De Lin", "full_name": "Gong De Lin amenity restaurant cuisine asian", "lat": -37.8117815, "lng": 144.9651705 }, "geometry": { "type": "Point", "coordinates": [ 144.9651705, -37.8117815 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3066667898, "name": "Schnitz", "full_name": "Schnitz amenity fast_food brand Schnitz wheelchair cuisine chicken takeaway", "lat": -37.8101888, "lng": 144.9626274 }, "geometry": { "type": "Point", "coordinates": [ 144.9626274, -37.8101888 ] } }
+]
+}

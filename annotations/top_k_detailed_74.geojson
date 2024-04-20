@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4422320389, "name": "Maccaroni Trattoria Italiana", "full_name": "Maccaroni Trattoria Italiana amenity restaurant outdoor_seating", "lat": -37.8162854, "lng": 144.9661094 }, "geometry": { "type": "Point", "coordinates": [ 144.9661094, -37.8162854 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 1005020304, "name": "Lord of the Fries", "full_name": "Lord of the Fries level 0 amenity fast_food phone +61 3 9620 4876 wheelchair brand Lord of the Fries cuisine burger opening_hours Mo 10:00-19:00; Tu-We 10:00-21:00; Th 10:00-22:00; Fr 10:00-00:00; Sa 11:00-02:00; Su 11:00-20:00 takeaway", "lat": -37.818122, "lng": 144.9673805 }, "geometry": { "type": "Point", "coordinates": [ 144.9673805, -37.818122 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4118936291, "name": "Teatro", "full_name": "Teatro amenity restaurant", "lat": -37.8198185, "lng": 144.9675903 }, "geometry": { "type": "Point", "coordinates": [ 144.967590300000012, -37.8198185 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 598019076, "name": "Clocks at Flinders", "full_name": "Clocks at Flinders level 0 amenity pub", "lat": -37.81869, "lng": 144.967527 }, "geometry": { "type": "Point", "coordinates": [ 144.967527, -37.81869 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 7263799396, "name": "nan", "full_name": "amenity bicycle_parking bicycle_parking stands capacity 14", "lat": -37.8169127, "lng": 144.9697481 }, "geometry": { "type": "Point", "coordinates": [ 144.9697481, -37.8169127 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5856680742, "name": "nan", "full_name": "level -1 amenity vending_machine check_date 2022-04-07 vending drinks", "lat": -37.8183161, "lng": 144.9665761 }, "geometry": { "type": "Point", "coordinates": [ 144.9665761, -37.8183161 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5856680732, "name": "nan", "full_name": "level -1 amenity vending_machine check_date 2022-03-27 vending drinks", "lat": -37.8184804, "lng": 144.9666381 }, "geometry": { "type": "Point", "coordinates": [ 144.966638100000011, -37.8184804 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5856680720, "name": "nan", "full_name": "level -1 amenity vending_machine check_date 2022-09-15 vending drinks", "lat": -37.8181816, "lng": 144.9664968 }, "geometry": { "type": "Point", "coordinates": [ 144.966496799999987, -37.8181816 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5856680729, "name": "nan", "full_name": "level -1 amenity vending_machine check_date 2022-07-14 vending drinks", "lat": -37.8180066, "lng": 144.966452 }, "geometry": { "type": "Point", "coordinates": [ 144.966452, -37.8180066 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11464592920, "name": "Pidapipó CBD", "full_name": "Pidapipó CBD amenity ice_cream opening_hours Mo-Su 12:00-23:00", "lat": -37.8176054, "lng": 144.965963 }, "geometry": { "type": "Point", "coordinates": [ 144.965963, -37.8176054 ] } }
+]
+}

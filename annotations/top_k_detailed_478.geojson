@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 5425815966, "name": "Bean Stalker", "full_name": "Bean Stalker amenity cafe", "lat": -37.7823384, "lng": 144.9519725 }, "geometry": { "type": "Point", "coordinates": [ 144.951972500000011, -37.7823384 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 550623006, "name": "nan", "full_name": "natural water attraction animal zoo enclosure", "lat": -37.78386277790289, "lng": 144.95167454598095 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.951676099999986, -37.7838307 ], [ 144.9516539, -37.7838477 ], [ 144.951645899999988, -37.7838721 ], [ 144.951645899999988, -37.7838917 ], [ 144.951659299999989, -37.7839049 ], [ 144.9516787, -37.7839081 ], [ 144.9516854, -37.7838631 ], [ 144.9517223, -37.783827 ], [ 144.951694800000013, -37.7838244 ], [ 144.951676099999986, -37.7838307 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10172957725, "name": "nan", "full_name": "natural tree", "lat": -37.7838431, "lng": 144.9519734 }, "geometry": { "type": "Point", "coordinates": [ 144.951973400000014, -37.7838431 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10172957724, "name": "nan", "full_name": "natural tree", "lat": -37.7842149, "lng": 144.9517071 }, "geometry": { "type": "Point", "coordinates": [ 144.9517071, -37.7842149 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10172957719, "name": "nan", "full_name": "natural tree", "lat": -37.7842161, "lng": 144.9518057 }, "geometry": { "type": "Point", "coordinates": [ 144.9518057, -37.7842161 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10172957723, "name": "nan", "full_name": "natural tree", "lat": -37.7842956, "lng": 144.9516471 }, "geometry": { "type": "Point", "coordinates": [ 144.9516471, -37.7842956 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10172957720, "name": "nan", "full_name": "natural tree", "lat": -37.7842193, "lng": 144.9519815 }, "geometry": { "type": "Point", "coordinates": [ 144.951981499999988, -37.7842193 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10172957721, "name": "nan", "full_name": "natural tree", "lat": -37.7843744, "lng": 144.951794 }, "geometry": { "type": "Point", "coordinates": [ 144.951794, -37.7843744 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10172957722, "name": "nan", "full_name": "natural tree", "lat": -37.7844278, "lng": 144.9517239 }, "geometry": { "type": "Point", "coordinates": [ 144.9517239, -37.7844278 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 112648016, "name": "nan", "full_name": "building attraction animal zoo enclosure", "lat": -37.783802559536447, "lng": 144.95222524712037 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.952096, -37.7840299 ], [ 144.952035099999989, -37.7838162 ], [ 144.952179699999988, -37.7837904 ], [ 144.9521406, -37.7836529 ], [ 144.952377500000011, -37.7836108 ], [ 144.9524308, -37.7837981 ], [ 144.9522078, -37.7838378 ], [ 144.9522514, -37.7839908 ], [ 144.952096, -37.7840299 ] ] ] } }
+]
+}

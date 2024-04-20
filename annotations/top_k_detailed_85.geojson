@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 969576671, "name": "nan", "full_name": "amenity parking", "lat": -37.8202445, "lng": 144.9733584 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.973320699999988, -37.8202029 ], [ 144.9734229, -37.8202394 ], [ 144.9733961, -37.8202861 ], [ 144.973293899999987, -37.8202496 ], [ 144.973320699999988, -37.8202029 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 22977506, "name": "nan", "full_name": "access fee amenity parking barrier fence layer 1 building opening_hours 24/7 parking multi-storey", "lat": -37.817764357239497, "lng": 144.97142481091805 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.971948200000014, -37.8174231 ], [ 144.9719792, -37.8174955 ], [ 144.972035299999988, -37.8176266 ], [ 144.9721869, -37.8175916 ], [ 144.9722486, -37.8177706 ], [ 144.971118, -37.8179995 ], [ 144.9709101, -37.8180715 ], [ 144.9707774, -37.8181086 ], [ 144.9706961, -37.8178887 ], [ 144.9706124, -37.8177844 ], [ 144.9709785, -37.8176827 ], [ 144.9709866, -37.8176986 ], [ 144.971948200000014, -37.8174231 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11311080740, "name": "nan", "full_name": "amenity bench", "lat": -37.8188991, "lng": 144.9728296 }, "geometry": { "type": "Point", "coordinates": [ 144.972829600000011, -37.8188991 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11311117646, "name": "nan", "full_name": "amenity bench", "lat": -37.818713, "lng": 144.9723196 }, "geometry": { "type": "Point", "coordinates": [ 144.9723196, -37.818713 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11311115044, "name": "nan", "full_name": "amenity bench", "lat": -37.8187198, "lng": 144.9724282 }, "geometry": { "type": "Point", "coordinates": [ 144.9724282, -37.8187198 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11311109748, "name": "nan", "full_name": "amenity bench", "lat": -37.8187561, "lng": 144.9725994 }, "geometry": { "type": "Point", "coordinates": [ 144.9725994, -37.8187561 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11311097177, "name": "nan", "full_name": "amenity bench", "lat": -37.8187843, "lng": 144.9727011 }, "geometry": { "type": "Point", "coordinates": [ 144.9727011, -37.8187843 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11311087577, "name": "nan", "full_name": "amenity bench", "lat": -37.818697, "lng": 144.9721672 }, "geometry": { "type": "Point", "coordinates": [ 144.9721672, -37.818697 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11311086766, "name": "nan", "full_name": "amenity bench", "lat": -37.8187669, "lng": 144.972646 }, "geometry": { "type": "Point", "coordinates": [ 144.972646, -37.8187669 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11311083797, "name": "nan", "full_name": "amenity bench", "lat": -37.8187109, "lng": 144.9722547 }, "geometry": { "type": "Point", "coordinates": [ 144.9722547, -37.8187109 ] } }
+]
+}

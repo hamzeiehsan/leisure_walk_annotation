@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 592643659, "name": "Fine Grind", "full_name": "Fine Grind amenity cafe", "lat": -37.8178708, "lng": 144.9652106 }, "geometry": { "type": "Point", "coordinates": [ 144.9652106, -37.8178708 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 3276141235, "name": "Dukes Coffee Roasters", "full_name": "Dukes Coffee Roasters wheelchair amenity cafe cuisine coffee_shop", "lat": -37.8167849, "lng": 144.9661412 }, "geometry": { "type": "Point", "coordinates": [ 144.96614120000001, -37.8167849 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 2243029631, "name": "Starbucks", "full_name": "Starbucks brand Starbucks official_name Starbucks Coffee amenity cafe cuisine coffee_shop takeaway", "lat": -37.817934, "lng": 144.965031 }, "geometry": { "type": "Point", "coordinates": [ 144.965031, -37.817934 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 607756381, "name": "Gloria Jean's", "full_name": "Gloria Jean's brand Gloria Jean's official_name Gloria Jean's Coffees amenity cafe cuisine coffee_shop takeaway", "lat": -37.8180841, "lng": 144.9646129 }, "geometry": { "type": "Point", "coordinates": [ 144.9646129, -37.8180841 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10979862105, "name": "Cafe Andiamo", "full_name": "Cafe Andiamo amenity cafe", "lat": -37.8170187, "lng": 144.9657481 }, "geometry": { "type": "Point", "coordinates": [ 144.965748100000013, -37.8170187 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 11466742439, "name": "Plus Coffee & Co", "full_name": "Plus Coffee & Co wheelchair amenity cafe cuisine coffee_shop", "lat": -37.8171521, "lng": 144.9649344 }, "geometry": { "type": "Point", "coordinates": [ 144.9649344, -37.8171521 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4422320390, "name": "Café Andiamo", "full_name": "Café Andiamo phone +61 3 9650 8060 amenity restaurant check_date 2022-07-20 level 0 cuisine italian outdoor_seating", "lat": -37.8171057, "lng": 144.9657409 }, "geometry": { "type": "Point", "coordinates": [ 144.965740899999986, -37.8171057 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6060217813, "name": "Brunetti", "full_name": "Brunetti amenity cafe", "lat": -37.8166972, "lng": 144.965816 }, "geometry": { "type": "Point", "coordinates": [ 144.965816, -37.8166972 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 4737591531, "name": "SeedLing Cafe", "full_name": "SeedLing Cafe wheelchair limited amenity cafe level 0 cuisine coffee_shop takeaway outdoor_seating", "lat": -37.817015, "lng": 144.9653734 }, "geometry": { "type": "Point", "coordinates": [ 144.9653734, -37.817015 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 6384798996, "name": "Chapter House Coffee", "full_name": "Chapter House Coffee amenity cafe alt_name chc source survey", "lat": -37.8164039, "lng": 144.9679146 }, "geometry": { "type": "Point", "coordinates": [ 144.9679146, -37.8164039 ] } }
+]
+}

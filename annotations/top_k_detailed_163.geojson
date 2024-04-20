@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9689241594, "name": "nan", "full_name": "amenity post_box operator Australia Post", "lat": -37.8341614, "lng": 144.9822366 }, "geometry": { "type": "Point", "coordinates": [ 144.9822366, -37.8341614 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9106436703, "name": "nan", "full_name": "natural tree", "lat": -37.8328381, "lng": 144.983143 }, "geometry": { "type": "Point", "coordinates": [ 144.983143, -37.8328381 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9106436702, "name": "nan", "full_name": "natural tree", "lat": -37.8330231, "lng": 144.9830127 }, "geometry": { "type": "Point", "coordinates": [ 144.983012699999989, -37.8330231 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 517143718, "name": "Burns' Grocery LPO", "full_name": "Burns' Grocery LPO amenity post_office operator Australia Post brand Australia Post phone +61 3 9866 2164 shop convenience", "lat": -37.8341478, "lng": 144.9815358 }, "geometry": { "type": "Point", "coordinates": [ 144.981535799999989, -37.8341478 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 730314209, "name": "South Yarra Finer Fruit", "full_name": "South Yarra Finer Fruit phone +61 3 9866 2746 shop greengrocer opening_hours Mo-Th 7:00-19:00; Fr 7:00-18:00; Sa 7:00-18:00; Su 8:00-18:00", "lat": -37.8343193, "lng": 144.9823458 }, "geometry": { "type": "Point", "coordinates": [ 144.9823458, -37.8343193 ] } },
+{ "type": "Feature", "properties": { "osm_type": "way", "osm_id": 996934678, "name": "nan", "full_name": "amenity parking", "lat": -37.834908571635182, "lng": 144.98139147828294 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.9812182, -37.8348152 ], [ 144.981593, -37.8348625 ], [ 144.9815648, -37.8350019 ], [ 144.98119, -37.8349547 ], [ 144.9812182, -37.8348152 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 9333654478, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8329401, "lng": 144.9800898 }, "geometry": { "type": "Point", "coordinates": [ 144.9800898, -37.8329401 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10572742019, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8340257, "lng": 144.9822293 }, "geometry": { "type": "Point", "coordinates": [ 144.9822293, -37.8340257 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10572742025, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8345173, "lng": 144.9823654 }, "geometry": { "type": "Point", "coordinates": [ 144.9823654, -37.8345173 ] } },
+{ "type": "Feature", "properties": { "osm_type": "node", "osm_id": 10572742043, "name": "nan", "full_name": "amenity waste_basket", "lat": -37.8340565, "lng": 144.9824673 }, "geometry": { "type": "Point", "coordinates": [ 144.9824673, -37.8340565 ] } }
+]
+}
