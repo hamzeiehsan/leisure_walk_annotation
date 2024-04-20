@@ -100,7 +100,7 @@
                         <button type="button" class="btn btn-secondary" id="add-more">Add More</button>
                     </div>
                     <div class="col-md-4">
-                        <button type="button" class="btn btn-primary">Submit</button>
+                        <button type="button" class="btn btn-primary" id="submit-button">Submit</button>
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@
         const queryParams = new URLSearchParams(window.location.search);
 
         // Get the page number from URL query parameters or default to -1
-        var page = queryParams.get('page') || -1;
+        page = queryParams.get('page') || -1;
 
         document.addEventListener('DOMContentLoaded', function() {
             fetch(`/get-case-info?page=${page}`)
@@ -222,6 +222,42 @@
                     });
                 })
                 .catch(error => console.error('Error loading the information:', error));
+        });
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const submitButton = document.getElementById('submit-button');
+            submitButton.addEventListener('click', function() {
+                const dataToSend = [{page: page}];
+                const rows = document.querySelectorAll('#form-content .form-row:not(.button-row)');
+                rows.forEach(row => {
+                    const select = row.querySelector('.input-type-select');
+                    const input = row.querySelector('.input-osm-id');
+                    if (input.value.trim() !== '') {  // Only include rows where the text input is not empty
+                        dataToSend.push({
+                            type: select.value,
+                            osm_id: input.value,
+                        });
+                    }
+                });
+    
+                // Send data to Flask endpoint
+                fetch('/save-data', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(dataToSend)
+                })
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data.message);  // Log the response from the server
+                    // Redirect to the next page
+                    const queryParams = new URLSearchParams(window.location.search);
+                    const nextPage = page + 1;
+                    window.location.href = `?page=${nextPage}`;
+                })
+                .catch(error => console.error('Error submitting data:', error));
+            });
         });
     </script>
 </body>

@@ -114,22 +114,10 @@ def read_annotated_records():
 
 records = read_annotated_records()
 
-def add_to_annotation(case_id, annotations):
-    if case_id != len(records):
-        logger.error('something is wrong as the annotation records do not match the case_id')
-        raise RuntimeError()
+def add_to_annotation(annotations):
     records.append(annotations)
     save_annotated_records()
     logger.info(f'annotation is successfully captured: #record: {len(records)}')
-
-
-def edit_annotation(case_id, annotations):
-    if len(records) <= case_id:
-        logger.error(f'you cannot edit a record which is not captured yet! {len(records)} - {case_id}')
-        raise RuntimeError()
-    records[case_id] = annotations
-    save_annotated_records(force_save=True)
-    logger.info(f'annotation is successfully updated: #record: {len(records)}')
 
 
 def return_bbox(location, get_data_output):
@@ -157,12 +145,25 @@ def get_case_info(case_id=len(records)):
     page = int(request.args.get('page', -1))
     if page >= 0:
         case_id = page
+    else:
+        for record in records:
+            if record[0]['page'] >= len(records):
+                case_id = record[0]['page'] + 1
     output = get_case_information(case_id)
     print(output)
     get_data_output = get_annotation_data(case_id)
     output['table'] = get_data_output
     print(output)
     return jsonify(output)
+
+
+@app.route('/save-data', methods=['POST'])
+def save_data():
+    data = request.get_json()
+    print(data)
+    add_to_annotation(data)
+    return jsonify({"status": "success", "message": "Data received successfully!"})
+
 
 
 if __name__ == '__main__':
