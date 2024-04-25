@@ -1,7 +1,6 @@
 import json
 import os
 import pandas as pd
-import geopandas as gpd
 from loguru import logger
 
 from flask import Flask, render_template, jsonify, request
