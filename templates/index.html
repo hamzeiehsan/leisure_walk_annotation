@@ -54,6 +54,7 @@
                 <thead>
                     <tr class="table-header">
                         <th>Select</th>
+                        <th>Row ID</th>
                         <th>Type</th>
                         <th>OSM ID</th>
                         <th>Information</th>
@@ -62,18 +63,21 @@
                 <tbody>
                     <tr class="table-row-light">
                         <td><input type="checkbox" class="select-row"></td>
+                        <td>1</td>
                         <td>Node</td>
                         <td>12345</td>
                         <td>highway=primary; name=Main St</td>
                     </tr>
                     <tr class="table-row-white">
                         <td><input type="checkbox" class="select-row"></td>
+                        <td>2</td>
                         <td>Way</td>
                         <td>67890</td>
                         <td>building=yes; levels=10</td>
                     </tr>
                     <tr class="table-row-light">
                         <td><input type="checkbox" class="select-row"></td>
+                        <td>3</td>
                         <td>Relation</td>
                         <td>54321</td>
                         <td>type=route; route=bus; network=City Bus</td>
@@ -204,10 +208,12 @@
                         var cell2 = row.insertCell(1);
                         var cell3 = row.insertCell(2);
                         var cell4 = row.insertCell(3);
+                        var cell5 = row.insertCell(4);
                         cell1.innerHTML = `<input type='checkbox' class='select-row'>`;
-                        cell2.textContent = rowData.osm_type;
-                        cell3.textContent = rowData.osm_id;
-                        cell4.textContent = rowData.name + ' ' + rowData.full_name;
+                        cell2.textContent = rowData.row_id
+                        cell3.textContent = rowData.osm_type;
+                        cell4.textContent = rowData.osm_id;
+                        cell5.textContent = rowData.name + ' ' + rowData.full_name;
                         
                         var marker = L.marker([rowData.lat, rowData.lng], {icon: L.icon({
                             iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',

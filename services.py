@@ -43,6 +43,7 @@ def get_annotation_data(case_id):
             row['full_name'] = geocoding_row['full_name']
             found = True
             break
+    
     if found:
         return topk_rows
     return [geocoding_row] + topk_rows
@@ -70,6 +71,7 @@ def get_annotation_topk(case_id):
     rows = topk_df[topk_df['index'] == case_id]
     rows.fillna('', inplace=True)
     logger.debug(f'raw_results:\n{rows}')
+    print(rows.reset_index().to_dict(orient='records'))
     rows_dict = rows.to_dict(orient='records')
     logger.debug(f'rows dictionary: {rows_dict}')
     return rows_dict
@@ -113,12 +115,28 @@ def read_annotated_records():
 
 records = read_annotated_records()
 
-for record in records:
-    if len(record) > 1:
+flags = []
+fixed_flags = []
+last_page = 0
+for ridx, record in enumerate(records):
+    if len(record) > 0:
+        fixed = False
         page = record[0]['page']
+        if page in flags:
+            fixed = True
+        if page > last_page:
+            last_page = page
+        
         for idx, r in enumerate(record):
             if idx > 0 and str(r['osm_id']).lower() == 'flag':
-                logger.warning(f'FLAG case - PAGE: {page}')
+                fixed = False
+                flags.append(page)
+        if fixed:
+            fixed_flags.append(page)
+for page in flags:
+    if page not in fixed_flags:
+        logger.warning(f'FLAG case - PAGE: {page}')
+print(f'already fixed: {fixed_flags}')       
 
 def add_to_annotation(annotations):
     records.append(annotations)
@@ -147,7 +165,7 @@ def return_bbox(location, get_data_output):
 
 
 @app.route('/get-case-info')
-def get_case_info(case_id=len(records)):
+def get_case_info(case_id=last_page):
     page = int(request.args.get('page', -1))
     if page >= 0:
         case_id = page
@@ -158,7 +176,11 @@ def get_case_info(case_id=len(records)):
     output = get_case_information(case_id)
     print(output)
     get_data_output = get_annotation_data(case_id)
-    output['table'] = get_data_output
+    refined_data_output = []
+    for idx, datapoint in enumerate(get_data_output):
+        datapoint['row_id'] = idx+1
+        refined_data_output.append(datapoint)
+    output['table'] = refined_data_output
     print(output)
     return jsonify(output)
 
