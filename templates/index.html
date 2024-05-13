@@ -117,8 +117,8 @@
             if (e.target.classList.contains('select-row')) {
                 var checkbox = e.target;
                 var cells = checkbox.parentNode.parentNode.cells;
-                var type = cells[1].textContent;
-                var osmId = cells[2].textContent;
+                var type = cells[2].textContent;
+                var osmId = cells[3].textContent;
 
                 if (checkbox.checked) {
                     addInputRow(type, osmId);
